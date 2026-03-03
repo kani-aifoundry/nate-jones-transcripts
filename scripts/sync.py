@@ -36,9 +36,12 @@ PROGRESS_FILE = BASE_DIR / "progress.json"
 LOG_FILE = Path.home() / "scripts" / "nate-sync.log"
 CHANNEL_URL = "https://www.youtube.com/@NateBJones/videos"
 
-# Rate limiting
-MIN_DELAY = 1
-MAX_DELAY = 3
+# Rate limiting - conservative to avoid IP bans
+MIN_DELAY = 3
+MAX_DELAY = 6
+BATCH_SIZE = 10  # Take a longer break every N videos
+BATCH_BREAK = 60  # Seconds to pause between batches
+MAX_CONSECUTIVE_ERRORS = 3  # Stop after this many errors in a row
 
 
 def log(msg):
@@ -249,6 +252,7 @@ def main():
 
     # Process videos
     success_count = 0
+    consecutive_errors = 0
     for i, video_id in enumerate(all_to_process, 1):
         log(f"[{i}/{len(all_to_process)}] Processing {video_id}...")
 
@@ -258,7 +262,7 @@ def main():
             if not metadata:
                 metadata = {"video_id": video_id, "url": f"https://www.youtube.com/watch?v={video_id}"}
 
-            time.sleep(random.uniform(0.5, 1.5))
+            time.sleep(random.uniform(1, 2))
 
             # Get transcript (free)
             transcript = get_transcript_free(video_id)
@@ -271,21 +275,38 @@ def main():
             progress["completed"].append(video_id)
             save_progress(progress)
             success_count += 1
+            consecutive_errors = 0  # Reset on success
 
             # Rate limiting
             if i < len(all_to_process):
-                delay = random.uniform(MIN_DELAY, MAX_DELAY)
-                time.sleep(delay)
+                if success_count % BATCH_SIZE == 0:
+                    log(f"  Batch break: {BATCH_BREAK}s cooldown...")
+                    time.sleep(BATCH_BREAK)
+                else:
+                    delay = random.uniform(MIN_DELAY, MAX_DELAY)
+                    time.sleep(delay)
 
         except Exception as e:
             error_msg = str(e)
-            log(f"  ERROR: {error_msg}")
-            progress["failed"].append({
-                "id": video_id,
-                "reason": error_msg,
-                "time": datetime.now().isoformat()
-            })
-            save_progress(progress)
+            consecutive_errors += 1
+
+            # Detect IP ban / rate limit
+            if "blocking" in error_msg.lower() or "IP" in error_msg:
+                log(f"  IP blocked by YouTube. Got {success_count} transcripts before block.")
+                log(f"  Remaining videos will be retried on next run.")
+                # Don't add to failed list — just skip for now
+                break
+            elif consecutive_errors >= MAX_CONSECUTIVE_ERRORS:
+                log(f"  {MAX_CONSECUTIVE_ERRORS} consecutive errors — stopping to avoid ban.")
+                break
+            else:
+                log(f"  ERROR: {error_msg[:200]}")
+                progress["failed"].append({
+                    "id": video_id,
+                    "reason": error_msg[:200],
+                    "time": datetime.now().isoformat()
+                })
+                save_progress(progress)
 
     # Update video_ids.txt with any new IDs
     all_known_ids = list(existing_ids | set(channel_ids))
