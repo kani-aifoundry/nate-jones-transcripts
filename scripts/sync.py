@@ -238,7 +238,12 @@ def main():
     # Also retry any in video_ids.txt that haven't been completed
     retry_ids = [vid for vid in existing_ids if vid not in completed]
 
-    all_to_process = new_ids + retry_ids
+    # Retry previously failed videos (e.g. from IP blocks)
+    failed_ids = [f["id"] for f in progress.get("failed", []) if f["id"] not in completed]
+    # Clear the failed list — they'll be re-added if they fail again
+    progress["failed"] = []
+
+    all_to_process = new_ids + [vid for vid in failed_ids if vid not in set(new_ids)] + retry_ids
     log(f"Channel videos: {len(channel_ids)}")
     log(f"Already completed: {len(completed)}")
     log(f"New videos: {len(new_ids)}")
