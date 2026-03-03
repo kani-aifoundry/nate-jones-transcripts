@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "artifacts"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "meta"
+  - "o3"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -43,25 +67,6 @@ summary:
   - "5 Pro, o3 Work Skills, Plus AI Landscape Review post-o3
 
 Do you remember where you were when chat GPT first came out"
-keywords:
-  - "ai-tools"
-  - "artifacts"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "meta"
-  - "o3"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "startups"
-  - "tutorials"
 ---
 
 # ChatGPT o3: Model Breakdown vs. Gemini 2.5 Pro, o3 Work Skills, Plus AI Landscape Review post-o3

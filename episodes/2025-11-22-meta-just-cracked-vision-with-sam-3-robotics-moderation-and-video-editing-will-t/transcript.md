@@ -28,6 +28,30 @@ yt_tags:
   - "AI jobs for teams"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "coding"
+  - "cursor"
+  - "figma"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "nano-banana"
+  - "openai"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -65,25 +89,6 @@ summary:
   - "# Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform
 
 This was one of the biggest weeks in AI that I can remember"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "coding"
-  - "cursor"
-  - "figma"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "nano-banana"
-  - "openai"
-  - "product-management"
-  - "workflows"
 ---
 
 # Meta Just Cracked Vision with SAM 3: Robotics, Moderation, and Video Editing Will Transform

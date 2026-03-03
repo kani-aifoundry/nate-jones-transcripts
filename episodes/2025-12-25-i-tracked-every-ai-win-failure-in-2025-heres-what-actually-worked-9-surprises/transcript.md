@@ -28,6 +28,23 @@ yt_tags:
   - "cursor AI"
   - "AI system design"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "model-context-protocol"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -55,17 +72,6 @@ summary:
   - "Here's What Actually Worked (9 Surprises)
 
 You know, 2025 didn't deliver the science fiction version of AI that gets lots of clicks, but it exceeded my expectation in ways that matter more"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "model-context-protocol"
-  - "product-management"
-  - "workflows"
 ---
 
 # I Tracked Every AI Win & Failure in 2025. Here's What Actually Worked (9 Surprises)

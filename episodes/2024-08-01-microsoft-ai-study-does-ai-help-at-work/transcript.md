@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "github"
+  - "leadership"
+  - "microsoft"
+  - "product-management"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -35,17 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "github"
-  - "leadership"
-  - "microsoft"
-  - "product-management"
-  - "workflows"
-  - "youtube"
 ---
 
 # Microsoft AI study: Does AI help at work?

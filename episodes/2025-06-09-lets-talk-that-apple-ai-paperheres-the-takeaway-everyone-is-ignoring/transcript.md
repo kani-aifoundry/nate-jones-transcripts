@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -41,19 +57,6 @@ summary:
   - "# Let's Talk THAT Apple AI Paper—Here's the Takeaway Everyone is Ignoring
 
 The internet is melting down over the Apple research paper"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "x"
 ---
 
 # Let's Talk THAT Apple AI Paper—Here's the Takeaway Everyone is Ignoring

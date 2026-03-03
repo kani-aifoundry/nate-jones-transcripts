@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "amazon"
+  - "career"
+  - "linkedin"
+  - "product-management"
+  - "startups"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,14 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "amazon"
-  - "career"
-  - "linkedin"
-  - "product-management"
-  - "startups"
-  - "youtube"
 ---
 
 # Intro to Nate

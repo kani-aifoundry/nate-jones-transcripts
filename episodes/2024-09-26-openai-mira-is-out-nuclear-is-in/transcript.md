@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,15 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "startups"
 ---
 
 # OpenAI: Mira is out, nuclear is in

@@ -9,6 +9,21 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "career"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
+
+# AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"
 difficulty: "Intermediate"
@@ -29,15 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "career"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # The secret to getting better at job interviews: your job is to de-risk your candidacy for the role

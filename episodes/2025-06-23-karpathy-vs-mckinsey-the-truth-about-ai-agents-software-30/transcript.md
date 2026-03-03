@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "apple"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "projects"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,15 +52,6 @@ summary:
   - "0)
 
 There's a war at the heart of AI between the business consultants and the builders"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "apple"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "projects"
-  - "startups"
 ---
 
 # Karpathy vs. McKinsey: The Truth About AI Agents (Software 3.0)

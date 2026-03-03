@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -32,18 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # First Evidence of AI Faking Alignment—HUGE Deal—Study on Claude Opus 3 by Anthropic

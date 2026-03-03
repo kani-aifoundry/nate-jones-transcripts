@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "canvas"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -39,17 +55,6 @@ summary:
   - "# AI is not a chatbot:  the AI chatbot UX is cheating our brains
 
 AI is not a chat box it's just not and I want to talk about that because I think that we have overstated the value of the chatbot beca"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "canvas"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "twitter"
 ---
 
 # AI is not a chatbot:  the AI chatbot UX is cheating our brains

@@ -29,6 +29,22 @@ yt_tags:
   - "AI productivity tools"
   - "AI at work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "arc"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,17 +70,6 @@ summary:
   - "# The AI Expertise Bottleneck: How Top 1% Pros Are Scaling Faster Than Ever
 
 For thousands of years, there have been only three ways to scale your expertise"
-keywords:
-  - "ai-strategy"
-  - "arc"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "tutorials"
 ---
 
 # The AI Expertise Bottleneck: How Top 1% Pros Are Scaling Faster Than Ever

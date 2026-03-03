@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -35,19 +53,6 @@ concepts:
   []
 summary:
   - "# AI News This Week: Large Language Models for Developers and Kids"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "youtube"
 ---
 
 # AI News This Week: Large Language Models for Developers and Kids!

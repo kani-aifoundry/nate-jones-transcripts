@@ -28,6 +28,26 @@ yt_tags:
   - "pull request drafting"
   - "command line install"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -56,22 +76,6 @@ summary:
   - "# Codex vs Claude Code: The Winner Isn't Even Close (Strategic Thinking Test)
 
 Codex is hands down the best strategic thinking partner that I have found for technically adjacent problems"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Codex vs Claude Code: The Winner Isn't Even Close (Strategic Thinking Test)

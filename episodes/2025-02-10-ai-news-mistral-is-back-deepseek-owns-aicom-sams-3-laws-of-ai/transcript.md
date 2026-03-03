@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mistral"
+  - "sora"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,15 +49,6 @@ concepts:
   []
 summary:
   - "3% of the internet's traffic for number six well what's number one oh it's google"
-keywords:
-  - "ai-news"
-  - "career"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mistral"
-  - "sora"
 ---
 
 # AI News: Mistral is back, DeepSeek owns AI.com, Sam's 3 Laws of AI

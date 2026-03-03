@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "google"
+  - "grammarly"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -33,17 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "google"
-  - "grammarly"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Grammarly Authorship: AI Detection Does Not Work

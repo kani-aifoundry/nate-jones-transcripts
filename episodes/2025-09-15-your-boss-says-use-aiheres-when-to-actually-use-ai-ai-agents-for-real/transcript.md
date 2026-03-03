@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "box"
+  - "career"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -38,18 +56,6 @@ summary:
   - "'—Here's When to Actually Use AI & AI Agents For Real
 
 Nate, when do I use AI"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "box"
-  - "career"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # Your Boss says 'Use AI!'—Here's When to Actually Use AI & AI Agents For Real

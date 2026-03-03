@@ -11,6 +11,14 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -31,11 +39,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "twitter"
 ---
 
 # AI and Politics: Trump, Elon, and Taylor Swift - Huge Opportunity for AI Builders

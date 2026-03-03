@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "apple"
+  - "career"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "o1"
+  - "openai"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -36,19 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "apple"
-  - "career"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "o1"
-  - "openai"
-  - "startups"
 ---
 
 # OpenAI o1 and o1 Pro are OUT Today: Here's why Pro costs $200--breakdown of OpenAI pricing strategy

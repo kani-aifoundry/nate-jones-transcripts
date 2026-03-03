@@ -28,6 +28,37 @@ yt_tags:
   - "monetization strategy"
   - "LLMs for builders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "salesforce"
+  - "startups"
+  - "stripe"
+  - "tailwind"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -63,31 +94,6 @@ concepts:
   []
 summary:
   - "# Make $500-$5K/mo with ChatGPT—Steal my Side-Gig System and Build Your Hustle with AI"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "salesforce"
-  - "startups"
-  - "stripe"
-  - "tailwind"
-  - "tutorials"
 ---
 
 # Make $500-$5K/mo with ChatGPT—Steal my Side-Gig System and Build Your Hustle with AI!

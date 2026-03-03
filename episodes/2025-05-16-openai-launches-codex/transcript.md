@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -41,23 +62,6 @@ summary:
   - "# OpenAI Launches Codex
 
 Because OpenAI has the biggest footprint in the industry"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "openai"
-  - "product-management"
 ---
 
 # OpenAI Launches Codex

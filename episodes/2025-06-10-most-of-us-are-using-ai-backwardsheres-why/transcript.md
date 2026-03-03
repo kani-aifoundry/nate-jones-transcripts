@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -39,20 +58,6 @@ summary:
   - "# Most of Us Are Using AI Backwards—Here's Why
 
 I want to suggest that most of us are using AI a little bit backwards"
-keywords:
-  - "ai-news"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Most of Us Are Using AI Backwards—Here's Why

@@ -25,6 +25,34 @@ yt_tags:
   - "AI for professionals"
   - "AI strategy 2026"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "airbnb"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "sora"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -63,28 +91,6 @@ summary:
   - "# What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)
 
 Today we're going to look at which AI strategy is going to win in 2026"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "airbnb"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "sora"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # What Sam Altman and Dario Amodei Disagree About (And Why It Matters for You)

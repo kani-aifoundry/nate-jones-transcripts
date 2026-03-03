@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "artifacts"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,20 +59,6 @@ summary:
   - "# The 10 Biggest ChatGPT-5 Problems & How to Fix Them
 
 So, the response to chat GPT5 has been a little bit like watching a mob with pitchforks come to the vampires castle"
-keywords:
-  - "ai-tools"
-  - "artifacts"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # The 10 Biggest ChatGPT-5 Problems & How to Fix Them

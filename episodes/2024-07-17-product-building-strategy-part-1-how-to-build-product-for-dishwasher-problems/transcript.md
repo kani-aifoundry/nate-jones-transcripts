@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "deep-dives"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "netflix"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,18 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "deep-dives"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "netflix"
-  - "product-management"
-  - "tutorials"
 ---
 
 # Product Building Strategy Part 1: How to build product for Dishwasher Problems

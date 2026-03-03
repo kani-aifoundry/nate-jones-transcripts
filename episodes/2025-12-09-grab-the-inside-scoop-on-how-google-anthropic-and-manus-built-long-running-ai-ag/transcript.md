@@ -28,6 +28,26 @@ yt_tags:
   - "Anthropic ACE"
   - "Google ADK"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "box"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -55,21 +75,6 @@ summary:
   - "# Grab the Inside Scoop on How Google, Anthropic, and Manus Built Long-Running AI Agents
 
 The most critical topic in the world today is agentic context engineering or how you deal with memory and AI a"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "box"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "prompting"
-  - "tutorials"
 ---
 
 # Grab the Inside Scoop on How Google, Anthropic, and Manus Built Long-Running AI Agents

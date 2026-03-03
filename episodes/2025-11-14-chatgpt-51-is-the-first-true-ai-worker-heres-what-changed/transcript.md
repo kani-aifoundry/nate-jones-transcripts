@@ -28,6 +28,27 @@ yt_tags:
   - "AI jobs for teams"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "atlas"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -57,22 +78,6 @@ summary:
   - "1 Is the First True AI Worker: Here's What Changed
 
 Chat GPT 5"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "atlas"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # ChatGPT 5.1 Is the First True AI Worker: Here's What Changed

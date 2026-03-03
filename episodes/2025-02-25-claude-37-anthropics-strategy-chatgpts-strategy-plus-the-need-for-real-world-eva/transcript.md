@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "openai"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Case Study"
@@ -39,20 +56,6 @@ summary:
   - "7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals
 
 the launch of Claude 3"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "openai"
-  - "prompting"
 ---
 
 # Claude 3.7: Anthropic's Strategy, ChatGPT's Strategy, plus the need for real world evals

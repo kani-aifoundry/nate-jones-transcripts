@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "arc"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "o3"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,18 +53,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "arc"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "o3"
-  - "openai"
-  - "product-management"
 ---
 
 # OpenAI o3: ARC-AGI, Steam Engines, Coding Challenges, o3 Mini

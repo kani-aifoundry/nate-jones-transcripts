@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "frameworks"
+  - "linkedin"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,18 +58,6 @@ summary:
   - "# How to Get an AI Job in 2025 (Beyond OpenAI & Big Tech)
 
 All right, settle in"
-keywords:
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "frameworks"
-  - "linkedin"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "startups"
-  - "tutorials"
 ---
 
 # How to Get an AI Job in 2025 (Beyond OpenAI & Big Tech)

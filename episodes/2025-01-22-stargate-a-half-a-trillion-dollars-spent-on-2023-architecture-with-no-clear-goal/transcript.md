@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "anthropic"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "oracle"
+  - "product-management"
+  - "projects"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,21 +58,6 @@ concepts:
   []
 summary:
   - "# Stargate: a half a trillion dollars spent on 2023 architecture with no clear goals"
-keywords:
-  - "ai-news"
-  - "anthropic"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "oracle"
-  - "product-management"
-  - "projects"
-  - "x"
 ---
 
 # Stargate: a half a trillion dollars spent on 2023 architecture with no clear goals?

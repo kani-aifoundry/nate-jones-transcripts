@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,13 +43,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
 ---
 
 # The Media got the AI and Cybertruck Story Wrong—Here's What Happened and Why Google Should Worry

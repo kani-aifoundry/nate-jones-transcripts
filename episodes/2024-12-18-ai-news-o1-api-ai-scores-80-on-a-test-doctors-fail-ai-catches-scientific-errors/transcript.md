@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "o1"
+  - "openai"
+  - "prompting"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Case Study"
@@ -33,16 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "o1"
-  - "openai"
-  - "prompting"
-  - "startups"
 ---
 
 # AI News: o1 API, AI Scores 80% on a test doctors fail, AI catches scientific errors at scale

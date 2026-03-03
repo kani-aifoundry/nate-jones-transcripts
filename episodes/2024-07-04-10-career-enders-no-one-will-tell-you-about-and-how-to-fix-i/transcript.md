@@ -9,6 +9,24 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Career"
 difficulty: "Intermediate"
@@ -30,18 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # 10 career enders no one will tell you about and how to fix it (soft skills edition)

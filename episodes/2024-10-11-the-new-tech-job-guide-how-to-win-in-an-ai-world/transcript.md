@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "netflix"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,19 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "netflix"
-  - "product-management"
-  - "tutorials"
 ---
 
 # The New Tech Job Guide: How to Win in an AI World

@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "product-management"
+  - "prompting"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,19 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "product-management"
-  - "prompting"
-  - "startups"
 ---
 
 # AI News: Pony AI IPO, Claude MCP, Claude Writing Styles

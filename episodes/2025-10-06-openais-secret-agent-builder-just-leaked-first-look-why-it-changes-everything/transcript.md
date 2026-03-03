@@ -29,6 +29,33 @@ yt_tags:
   - "AI strategy for teams"
   - "AI jobs for builders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -59,28 +86,6 @@ summary:
   - "# OpenAI's Secret Agent Builder Just Leaked (First Look + Why It Changes Everything)
 
 Shots have been fired in the agent wars"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "model-context-protocol"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # OpenAI's Secret Agent Builder Just Leaked (First Look + Why It Changes Everything)

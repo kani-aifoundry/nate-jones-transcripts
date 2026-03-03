@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -35,15 +48,6 @@ summary:
   - "What A Post-Knowledge AI Economy Looks Like
 
 We need to talk about the knowledge economy"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "tutorials"
 ---
 
 # What Good is a Degree When AI Knows Everything? What A Post-Knowledge AI Economy Looks Like

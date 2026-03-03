@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -40,20 +58,6 @@ summary:
   - "# OpenAI steals Apple's Playbook (and Apple's Designer)
 
 You know, AI superw week was supposed to be about anybody but Open AI"
-keywords:
-  - "ai-news"
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "tutorials"
 ---
 
 # OpenAI steals Apple's Playbook (and Apple's Designer)

@@ -30,6 +30,37 @@ yt_tags:
   - "enterprise AI growth"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "salesforce"
+  - "shortcuts"
+  - "snowflake"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -65,32 +96,6 @@ summary:
   - "# Claude Just Rolled Out to 350,000 Employees
 
 Here are the six AI stories that mattered this week in less than 10 minutes"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "model-context-protocol"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "salesforce"
-  - "shortcuts"
-  - "snowflake"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Claude Just Rolled Out to 350,000 Employees

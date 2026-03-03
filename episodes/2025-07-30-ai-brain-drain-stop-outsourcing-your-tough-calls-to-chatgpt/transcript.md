@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "runway"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -40,22 +59,6 @@ summary:
   - "# AI Brain Drain: Stop Outsourcing Your Tough Calls to ChatGPT
 
 Do you remember the study that came out of MIT that talked about AI taking away people's brain power"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "runway"
-  - "workflows"
-  - "x"
 ---
 
 # AI Brain Drain: Stop Outsourcing Your Tough Calls to ChatGPT

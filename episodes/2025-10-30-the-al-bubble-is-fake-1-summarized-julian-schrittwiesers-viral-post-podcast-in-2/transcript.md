@@ -31,6 +31,34 @@ yt_tags:
   - "AI progress rate"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "anthropic"
+  - "arc"
+  - "career"
+  - "claude"
+  - "codex"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "slack"
+  - "sonnet"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -72,28 +100,6 @@ summary:
   - "# The Al Bubble is FAKE: 1 Summarized Julian Schrittwieser's Viral Post + Podcast in 20 minutes
 
 What if we're making the same mistake today with AI that we made with COVID in 2020"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "anthropic"
-  - "arc"
-  - "career"
-  - "claude"
-  - "codex"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "slack"
-  - "sonnet"
-  - "workflows"
-  - "x"
 ---
 
 # The Al Bubble is FAKE: 1 Summarized Julian Schrittwieser's Viral Post + Podcast in 20 minutes

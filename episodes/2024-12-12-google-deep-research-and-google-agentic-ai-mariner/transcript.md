@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "career"
+  - "coding"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "sora"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,19 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "career"
-  - "coding"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "sora"
-  - "tutorials"
 ---
 
 # Google Deep Research and Google Agentic AI (Mariner)

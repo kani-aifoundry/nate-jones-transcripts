@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "product-management"
+  - "replit"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,17 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "product-management"
-  - "replit"
-  - "youtube"
 ---
 
 # AI Coding Tool Comparison: The TLDR on Replit, Cursor, Pythagora, and Bolt

@@ -30,6 +30,20 @@ yt_tags:
   - "LLMs in production"
   - "self-optimizing prompts"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -55,15 +69,6 @@ summary:
 
 One of the most common concerns I get from people is that they do not know how to optimize their prompts and they "
   - "It removes one of the biggest human dependencies is in the prompt equation"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # I Found the Easiest Way to Build Self-Optimizing AI Prompts (Beginner to Pro Path)

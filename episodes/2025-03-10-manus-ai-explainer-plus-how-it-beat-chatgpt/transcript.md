@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "openai"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -32,17 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "openai"
-  - "startups"
-  - "tutorials"
 ---
 
 # Manus AI: Explainer plus How it Beat ChatGPT

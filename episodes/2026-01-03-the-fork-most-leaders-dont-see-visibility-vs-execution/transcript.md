@@ -24,6 +24,23 @@ yt_tags:
   - "AI native startups"
   - "AI strategy for leaders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "career"
+  - "coding"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "slack"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -50,17 +67,6 @@ summary:
   - "Execution
 
 AI just made it really really cheap for companies to see what's going on inside themselves, right"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "career"
-  - "coding"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "slack"
-  - "workflows"
 ---
 
 # The Fork Most Leaders Don’t See: Visibility vs. Execution

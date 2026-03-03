@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,17 +49,6 @@ concepts:
   []
 summary:
   - "7 is out and if that feels like nothing it shouldn't because it's the biggest update to building tools that I've seen this year I got early access to it here are my initial Impressions first I want to"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # I got early access to Claude 3.7—Here's what builders can expect

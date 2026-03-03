@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "leadership"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -33,15 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "leadership"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Three Real World AI Use Cases Today: Nuclear Power, Drug Discovery, and Geo Spying

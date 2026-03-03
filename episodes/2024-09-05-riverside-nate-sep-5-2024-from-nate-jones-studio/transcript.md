@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -35,22 +56,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Riverside Nate Sep 5 2024 from Nate Jones Studio

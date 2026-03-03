@@ -27,6 +27,31 @@ yt_tags:
   - "future of work"
   - "AI compute scaling"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "amd"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "intel"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -59,25 +84,6 @@ concepts:
   - "That space vents heat and so we should be able to put our hot data centers in space and beam the tokens down via lasers"
 summary:
   - "# Trump Just Gutted State Al Laws, OpenAl Panicked, Al Agents Stole $4"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "amd"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "intel"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "workflows"
 ---
 
 # Trump Just Gutted State Al Laws, OpenAl Panicked, Al Agents Stole $4.6M--Your 10-Minute Breakdown

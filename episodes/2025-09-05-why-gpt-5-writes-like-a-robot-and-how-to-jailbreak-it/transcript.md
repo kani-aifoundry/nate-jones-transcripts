@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "frameworks"
+  - "gpt-5"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,17 +53,6 @@ summary:
   - "# Why GPT-5 Writes Like a Robot (And How to Jailbreak It)
 
 I'm here to explain to you why all of Chat JPT5's writing sounds the same"
-keywords:
-  - "frameworks"
-  - "gpt-5"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
 ---
 
 # Why GPT-5 Writes Like a Robot (And How to Jailbreak It)

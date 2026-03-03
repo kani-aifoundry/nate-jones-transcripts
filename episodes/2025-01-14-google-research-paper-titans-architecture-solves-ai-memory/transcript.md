@@ -11,6 +11,13 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "frameworks"
+  - "google"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -31,10 +38,6 @@ concepts:
   []
 summary:
   - "# Google Research Paper: Titans Architecture Solves AI Memory"
-keywords:
-  - "frameworks"
-  - "google"
-  - "tutorials"
 ---
 
 # Google Research Paper: Titans Architecture Solves AI Memory?

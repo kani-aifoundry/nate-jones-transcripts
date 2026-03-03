@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "copilot"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "salesforce"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -35,19 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "copilot"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "salesforce"
-  - "startups"
-  - "workflows"
 ---
 
 # Salesforce is Going for AI Irony Like a Millennial at Christmas

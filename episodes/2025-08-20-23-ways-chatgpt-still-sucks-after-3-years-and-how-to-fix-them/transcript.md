@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "canvas"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "notion"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -43,25 +67,6 @@ summary:
   - "# 23 Ways ChatGPT Still Sucks After 3 years (And How to Fix Them)
 
 I have spent a ton of time talking about chat bots, chat GPT, Claude, Gemini"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "canvas"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "notion"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "tutorials"
 ---
 
 # 23 Ways ChatGPT Still Sucks After 3 years (And How to Fix Them)

@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "frameworks"
+  - "hugging-face"
+  - "make"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -37,13 +49,6 @@ summary:
   - "# AI Cold War Danger: A July 4th Blueprint for Safer Superpowers
 
 The world's two AI superpowers are locked in a competition that's making everybody less safe"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "frameworks"
-  - "hugging-face"
-  - "make"
-  - "workflows"
 ---
 
 # AI Cold War Danger: A July 4th Blueprint for Safer Superpowers

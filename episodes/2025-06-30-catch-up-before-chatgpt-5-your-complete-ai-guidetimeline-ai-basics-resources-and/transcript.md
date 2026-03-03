@@ -11,6 +11,34 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -51,28 +79,6 @@ summary:
   - "# Catch Up Before ChatGPT-5: Your Complete AI Guide—Timeline, AI Basics, Resources, and Who To Follow
 
 This video does one thing"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
 ---
 
 # Catch Up Before ChatGPT-5: Your Complete AI Guide—Timeline, AI Basics, Resources, and Who To Follow

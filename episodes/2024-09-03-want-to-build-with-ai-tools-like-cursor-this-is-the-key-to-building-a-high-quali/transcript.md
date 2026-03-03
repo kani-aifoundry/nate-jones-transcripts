@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,16 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "product-management"
-  - "workflows"
 ---
 
 # Want to build with AI Tools like Cursor? This is THE KEY to building a High Quality App

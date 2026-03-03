@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,20 +53,6 @@ concepts:
   []
 summary:
   - "5% and 15% and by the way I'm not making that up that's roughly where ChatGpt 4"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "youtube"
 ---
 
 # We have a problem with AI and hallucinations—and not what you think

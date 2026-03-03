@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "adobe"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "salesforce"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,18 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "adobe"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "salesforce"
-  - "startups"
-  - "workflows"
 ---
 
 # AI isn't going to kill SAAS software business models

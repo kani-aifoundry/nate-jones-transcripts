@@ -28,6 +28,21 @@ yt_tags:
   - "AI hiring crisis"
   - "AI job equilibrium"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -53,15 +68,6 @@ summary:
   - "# I Spent Months Studying the AI Job Market—Here are 5 Secrets to Stand Out No One is Talking About
 
 We all know that LinkedIn is dead"
-keywords:
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "product-management"
-  - "tutorials"
 ---
 
 # I Spent Months Studying the AI Job Market—Here are 5 Secrets to Stand Out No One is Talking About

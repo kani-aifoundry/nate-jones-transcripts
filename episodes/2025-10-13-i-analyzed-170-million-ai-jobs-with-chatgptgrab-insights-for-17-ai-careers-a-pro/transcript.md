@@ -26,6 +26,27 @@ yt_tags:
   - "AI jobs for operators"
   - "break into AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "apple"
+  - "career"
+  - "chatgpt"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "openai"
+  - "prompting"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,21 +75,6 @@ summary:
   - "# I Analyzed 170 Million AI Jobs with ChatGPT—Grab Insights for 17 AI Careers + a Prompt Demo
 
 Most of what you read about how to break into AI is wrong"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "apple"
-  - "career"
-  - "chatgpt"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "openai"
-  - "prompting"
-  - "startups"
-  - "tutorials"
 ---
 
 # I Analyzed 170 Million AI Jobs with ChatGPT—Grab Insights for 17 AI Careers + a Prompt Demo

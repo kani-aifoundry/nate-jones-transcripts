@@ -27,6 +27,26 @@ yt_tags:
   - "opportunity solution tree"
   - "AI image models for decks"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "openai"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -57,21 +77,6 @@ summary:
   - "Google Nano Banana Pro: I Ran 9 Brutal Tests
 
 Chad GPT continues a code red response to Google"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "openai"
-  - "workflows"
-  - "x"
 ---
 
 # ChatGPT's "4x Faster" Image Update vs. Google Nano Banana Pro: I Ran 9 Brutal Tests

@@ -28,6 +28,28 @@ yt_tags:
   - "personal AI systems"
   - "AI strategy"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "apple"
+  - "box"
+  - "canvas"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "microsoft"
+  - "notion"
+  - "product-management"
+  - "projects"
+  - "slack"
+  - "workflows"
+  - "youtube"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -62,23 +84,6 @@ summary:
   - "# Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)
 
 For 500,000 years, we've had essentially the same cognitive architecture"
-keywords:
-  - "ai-tools"
-  - "apple"
-  - "box"
-  - "canvas"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "microsoft"
-  - "notion"
-  - "product-management"
-  - "projects"
-  - "slack"
-  - "workflows"
-  - "youtube"
-  - "zapier"
 ---
 
 # Why 2026 Is the Year to Build a Second Brain (And Why You NEED One)

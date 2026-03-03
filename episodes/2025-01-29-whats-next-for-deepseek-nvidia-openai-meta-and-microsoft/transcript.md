@@ -11,6 +11,31 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "operator"
+  - "product-management"
+  - "sora"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -41,25 +66,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "operator"
-  - "product-management"
-  - "sora"
-  - "startups"
-  - "tutorials"
 ---
 
 # What's next for DeepSeek, NVIDIA, OpenAI, Meta, and Microsoft

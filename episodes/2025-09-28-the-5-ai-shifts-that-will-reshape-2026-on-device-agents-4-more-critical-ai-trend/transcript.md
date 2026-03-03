@@ -28,6 +28,37 @@ yt_tags:
   - "2026 AI planning"
   - "agentic workflows ROI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "intel"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "nano-banana"
+  - "notion"
+  - "nvidia"
+  - "perplexity"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -67,31 +98,6 @@ summary:
   - "# The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends
 
 is time to think about 2026"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "intel"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "nano-banana"
-  - "notion"
-  - "nvidia"
-  - "perplexity"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # The 5 AI Shifts That Will Reshape 2026: On-Device Agents + 4 More Critical AI Trends

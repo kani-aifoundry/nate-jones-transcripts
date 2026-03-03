@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "perplexity"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,19 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "perplexity"
-  - "startups"
-  - "workflows"
 ---
 
 # 4 AI Use-Cases that are Monetizing Now: Agent-Based Workflows

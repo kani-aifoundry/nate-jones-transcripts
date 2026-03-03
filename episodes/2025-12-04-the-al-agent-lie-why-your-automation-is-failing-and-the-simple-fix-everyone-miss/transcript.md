@@ -24,6 +24,25 @@ yt_tags:
   - "reproducible AI workflows"
   - "AI tools for builders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "nano-banana"
+  - "opus"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -53,21 +72,6 @@ summary:
   - "# The Al Agent Lie: Why Your Automation Is Failing (And the Simple Fix Everyone Misses)
 
 I want to let you in on a little secret around AI automation and agents"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "nano-banana"
-  - "opus"
-  - "workflows"
 ---
 
 # The Al Agent Lie: Why Your Automation Is Failing (And the Simple Fix Everyone Misses)

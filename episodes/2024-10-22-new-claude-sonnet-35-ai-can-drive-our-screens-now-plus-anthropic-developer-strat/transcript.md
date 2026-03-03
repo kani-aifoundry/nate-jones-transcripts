@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "haiku"
+  - "opus"
+  - "sonnet"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -37,20 +55,6 @@ concepts:
   []
 summary:
   - "5 Sonet they did not rename it they did not give it a new number again these naming conventions are bizarre it's 3"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "haiku"
-  - "opus"
-  - "sonnet"
-  - "workflows"
 ---
 
 # New Claude Sonnet 3.5: AI can drive our screens now plus Anthropic developer strategy breakdown

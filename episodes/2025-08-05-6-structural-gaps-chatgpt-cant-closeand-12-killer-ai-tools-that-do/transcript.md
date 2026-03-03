@@ -11,6 +11,35 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "arc"
+  - "aws"
+  - "bolt"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "runway"
+  - "tutorials"
+  - "whisper"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -51,29 +80,6 @@ summary:
   - "# 6 Structural Gaps ChatGPT Can't Close—And 12 Killer AI Tools That Do
 
 We all use our chat bots too much"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "arc"
-  - "aws"
-  - "bolt"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "runway"
-  - "tutorials"
-  - "whisper"
-  - "workflows"
 ---
 
 # 6 Structural Gaps ChatGPT Can't Close—And 12 Killer AI Tools That Do

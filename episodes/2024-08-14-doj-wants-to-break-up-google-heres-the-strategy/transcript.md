@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -32,16 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "tutorials"
 ---
 
 # DOJ wants to break up Google: Here's the strategy

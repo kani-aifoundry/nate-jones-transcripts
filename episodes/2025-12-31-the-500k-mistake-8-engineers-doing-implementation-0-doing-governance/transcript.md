@@ -25,6 +25,28 @@ yt_tags:
   - "Figma to code"
   - "AI jobs for engineers"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "coding"
+  - "computer-use"
+  - "cursor"
+  - "figma"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,23 +76,6 @@ summary:
   - "# The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance
 
 Front-end engineering is dead, but front-end composability is not"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "coding"
-  - "computer-use"
-  - "cursor"
-  - "figma"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # The $500K Mistake: 8 Engineers Doing Implementation, 0 Doing Governance

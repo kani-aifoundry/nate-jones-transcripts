@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "apple"
+  - "coding"
+  - "leadership"
+  - "make"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,15 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "apple"
-  - "coding"
-  - "leadership"
-  - "make"
-  - "product-management"
 ---
 
 # Myths of software development: 3 myths that hold back PM & engineering teams plus what matters most

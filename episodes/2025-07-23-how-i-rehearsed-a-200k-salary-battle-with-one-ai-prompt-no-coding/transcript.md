@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,18 +53,6 @@ summary:
   - "# How I Rehearsed a $200K Salary Battle with One AI Prompt (No Coding)
 
 You know, a few days ago I did an entire piece on setting up digital twins"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # How I Rehearsed a $200K Salary Battle with One AI Prompt (No Coding)

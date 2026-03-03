@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "frameworks"
+  - "google"
+  - "meta"
+  - "product-management"
+  - "stable-diffusion"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,21 +56,6 @@ concepts:
   []
 summary:
   - "# Voice mode: Sesame, Alexa+ and Siri—Product Strategy & What's Next for Meta, Google, Amazon, etc"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "frameworks"
-  - "google"
-  - "meta"
-  - "product-management"
-  - "stable-diffusion"
-  - "startups"
-  - "tutorials"
 ---
 
 # Voice mode: Sesame, Alexa+ and Siri—Product Strategy & What's Next for Meta, Google, Amazon, etc.

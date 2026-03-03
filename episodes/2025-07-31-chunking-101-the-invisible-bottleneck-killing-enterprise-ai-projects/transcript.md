@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "coding"
+  - "frameworks"
+  - "linkedin"
+  - "make"
+  - "projects"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,16 +52,6 @@ summary:
   - "# Chunking 101: The Invisible Bottleneck Killing Enterprise AI Projects
 
 I want to tell you the story of a fintech company that almost lost a major deal because they handled chunking badly"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "coding"
-  - "frameworks"
-  - "linkedin"
-  - "make"
-  - "projects"
-  - "tutorials"
-  - "x"
 ---
 
 # Chunking 101: The Invisible Bottleneck Killing Enterprise AI Projects

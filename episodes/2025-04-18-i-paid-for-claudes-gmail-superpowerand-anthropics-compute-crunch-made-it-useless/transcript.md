@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,16 +48,6 @@ summary:
   - "# I Paid for Claude's Gmail 'Superpower'—and Anthropic's Compute Crunch Made it Useless
 
 I tried the new Claude feature that connects your calendar and your email into Claude"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "openai"
-  - "product-management"
 ---
 
 # I Paid for Claude's Gmail 'Superpower'—and Anthropic's Compute Crunch Made it Useless

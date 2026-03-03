@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -35,17 +49,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "youtube"
 ---
 
 # Sneak Peek: New AI Native Tool for Writing

@@ -29,6 +29,27 @@ yt_tags:
   - "Website Optimization"
   - "Website Traffic"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Case Study"
@@ -58,22 +79,6 @@ summary:
   - "# AI Just Hijacked 15% of Google Traffic—Win Yours Back
 
 15% of Google's clicks disappeared last year"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "x"
 ---
 
 # AI Just Hijacked 15% of Google Traffic—Win Yours Back

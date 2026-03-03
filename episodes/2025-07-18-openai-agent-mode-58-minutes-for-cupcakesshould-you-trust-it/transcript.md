@@ -29,6 +29,29 @@ yt_tags:
   - "Tech Ethics"
   - "Trust AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "openai"
+  - "operator"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -58,24 +81,6 @@ concepts:
   - "He wants to see this thing in the wild to collect useful data on where it works and where it doesn't"
 summary:
   - "# OpenAI Agent Mode: 58 Minutes for Cupcakes—Should You Trust It"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "openai"
-  - "operator"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
 ---
 
 # OpenAI Agent Mode: 58 Minutes for Cupcakes—Should You Trust It?

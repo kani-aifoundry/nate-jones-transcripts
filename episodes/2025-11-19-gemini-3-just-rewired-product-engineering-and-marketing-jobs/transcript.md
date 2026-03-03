@@ -29,6 +29,36 @@ yt_tags:
   - "AI platform teams"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "linkedin"
+  - "lovable"
+  - "make"
+  - "mcp"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -66,31 +96,6 @@ summary:
   - "# Gemini 3 Just Rewired Product, Engineering, and Marketing Jobs
 
 Gemini 3 came out and it is the number one model in the world"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "linkedin"
-  - "lovable"
-  - "make"
-  - "mcp"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Gemini 3 Just Rewired Product, Engineering, and Marketing Jobs

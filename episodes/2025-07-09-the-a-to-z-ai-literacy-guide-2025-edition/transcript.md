@@ -11,6 +11,33 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "claude"
+  - "coding"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "midjourney"
+  - "model-context-protocol"
+  - "openai"
+  - "operator"
+  - "projects"
+  - "prompting"
+  - "stable-diffusion"
+  - "tutorials"
+  - "uber"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -49,29 +76,6 @@ summary:
   - "# The A-to-Z AI Literacy Guide (2025 Edition)
 
 Welcome to the A Toz AI literacy guide 2025 edition"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "claude"
-  - "coding"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "midjourney"
-  - "model-context-protocol"
-  - "openai"
-  - "operator"
-  - "projects"
-  - "prompting"
-  - "stable-diffusion"
-  - "tutorials"
-  - "uber"
-  - "workflows"
-  - "x"
 ---
 
 # The A-to-Z AI Literacy Guide (2025 Edition)

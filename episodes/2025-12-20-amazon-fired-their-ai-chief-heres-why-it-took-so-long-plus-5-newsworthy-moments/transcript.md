@@ -46,6 +46,35 @@ yt_tags:
   - "Tesla Optimus"
   - "Google RTX"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "adobe"
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "career"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "runway"
+  - "salesforce"
+  - "tesla"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -82,29 +111,6 @@ summary:
   - "Here's Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)
 
 I read more than 20 hours of AI news this week to bring you the stories that matter in just 10 minutes"
-keywords:
-  - "adobe"
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "career"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "runway"
-  - "salesforce"
-  - "tesla"
 ---
 
 # Amazon Fired Their AI Chief. Here's Why It Took So Long (Plus 5 Newsworthy Moments in AI This Week)

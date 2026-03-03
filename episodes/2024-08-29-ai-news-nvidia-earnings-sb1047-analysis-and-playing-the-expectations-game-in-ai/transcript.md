@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -35,18 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "workflows"
 ---
 
 # AI News: NVidia Earnings, SB1047 Analysis and Playing the Expectations Game in AI

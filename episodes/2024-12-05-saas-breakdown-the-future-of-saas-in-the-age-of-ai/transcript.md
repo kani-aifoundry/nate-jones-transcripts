@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "deep-dives"
+  - "figma"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "salesforce"
+  - "v0"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -35,16 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "deep-dives"
-  - "figma"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "salesforce"
-  - "v0"
-  - "workflows"
 ---
 
 # SaaS Breakdown: The Future of SaaS in the Age of AI

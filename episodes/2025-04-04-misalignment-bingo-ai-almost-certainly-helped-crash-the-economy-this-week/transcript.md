@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "frameworks"
+  - "microsoft"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,13 +43,6 @@ summary:
   - "# Misalignment Bingo: AI (almost certainly) helped crash the economy this week
 
 So there's considerable evidence that the Trump administration used Chat GPT or Grock or another LLM to create trade pol"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "frameworks"
-  - "microsoft"
-  - "prompting"
 ---
 
 # Misalignment Bingo: AI (almost certainly) helped crash the economy this week

@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "product-management"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,24 +65,6 @@ summary:
   - "Here's When You Actually Need the API
 
 Today we're going to address something that I have never seen addressed anywhere on the web and I cannot figure out why"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "product-management"
-  - "tutorials"
-  - "x"
 ---
 
 # Stuck in the Chatbox? Here's When You Actually Need the API

@@ -26,6 +26,28 @@ yt_tags:
   - "career growth AI"
   - "judgment training"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "slack"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -58,23 +80,6 @@ summary:
 
 We need to move from a jobs format to a skills format for our roles and our career growth"
   - "To see the chain of behavior you need to adopt to level up"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "slack"
-  - "x"
 ---
 
 # The Al Trick That Finally Made Me Better at My Job (Not Just Faster)

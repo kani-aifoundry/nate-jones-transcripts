@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "claude"
+  - "computer-use"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,20 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "claude"
-  - "computer-use"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
 ---
 
 # 2026 came early: AI can inspire a goat cult meme-coin and be worth 10M+ but AI can't buy me lunch

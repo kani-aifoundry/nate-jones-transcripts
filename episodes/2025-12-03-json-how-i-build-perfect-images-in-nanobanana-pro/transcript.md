@@ -24,6 +24,24 @@ yt_tags:
   - "reproducible AI workflows"
   - "AI tools for builders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "midjourney"
+  - "nano-banana"
+  - "nanobanana-pro"
+  - "notion"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -52,20 +70,6 @@ summary:
   - "# JSON: How I Build Perfect Images in NanoBanana Pro
 
 I want to let you in on a secret"
-keywords:
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "midjourney"
-  - "nano-banana"
-  - "nanobanana-pro"
-  - "notion"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "twitter"
 ---
 
 # JSON: How I Build Perfect Images in NanoBanana Pro

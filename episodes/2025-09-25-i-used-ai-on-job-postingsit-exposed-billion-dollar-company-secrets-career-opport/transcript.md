@@ -28,6 +28,30 @@ yt_tags:
   - "AI jobs for juniors"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "lovable"
+  - "make"
+  - "mcp"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -60,24 +84,6 @@ summary:
   - "# I Used AI on Job Postings—It Exposed Billion-Dollar Company Secrets + Career Opportunities
 
 In the next 10 minutes together, we are going to crack the code on reading job postings"
-keywords:
-  - "ai-strategy"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "lovable"
-  - "make"
-  - "mcp"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "tutorials"
 ---
 
 # I Used AI on Job Postings—It Exposed Billion-Dollar Company Secrets + Career Opportunities

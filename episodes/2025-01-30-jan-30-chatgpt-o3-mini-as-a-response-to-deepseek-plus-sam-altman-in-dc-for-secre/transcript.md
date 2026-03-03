@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "chatgpt"
+  - "frameworks"
+  - "jan"
+  - "o1"
+  - "o3"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -39,18 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "chatgpt"
-  - "frameworks"
-  - "jan"
-  - "o1"
-  - "o3"
-  - "openai"
-  - "product-management"
 ---
 
 # Jan 30: ChatGPT o3-mini as a response to DeepSeek, plus Sam Altman in DC for secret AI briefing

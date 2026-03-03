@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "apple"
+  - "career"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "shortcuts"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -36,16 +50,6 @@ summary:
   - "# How I invest in stocks as a 20 year tech guy
 
 All right, thanks to a long -standing request, I am actually going to answer a question that I did not think I was going to answer for a long time"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "apple"
-  - "career"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "shortcuts"
 ---
 
 # How I invest in stocks as a 20 year tech guy

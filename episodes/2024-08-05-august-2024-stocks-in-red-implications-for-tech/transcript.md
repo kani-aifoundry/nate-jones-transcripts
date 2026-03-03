@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "amazon"
+  - "leadership"
+  - "make"
+  - "netflix"
+  - "product-management"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,13 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "amazon"
-  - "leadership"
-  - "make"
-  - "netflix"
-  - "product-management"
-  - "startups"
 ---
 
 # August 2024: Stocks in Red, Implications for Tech

@@ -28,6 +28,31 @@ yt_tags:
   - "AI strategy for teams"
   - "AI agents in enterprises"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "salesforce"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -59,25 +84,6 @@ summary:
   - "# Why AI-Native Companies Are Deleting Software You're Still Paying For (The $56K Lesson)
 
 In last week's executive briefing, I argued that most enterprise agents are sophisticated amnesiacs"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "salesforce"
-  - "workflows"
 ---
 
 # Why AI-Native Companies Are Deleting Software You're Still Paying For (The $56K Lesson)

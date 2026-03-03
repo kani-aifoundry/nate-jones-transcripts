@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "google"
+  - "product-management"
+  - "replit"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,18 +55,6 @@ summary:
   - "# Replit AI is out: What I'm building + Cursor & Devin comparison
 
 Replit AI is out and I wanna talk about it because even though Cursor just came out last week, it's already making Cursor look outdat"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "google"
-  - "product-management"
-  - "replit"
-  - "tutorials"
-  - "youtube"
 ---
 
 # Replit AI is out: What I'm building + Cursor & Devin comparison

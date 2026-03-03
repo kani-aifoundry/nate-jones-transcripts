@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "slack"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -39,21 +59,6 @@ summary:
   - "# The $1000 Test That Breaks Every AI Model Out There Today
 
 The debates over artificial general intelligence are endless"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "slack"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # The $1000 Test That Breaks Every AI Model Out There Today

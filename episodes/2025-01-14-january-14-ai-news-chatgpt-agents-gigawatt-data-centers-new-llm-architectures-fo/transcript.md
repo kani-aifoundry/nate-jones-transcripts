@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,20 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "workflows"
 ---
 
 # January 14 AI News: ChatGPT Agents, Gigawatt Data Centers, New LLM Architectures for Longterm Memory

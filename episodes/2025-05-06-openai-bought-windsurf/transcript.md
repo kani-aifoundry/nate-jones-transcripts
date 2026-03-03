@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "startups"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -47,24 +71,6 @@ summary:
   - "# OpenAI bought Windsurf
 
 OpenAI has purchased Windsurf"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "startups"
-  - "x"
 ---
 
 # OpenAI bought Windsurf

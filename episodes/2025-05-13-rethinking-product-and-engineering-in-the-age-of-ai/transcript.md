@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "artifacts"
+  - "coding"
+  - "cursor"
+  - "lovable"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -39,19 +57,6 @@ summary:
   - "# Rethinking Product and Engineering in the Age of AI
 
 It's spicy take time"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "artifacts"
-  - "coding"
-  - "cursor"
-  - "lovable"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Rethinking Product and Engineering in the Age of AI

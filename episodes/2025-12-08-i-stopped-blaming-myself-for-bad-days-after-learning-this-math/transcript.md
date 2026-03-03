@@ -24,6 +24,25 @@ yt_tags:
   - "AI for teams"
   - "productivity systems"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "slack"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -52,19 +71,6 @@ summary:
   - "# I Stopped Blaming Myself for Bad Days After Learning This Math
 
 You know, for the first time, you can use AI not just to do more work, but to quietly reprogram the conditions of your workday, which "
-keywords:
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "slack"
-  - "startups"
-  - "workflows"
 ---
 
 # I Stopped Blaming Myself for Bad Days After Learning This Math

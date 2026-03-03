@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,19 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
 ---
 
 # How DeepSeek Reset the AI Game and then Lost to OpenAI

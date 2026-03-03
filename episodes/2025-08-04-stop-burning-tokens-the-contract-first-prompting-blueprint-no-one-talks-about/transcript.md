@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "arc"
+  - "career"
+  - "coding"
+  - "make"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,13 +48,6 @@ summary:
   - "# Stop Burning Tokens: The Contract-First Prompting Blueprint No One Talks About
 
 Almost every prompt that fails fails because intent wasn't clearly communicated"
-keywords:
-  - "ai-tools"
-  - "arc"
-  - "career"
-  - "coding"
-  - "make"
-  - "prompting"
 ---
 
 # Stop Burning Tokens: The Contract-First Prompting Blueprint No One Talks About

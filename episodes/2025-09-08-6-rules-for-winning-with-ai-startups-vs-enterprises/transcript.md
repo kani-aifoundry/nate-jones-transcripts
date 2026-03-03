@@ -11,6 +11,34 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "apple"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -47,28 +75,6 @@ summary:
   - "# 6 Rules for Winning with AI: Startups vs Enterprises
 
 You know, AI native startups and AI enterprises have been moving at different speeds, getting different things done, using different tool stacks"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "apple"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 6 Rules for Winning with AI: Startups vs Enterprises

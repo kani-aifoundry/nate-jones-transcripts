@@ -11,6 +11,15 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "frameworks"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -31,12 +40,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "frameworks"
-  - "youtube"
 ---
 
 # AI Has a Half Trillion Dollar Memory Problem

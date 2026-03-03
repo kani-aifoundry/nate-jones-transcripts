@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "canvas"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "lovable"
+  - "make"
+  - "openai"
+  - "projects"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -46,26 +70,6 @@ summary:
 
 These are my first full unfiltered impressions of how Chad GPT5 actually lands for work"
   - "Actually to recognize where this fits into the evolving edge of intelligence and where we still see areas where models struggle"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "canvas"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "lovable"
-  - "make"
-  - "openai"
-  - "projects"
-  - "prompting"
-  - "tutorials"
 ---
 
 # ChatGPT-5 Full Review: 5 Real-World Tests & The AI Race

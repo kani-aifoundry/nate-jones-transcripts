@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,17 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "x"
-  - "youtube"
 ---
 
 # Cursor AI: 6 Apps Built with Cursor + Strategy Question for Builders

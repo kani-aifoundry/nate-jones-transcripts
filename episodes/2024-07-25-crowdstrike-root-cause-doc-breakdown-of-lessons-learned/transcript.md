@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "uber"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -34,16 +49,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "uber"
 ---
 
 # CrowdStrike Root Cause Doc: Breakdown of Lessons Learned

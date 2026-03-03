@@ -24,6 +24,31 @@ yt_tags:
   - "agentic AI"
   - "AI architecture"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -58,26 +83,6 @@ summary:
   - "# Al Agents That Actually Work: The Pattern Anthropic Just Revealed
 
 We're going to talk about agents and we're going to talk about memory"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "twitter"
-  - "x"
 ---
 
 # Al Agents That Actually Work: The Pattern Anthropic Just Revealed

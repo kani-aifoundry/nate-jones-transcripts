@@ -27,6 +27,38 @@ yt_tags:
   - "OK Computer agent"
   - "California SB 53"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "adobe"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nano-banana"
+  - "notion"
+  - "nvidia"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -70,33 +102,6 @@ summary:
   - "# I Tested ChatGPT's New Overnight Mode—It Changed How I Work
 
 All right, let's get right to it"
-keywords:
-  - "adobe"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nano-banana"
-  - "notion"
-  - "nvidia"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "workflows"
-  - "x"
 ---
 
 # I Tested ChatGPT's New Overnight Mode—It Changed How I Work

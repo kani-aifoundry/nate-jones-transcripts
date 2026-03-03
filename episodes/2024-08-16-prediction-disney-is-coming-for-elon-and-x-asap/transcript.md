@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "apple"
+  - "career"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,20 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "apple"
-  - "career"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "twitter"
-  - "x"
 ---
 
 # Prediction: Disney is coming for Elon and X ASAP

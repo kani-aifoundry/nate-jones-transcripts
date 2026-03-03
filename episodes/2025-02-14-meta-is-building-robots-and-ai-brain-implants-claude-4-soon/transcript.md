@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "meta"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,21 +59,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "meta"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "youtube"
 ---
 
 # Meta is Building Robots and AI Brain Implants, Claude 4 Soon

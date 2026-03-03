@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "amazon"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "netflix"
+  - "projects"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -45,22 +67,6 @@ summary:
   - "12 Brutal Career Questions Answered
 
 I get hundreds and hundreds of questions a month"
-keywords:
-  - "ai-agents"
-  - "amazon"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "netflix"
-  - "projects"
-  - "x"
-  - "youtube"
 ---
 
 # Will AI Kill Your Job? 12 Brutal Career Questions Answered

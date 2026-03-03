@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "apple"
+  - "chatgpt"
+  - "coding"
+  - "frameworks"
+  - "jan"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -39,22 +59,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "apple"
-  - "chatgpt"
-  - "coding"
-  - "frameworks"
-  - "jan"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "startups"
 ---
 
 # NVIDIA and Microsoft are Crashing Today Jan 27 Because of a ChatGPT Competitor Named DeepSeek

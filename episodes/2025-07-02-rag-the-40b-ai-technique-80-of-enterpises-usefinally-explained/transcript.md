@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "chroma"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "notion"
+  - "openai"
+  - "projects"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -45,22 +66,6 @@ summary:
   - "# RAG: The $40B AI Technique 80% of Enterpises Use—Finally Explained
 
 What if Chad GPT had perfect memory and never hallucinated"
-keywords:
-  - "ai-strategy"
-  - "chroma"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "notion"
-  - "openai"
-  - "projects"
-  - "tutorials"
 ---
 
 # RAG: The $40B AI Technique 80% of Enterpises Use—Finally Explained

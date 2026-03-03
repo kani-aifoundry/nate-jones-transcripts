@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,21 +55,6 @@ concepts:
   []
 summary:
   - "0 experimental thinking it's available in the AI studio now from Google I have played with it it is amazing I gave it something that was a document that I thought was okay that uh Claude Sonet 3"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # AI News: Google Robots, Gemini 2.0 Reasoning, Claude Excel, The Mirror Test

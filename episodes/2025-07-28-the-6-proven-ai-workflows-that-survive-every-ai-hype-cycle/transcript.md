@@ -11,6 +11,36 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "microsoft"
+  - "model-context-protocol"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "startups"
+  - "workflows"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -49,30 +79,6 @@ summary:
   - "# The 6 Proven AI Workflows That Survive Every AI Hype Cycle
 
 You know, one of the challenges with artificial intelligence and development or building in code is that everyone is going for this is my "
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "microsoft"
-  - "model-context-protocol"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "startups"
-  - "workflows"
-  - "zapier"
 ---
 
 # The 6 Proven AI Workflows That Survive Every AI Hype Cycle

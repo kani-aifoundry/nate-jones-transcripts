@@ -28,6 +28,33 @@ yt_tags:
   - "AI workflow design"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "aws"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "intel"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
+  - "slack"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -67,27 +94,6 @@ summary:
   - "# Gemini 3 Just Triggered The Biggest AI Reset Since 2022
 
 I believe we're headed into the most significant reset moment for AI since 2022 when chat GPT launched"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "aws"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "intel"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "model-context-protocol"
-  - "openai"
-  - "product-management"
-  - "slack"
 ---
 
 # Gemini 3 Just Triggered The Biggest AI Reset Since 2022

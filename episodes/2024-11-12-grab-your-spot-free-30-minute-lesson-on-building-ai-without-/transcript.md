@@ -7,6 +7,15 @@ duration: "0:53"
 view_count: 426
 
 # AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-tools"
+  - "frameworks"
+  - "tutorials"
+  - "workflows"
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
@@ -27,11 +36,6 @@ summary:
   - "# Grab Your Spot: Free 30 Minute Lesson on Building AI Without the Hype
 
 On November 20th, I'm going to be doing a free live 30 minute lesson on cutting through the hype and delivering real value with"
-keywords:
-  - "ai-tools"
-  - "frameworks"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Grab Your Spot: Free 30 Minute Lesson on Building AI Without the Hype

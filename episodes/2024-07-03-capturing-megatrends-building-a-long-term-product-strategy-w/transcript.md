@@ -9,6 +9,28 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "adobe"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "canvas"
+  - "career"
+  - "coding"
+  - "figma"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "startups"
+  - "workflows"
+  - "youtube"
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Beginner"
@@ -33,21 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "adobe"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "canvas"
-  - "career"
-  - "coding"
-  - "figma"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "startups"
-  - "workflows"
-  - "youtube"
 ---
 
 # Capturing Megatrends: Building a Long-Term Product Strategy with Figma

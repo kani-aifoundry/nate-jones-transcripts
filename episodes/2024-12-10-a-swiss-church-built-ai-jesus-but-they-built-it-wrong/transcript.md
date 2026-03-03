@@ -11,6 +11,15 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "aws"
+  - "frameworks"
+  - "startups"
+  - "whisper"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -31,12 +40,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "aws"
-  - "frameworks"
-  - "startups"
-  - "whisper"
 ---
 
 # A Swiss Church built AI Jesus but they built it wrong

@@ -45,6 +45,37 @@ yt_tags:
   - "AI benchmarks"
   - "GDPval"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "deepmind"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "gpt-5"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "shortcuts"
+  - "slack"
+  - "sora"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -90,31 +121,6 @@ summary:
   - "2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code
 
 So a couple of days ago, I had the privilege of sitting down with two members of Codex's engineering team"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "deepmind"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "gpt-5"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "shortcuts"
-  - "slack"
-  - "sora"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
 ---
 
 # Codex 5.2 Launch Revealed: How OpenAI Got Non-Engineers Shipping Real Code

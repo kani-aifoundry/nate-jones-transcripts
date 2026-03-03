@@ -11,6 +11,14 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "leadership"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -31,11 +39,6 @@ concepts:
   []
 summary:
   - "5 so this is not the new writing release by 40 this is just 3"
-keywords:
-  - "ai-news"
-  - "career"
-  - "leadership"
-  - "tutorials"
 ---
 
 # 3 Jobs AI is Better At That Humans Will Keep Doing Anyway LOL

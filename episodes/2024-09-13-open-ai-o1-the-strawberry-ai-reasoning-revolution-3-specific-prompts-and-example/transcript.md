@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "o1"
+  - "openai"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,20 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "o1"
-  - "openai"
-  - "product-management"
-  - "prompting"
 ---
 
 # Open AI o1: The Strawberry AI Reasoning Revolution + 3 Specific prompts and example responses

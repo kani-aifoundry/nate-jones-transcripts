@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "apple"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -35,17 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "apple"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "product-management"
-  - "tutorials"
 ---
 
 # Apple 2024: Strategy behind AI, iPhone, and Wearables

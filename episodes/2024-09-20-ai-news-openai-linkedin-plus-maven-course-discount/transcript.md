@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "linkedin"
+  - "make"
+  - "openai"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,16 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "linkedin"
-  - "make"
-  - "openai"
-  - "startups"
-  - "tutorials"
 ---
 
 # AI News: OpenAI, LinkedIn, plus Maven course discount

@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "career"
+  - "openai"
+  - "product-management"
+  - "slack"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -34,14 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "career"
-  - "openai"
-  - "product-management"
-  - "slack"
-  - "startups"
 ---
 
 # Founder of OpenAI says AI Agents are Coming to Work in 2025—and ASI is next

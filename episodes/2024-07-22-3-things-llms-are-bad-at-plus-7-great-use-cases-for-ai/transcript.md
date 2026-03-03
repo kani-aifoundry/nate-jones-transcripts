@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "ibm"
+  - "leadership"
+  - "make"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -31,15 +43,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "ibm"
-  - "leadership"
-  - "make"
-  - "tutorials"
 ---
 
 # 3 things LLM's are bad at plus 7 great use-cases for AI

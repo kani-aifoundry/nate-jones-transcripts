@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "google"
+  - "microsoft"
+  - "perplexity"
+  - "prompting"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,16 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "google"
-  - "microsoft"
-  - "perplexity"
-  - "prompting"
-  - "zapier"
 ---
 
 # AI News Today: Cancer, scaring Google, AI plagiarism, McKinsey

@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "box"
+  - "claude"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "perplexity"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -42,21 +62,6 @@ summary:
   - "# Prompting Playbook 2025: 4 Beginner Moves, 12 Pro Patterns
 
 So, I have never done this"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "box"
-  - "claude"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "perplexity"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # Prompting Playbook 2025: 4 Beginner Moves, 12 Pro Patterns

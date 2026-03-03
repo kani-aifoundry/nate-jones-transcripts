@@ -12,6 +12,10 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

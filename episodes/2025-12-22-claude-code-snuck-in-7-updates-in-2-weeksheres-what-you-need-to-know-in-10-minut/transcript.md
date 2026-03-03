@@ -27,6 +27,38 @@ yt_tags:
   - "future of work"
   - "AI workflow"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -64,33 +96,6 @@ summary:
   - "# Claude Code Snuck in 7 Updates in 2 Weeks—Here's What You Need to Know in 10 Minutes
 
 Anthropic basically shipped a Christmas claw over the last couple weeks"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # Claude Code Snuck in 7 Updates in 2 Weeks—Here's What You Need to Know in 10 Minutes

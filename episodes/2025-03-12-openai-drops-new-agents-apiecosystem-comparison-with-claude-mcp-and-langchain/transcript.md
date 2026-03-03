@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "langchain"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -38,21 +58,6 @@ concepts:
   []
 summary:
   - "press conference or whatever you want to call it the 10 a"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "langchain"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "openai"
-  - "product-management"
 ---
 
 # OpenAI Drops New Agents API—Ecosystem Comparison with Claude MCP and LangChain

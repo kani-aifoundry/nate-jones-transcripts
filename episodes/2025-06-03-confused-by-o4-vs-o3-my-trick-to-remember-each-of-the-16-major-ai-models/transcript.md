@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "hugging-face"
+  - "leadership"
+  - "make"
+  - "o3"
+  - "openai"
+  - "opus"
+  - "perplexity"
+  - "prompting"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -47,24 +69,6 @@ summary:
   - "My Trick to Remember Each of the 16 Major AI Models
 
 You know, one of the hardest things in AI right now is explaining the difference between models"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "hugging-face"
-  - "leadership"
-  - "make"
-  - "o3"
-  - "openai"
-  - "opus"
-  - "perplexity"
-  - "prompting"
-  - "twitter"
-  - "youtube"
 ---
 
 # Confused by o4 vs. o3? My Trick to Remember Each of the 16 Major AI Models

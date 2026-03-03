@@ -28,6 +28,25 @@ yt_tags:
   - "AI ads funnel"
   - "social AI networks"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "nano-banana"
+  - "openai"
+  - "product-management"
+  - "shopify"
+  - "sora"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -58,20 +77,6 @@ summary:
   - "# OpenAI Just Launched a SOCIAL NETWORK—This Changes Everything (Sora 2 Breakdown)
 
 Sora 2"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "lovable"
-  - "make"
-  - "meta"
-  - "nano-banana"
-  - "openai"
-  - "product-management"
-  - "shopify"
-  - "sora"
 ---
 
 # OpenAI Just Launched a SOCIAL NETWORK—This Changes Everything (Sora 2 Breakdown)

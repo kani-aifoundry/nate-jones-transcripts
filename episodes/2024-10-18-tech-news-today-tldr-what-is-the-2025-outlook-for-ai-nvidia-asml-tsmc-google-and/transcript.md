@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "amazon"
+  - "anthropic"
+  - "frameworks"
+  - "google"
+  - "intel"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "tsmc"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,19 +55,6 @@ concepts:
   []
 summary:
   - "# Tech news today TLDR: What is the 2025 outlook for AI"
-keywords:
-  - "ai-news"
-  - "amazon"
-  - "anthropic"
-  - "frameworks"
-  - "google"
-  - "intel"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "tsmc"
 ---
 
 # Tech news today TLDR: What is the 2025 outlook for AI? NVIDIA, ASML, TSMC, Google, and Amazon

@@ -29,6 +29,26 @@ yt_tags:
   - "AI workflow design"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,21 +77,6 @@ summary:
   - "# I Stopped Drowning in AI Slop—Prompts That Saved Me 100+ Hours (Demo Inside)
 
 We have a supply explosion of AI content and it is an AI slop issue across every business I talk to"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
 ---
 
 # I Stopped Drowning in AI Slop—Prompts That Saved Me 100+ Hours (Demo Inside)

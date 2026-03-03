@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "openai"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,16 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "openai"
-  - "workflows"
 ---
 
 # It's Intelligence Saturation That Really Matters

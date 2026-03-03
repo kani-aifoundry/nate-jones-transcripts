@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "aws"
+  - "azure"
+  - "box"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Case Study"
@@ -37,19 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "aws"
-  - "azure"
-  - "box"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "workflows"
 ---
 
 # Long Take: Foundational Concepts in Artificial Intelligence

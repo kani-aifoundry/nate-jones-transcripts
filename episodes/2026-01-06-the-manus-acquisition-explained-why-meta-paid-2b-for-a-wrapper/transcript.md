@@ -29,6 +29,12 @@ yt_tags:
   - "Anthropic"
   - "AI agent frameworks"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

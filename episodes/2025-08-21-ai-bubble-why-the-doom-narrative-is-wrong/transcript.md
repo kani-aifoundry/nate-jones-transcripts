@@ -11,6 +11,31 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "aws"
+  - "box"
+  - "career"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -43,27 +68,6 @@ summary:
   - "Why the Doom Narrative is Wrong
 
 A number of things are coming together to drive a narrative that we're in an AI bubble today"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "aws"
-  - "box"
-  - "career"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # AI Bubble? Why the Doom Narrative is Wrong

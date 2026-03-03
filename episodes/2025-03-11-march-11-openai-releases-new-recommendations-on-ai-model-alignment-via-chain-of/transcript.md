@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -31,14 +42,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "tutorials"
 ---
 
 # March 11: OpenAI Releases New Recommendations on AI Model Alignment via Chain of Thought

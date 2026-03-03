@@ -28,6 +28,34 @@ yt_tags:
   - "AI chip architecture"
   - "inference workloads"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "apple"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "groq"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nano-banana"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "startups"
+  - "tsmc"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -63,28 +91,6 @@ summary:
   - "# The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)
 
 There's only one news story that mattered this week and it was the story of Grock with a Q"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "apple"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "groq"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nano-banana"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "startups"
-  - "tsmc"
 ---
 
 # The Nvidia-Groq Deal Is WAY Bigger Than Reported (3 Things the Headlines Missed)

@@ -11,6 +11,15 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "frameworks"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -31,12 +40,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "frameworks"
-  - "product-management"
-  - "tutorials"
 ---
 
 # I'm Launching a Maven Course on AI & Tech Careers

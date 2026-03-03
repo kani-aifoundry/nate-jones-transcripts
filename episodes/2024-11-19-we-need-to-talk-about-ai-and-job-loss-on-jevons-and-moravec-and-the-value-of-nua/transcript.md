@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "frameworks"
+  - "ibm"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -34,13 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "frameworks"
-  - "ibm"
-  - "x"
-  - "youtube"
 ---
 
 # We Need to Talk about AI and Job Loss: On Jevons and Moravec And the Value of Nuanced AGI Studies

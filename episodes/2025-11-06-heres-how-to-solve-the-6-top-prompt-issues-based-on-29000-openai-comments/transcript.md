@@ -29,6 +29,26 @@ yt_tags:
   - "AI problems and fixes"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -54,21 +74,6 @@ summary:
   - "# Here's How to Solve the 6 Top Prompt Issues (Based on 29,000 OpenAI Comments)
 
 I spent the last few months running informal office hours with Fortune 500 product teams, with technical writers, with "
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Here's How to Solve the 6 Top Prompt Issues (Based on 29,000 OpenAI Comments)

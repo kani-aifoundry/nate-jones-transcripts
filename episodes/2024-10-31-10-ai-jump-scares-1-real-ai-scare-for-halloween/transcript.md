@@ -11,6 +11,32 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "bolt"
+  - "career"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "meta"
+  - "netflix"
+  - "tutorials"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -45,27 +71,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "bolt"
-  - "career"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "meta"
-  - "netflix"
-  - "tutorials"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # 10 AI Jump Scares + 1 Real AI Scare for Halloween

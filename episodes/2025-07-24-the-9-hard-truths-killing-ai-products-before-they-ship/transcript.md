@@ -11,6 +11,32 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "salesforce"
+  - "slack"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -48,27 +74,6 @@ summary:
   - "# The 9 Hard Truths Killing AI Products Before They Ship
 
 Building with AI is hard"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "lovable"
-  - "make"
-  - "meta"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "salesforce"
-  - "slack"
 ---
 
 # The 9 Hard Truths Killing AI Products Before They Ship

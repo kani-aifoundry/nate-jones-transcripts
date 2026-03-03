@@ -28,6 +28,22 @@ yt_tags:
   - "AI strategy for execs"
   - "jagged intelligence in LLMs"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "career"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "snowflake"
+  - "startups"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -56,16 +72,6 @@ summary:
   - "# 3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction
 
 I've been thinking about Nano Banana Pro and how it's changing how we think about what's solvable and "
-keywords:
-  - "career"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "snowflake"
-  - "startups"
-  - "twitter"
 ---
 
 # 3 Startups Deep in 30 Days: How Nano Banana Pro Just Triggered a Billion-Dollar Chain Reaction

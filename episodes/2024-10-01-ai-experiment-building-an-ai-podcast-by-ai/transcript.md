@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -34,17 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # AI Experiment: Building an AI Podcast, by AI

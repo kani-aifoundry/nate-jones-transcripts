@@ -11,6 +11,34 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "apple"
+  - "aws"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "deepmind"
+  - "frameworks"
+  - "google"
+  - "ibm"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "operator"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -50,28 +78,6 @@ summary:
 
 Okay, you guys asked for it"
   - "That mary is looking at this as a collective effort"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "apple"
-  - "aws"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "deepmind"
-  - "frameworks"
-  - "google"
-  - "ibm"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "operator"
-  - "product-management"
-  - "tutorials"
 ---
 
 # AI Trends 2025: Mary Meeker Deck Deep Dive Part 1

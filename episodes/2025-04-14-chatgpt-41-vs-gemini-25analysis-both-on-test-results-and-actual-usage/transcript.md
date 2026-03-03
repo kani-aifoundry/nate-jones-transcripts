@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -38,20 +55,6 @@ summary:
   - "5—analysis both on test results and actual usage
 
 Okay, it's time to talk about Chad GPT4"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "openai"
-  - "product-management"
 ---
 
 # ChatGPT 4.1 vs Gemini 2.5—analysis both on test results and actual usage

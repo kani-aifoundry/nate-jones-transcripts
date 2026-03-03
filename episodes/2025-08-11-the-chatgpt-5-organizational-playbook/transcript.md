@@ -11,6 +11,34 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "bolt"
+  - "box"
+  - "canvas"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -40,29 +68,6 @@ concepts:
   []
 summary:
   - "And I want to take this briefing and talk that through in detail and give you field notes that you can take to your teams to guide how you shift implementation of AI now that chat GPT5 is in your work"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "bolt"
-  - "box"
-  - "canvas"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # The ChatGPT-5 Organizational Playbook

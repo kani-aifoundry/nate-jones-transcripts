@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "lovable"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tailwind"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,24 +59,6 @@ concepts:
   []
 summary:
   - "# Product Strategy in the Age of AI: What We Can Learn from Lovable"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "lovable"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tailwind"
-  - "tutorials"
 ---
 
 # Product Strategy in the Age of AI: What We Can Learn from Lovable.dev

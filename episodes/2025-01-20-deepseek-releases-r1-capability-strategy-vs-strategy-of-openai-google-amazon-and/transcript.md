@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "aws"
+  - "azure"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "perplexity"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -45,23 +67,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "aws"
-  - "azure"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "perplexity"
 ---
 
 # DeepSeek Releases R1: Capability & Strategy vs. Strategy of OpenAI, Google, Amazon, and Microsoft

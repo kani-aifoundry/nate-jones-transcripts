@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -32,15 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "workflows"
 ---
 
 # Why CrowdStrike Really Happened (Time Machine to 2009 Edition)

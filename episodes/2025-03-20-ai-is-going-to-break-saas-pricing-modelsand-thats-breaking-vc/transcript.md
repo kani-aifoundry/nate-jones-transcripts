@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "salesforce"
+  - "stripe"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -32,16 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "salesforce"
-  - "stripe"
 ---
 
 # AI is Going to Break SAAS Pricing Models—And That's Breaking VC

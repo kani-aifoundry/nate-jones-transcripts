@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "frameworks"
+  - "gpt-5"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,24 +64,6 @@ summary:
   - "# NEW GPT-5 Codex Model Launches
 
 On Monday, September 15th, Chad GPT launched an upgrade to Codeex"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "frameworks"
-  - "gpt-5"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "tutorials"
 ---
 
 # NEW GPT-5 Codex Model Launches

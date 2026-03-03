@@ -29,6 +29,27 @@ yt_tags:
   - "AI context management"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "notion"
+  - "perplexity"
+  - "product-management"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -62,22 +83,6 @@ summary:
   - "# AI's Memory Wall: Why Compute Grew 60,000x But Memory Only 100x (PLUS My 8 Principles to Fix)
 
 Memory is perhaps the biggest unsolved problem in AI and it is one of the only problems in AI that is g"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "notion"
-  - "perplexity"
-  - "product-management"
-  - "x"
 ---
 
 # AI's Memory Wall: Why Compute Grew 60,000x But Memory Only 100x (PLUS My 8 Principles to Fix)

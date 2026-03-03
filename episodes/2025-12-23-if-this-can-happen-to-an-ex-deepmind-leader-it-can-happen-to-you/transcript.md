@@ -28,6 +28,23 @@ yt_tags:
   - "LLM safety"
   - "AI workplace risks"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "career"
+  - "coding"
+  - "deepmind"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -54,17 +71,6 @@ summary:
   - "# If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You
 
 LLM psychosis is going to be a really hot topic in 2026"
-keywords:
-  - "career"
-  - "coding"
-  - "deepmind"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "startups"
 ---
 
 # If This Can Happen to an Ex-DeepMind Leader, It Can Happen to You

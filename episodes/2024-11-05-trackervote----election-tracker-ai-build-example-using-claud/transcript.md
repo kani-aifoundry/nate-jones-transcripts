@@ -7,6 +7,17 @@ duration: "0:50"
 view_count: 381
 
 # AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "github"
+  - "product-management"
+  - "vercel"
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
 difficulty: "Advanced"
@@ -28,13 +39,6 @@ summary:
   - "Vote -- Election Tracker AI Build Example using Claude, Vercel, React
 
 If you'd like to see something that I helped put up just yesterday, you can visit tracker"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "github"
-  - "product-management"
-  - "vercel"
 ---
 
 # Tracker.Vote -- Election Tracker AI Build Example using Claude, Vercel, React

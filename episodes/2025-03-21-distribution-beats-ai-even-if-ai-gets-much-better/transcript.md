@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "apple"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "salesforce"
+  - "startups"
+  - "stripe"
+  - "uber"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -39,21 +59,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "apple"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "salesforce"
-  - "startups"
-  - "stripe"
-  - "uber"
-  - "x"
 ---
 
 # Distribution beats AI, even if AI gets MUCH better

@@ -31,6 +31,34 @@ yt_tags:
   - "LLMs in workflows"
   - "prompt engineering for execs"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "deep-dives"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -63,29 +91,6 @@ summary:
   - "# OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)
 
 ChatGpt launched an absolutely terrible resource for prompting and I think it deserves more attention because we"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "deep-dives"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
 ---
 
 # OpenAI Just Launched 200 Prompts for Pros—They Will Destroy Your Career (Here's Why)

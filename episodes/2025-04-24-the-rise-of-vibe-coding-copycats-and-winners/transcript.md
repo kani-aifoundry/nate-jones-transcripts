@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "bolt"
+  - "canva"
+  - "career"
+  - "coding"
+  - "figma"
+  - "langchain"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -38,20 +57,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "bolt"
-  - "canva"
-  - "career"
-  - "coding"
-  - "figma"
-  - "langchain"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "workflows"
 ---
 
 # The rise of vibe coding: copycats and winners

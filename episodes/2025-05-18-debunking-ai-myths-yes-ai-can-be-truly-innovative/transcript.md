@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "apple"
+  - "artifacts"
+  - "coding"
+  - "deepmind"
+  - "frameworks"
+  - "google"
+  - "ibm"
+  - "make"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -41,21 +62,6 @@ summary:
   - "# Debunking AI Myths: Yes AI Can Be Truly Innovative
 
 You know, yesterday the New York Times published what's essentially a hit piece on the idea that we can make artificial general intelligence"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "apple"
-  - "artifacts"
-  - "coding"
-  - "deepmind"
-  - "frameworks"
-  - "google"
-  - "ibm"
-  - "make"
-  - "product-management"
-  - "workflows"
 ---
 
 # Debunking AI Myths: Yes AI Can Be Truly Innovative

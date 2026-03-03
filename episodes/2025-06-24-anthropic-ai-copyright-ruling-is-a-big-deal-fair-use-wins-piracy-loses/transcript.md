@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "meta"
+  - "opus"
+  - "sonnet"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -39,18 +54,6 @@ summary:
   - "# Anthropic AI Copyright Ruling is a BIG Deal: Fair Use Wins, Piracy Loses
 
 We got a bit of a road map today for the future of copyright cases in AI, which is something that I've been following really"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "meta"
-  - "opus"
-  - "sonnet"
-  - "tutorials"
 ---
 
 # Anthropic AI Copyright Ruling is a BIG Deal: Fair Use Wins, Piracy Loses

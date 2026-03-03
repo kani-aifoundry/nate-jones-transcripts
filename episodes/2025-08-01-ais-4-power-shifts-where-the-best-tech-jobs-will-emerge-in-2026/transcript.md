@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "slack"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -41,19 +59,6 @@ summary:
   - "# AI's 4 Power Shifts: Where the Best Tech Jobs Will Emerge in 2026
 
 I want to talk about AI and jobs"
-keywords:
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "slack"
-  - "tutorials"
 ---
 
 # AI's 4 Power Shifts: Where the Best Tech Jobs Will Emerge in 2026

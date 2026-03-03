@@ -11,6 +11,39 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "langchain"
+  - "lovable"
+  - "make"
+  - "microsoft"
+  - "notion"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "twitter"
+  - "workflows"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -54,33 +87,6 @@ summary:
   - "# Manus AI: What Manus Tells Us About the Future of AI Agents
 
 Manis AAI launched in March of 2025 and I didn't talk about it very much and the reason why is that it was another one of those cases lik"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "langchain"
-  - "lovable"
-  - "make"
-  - "microsoft"
-  - "notion"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "twitter"
-  - "workflows"
-  - "zapier"
 ---
 
 # Manus AI: What Manus Tells Us About the Future of AI Agents

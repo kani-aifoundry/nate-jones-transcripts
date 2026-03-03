@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "career"
+  - "cursor"
+  - "google"
+  - "make"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -36,17 +52,6 @@ concepts:
   []
 summary:
   - "But first, let's find out why everyone's running to the field"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "career"
-  - "cursor"
-  - "google"
-  - "make"
-  - "product-management"
-  - "workflows"
 ---
 
 # Proof Beats Hype: The Path to Trustworthy AI Consulting

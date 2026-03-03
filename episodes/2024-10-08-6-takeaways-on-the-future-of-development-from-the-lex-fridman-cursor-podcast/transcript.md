@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,18 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 6 Takeaways on the Future of Development from the Lex Fridman Cursor Podcast

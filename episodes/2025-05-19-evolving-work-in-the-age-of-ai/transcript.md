@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "artifacts"
+  - "frameworks"
+  - "ibm"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,15 +48,6 @@ summary:
   - "# Evolving Work in the Age of AI
 
 We're talking about pride of ownership today"
-keywords:
-  - "ai-tools"
-  - "artifacts"
-  - "frameworks"
-  - "ibm"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "workflows"
 ---
 
 # Evolving Work in the Age of AI

@@ -27,6 +27,28 @@ yt_tags:
   - "disabled users AI"
   - "building accessible AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "haiku"
+  - "intel"
+  - "linkedin"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,24 +79,6 @@ concepts:
   []
 summary:
   - "Finally, we are going to dive into the vexed question of AI and disability and accessibility"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "haiku"
-  - "intel"
-  - "linkedin"
-  - "lovable"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "product-management"
-  - "prompting"
 ---
 
 # Your AI Can't See 16% of Humanity. Here's the 5-Minute Check That Proves It.

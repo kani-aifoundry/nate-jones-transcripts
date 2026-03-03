@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "chatgpt"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,15 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "chatgpt"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "startups"
 ---
 
 # Why DeepSeek beat ChatGPT in the App Store, plus Privacy, Data Center Investment, AI Acceleration

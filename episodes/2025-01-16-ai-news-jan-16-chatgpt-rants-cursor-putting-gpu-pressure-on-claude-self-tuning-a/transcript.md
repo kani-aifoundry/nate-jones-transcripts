@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "aws"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "jan"
+  - "leadership"
+  - "openai"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,21 +57,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "aws"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "jan"
-  - "leadership"
-  - "openai"
-  - "workflows"
 ---
 
 # AI News Jan 16: ChatGPT Rants, Cursor putting GPU Pressure on Claude, Self-Tuning AI Models

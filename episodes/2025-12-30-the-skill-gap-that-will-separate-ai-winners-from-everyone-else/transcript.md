@@ -26,6 +26,26 @@ yt_tags:
   - "AI agents 2026"
   - "AI strategy for executives"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "atlas"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "model-context-protocol"
+  - "slack"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,21 +77,6 @@ summary:
   - "# The Skill Gap That Will Separate AI Winners from Everyone Else
 
 I think we're all going to have personal chief of staff agents in 2026"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "atlas"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "model-context-protocol"
-  - "slack"
-  - "tutorials"
 ---
 
 # The Skill Gap That Will Separate AI Winners from Everyone Else

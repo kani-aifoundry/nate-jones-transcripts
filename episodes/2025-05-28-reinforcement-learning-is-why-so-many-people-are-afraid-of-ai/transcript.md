@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "box"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "netflix"
+  - "nvidia"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -41,21 +61,6 @@ summary:
   - "# Reinforcement Learning is Why so Many People are Afraid of AI
 
 I want to talk about reinforcement learning and the trajectory that that is changing for the human race"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "box"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "netflix"
-  - "nvidia"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Reinforcement Learning is Why so Many People are Afraid of AI

@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "deep-dives"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "notion"
+  - "openai"
+  - "operator"
+  - "prompting"
+  - "tutorials"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -42,24 +63,6 @@ summary:
   - "# Deep Dive on OpenAI Data Connectors
 
 Open AAI released data connectors yesterday"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "deep-dives"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "notion"
-  - "openai"
-  - "operator"
-  - "prompting"
-  - "tutorials"
-  - "zapier"
 ---
 
 # Deep Dive on OpenAI Data Connectors

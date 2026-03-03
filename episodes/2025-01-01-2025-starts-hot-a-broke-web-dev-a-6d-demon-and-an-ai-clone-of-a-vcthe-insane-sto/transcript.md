@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "coding"
+  - "github"
+  - "make"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -32,15 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "coding"
-  - "github"
-  - "make"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 2025 starts hot: a broke web dev, a 6D demon, and an AI clone of a VC—the insane story of ai16z

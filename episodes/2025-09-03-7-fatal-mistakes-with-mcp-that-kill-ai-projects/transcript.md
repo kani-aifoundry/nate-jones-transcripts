@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "arc"
+  - "box"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,22 +62,6 @@ summary:
   - "# 7 Fatal Mistakes with MCP That Kill AI Projects
 
 I want to talk about MCPs today"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "arc"
-  - "box"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 7 Fatal Mistakes with MCP That Kill AI Projects

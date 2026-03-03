@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "azure"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -38,18 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "azure"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "tutorials"
 ---
 
 # From 1T Tokens to ZB Scale—How to move past the internet and scale LLMs

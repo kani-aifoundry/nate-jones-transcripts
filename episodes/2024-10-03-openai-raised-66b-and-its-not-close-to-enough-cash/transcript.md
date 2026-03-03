@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -36,13 +47,6 @@ summary:
   - "6B and it's not close to enough cash
 
 Sam mman raised the biggest Venture Capital round in history yesterday I don't think it's big enough so 6"
-keywords:
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "startups"
 ---
 
 # OpenAI raised 6.6B and it's not close to enough cash

@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "bolt"
+  - "canvas"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "replit"
+  - "v0"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -39,25 +62,6 @@ concepts:
   []
 summary:
   - "5 is writing code you're probably going to like artifacts better and that's sort of that underlying model drives the software I will say one of the things that is not going to be quite as easy for the"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "bolt"
-  - "canvas"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "replit"
-  - "v0"
-  - "workflows"
 ---
 
 # AI Tool Comparison: ChatGPT, Canvas, Artifacts, Bolt, Replit

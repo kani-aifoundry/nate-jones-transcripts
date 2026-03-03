@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "frameworks"
+  - "leadership"
+  - "meta"
+  - "nvidia"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,18 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "frameworks"
-  - "leadership"
-  - "meta"
-  - "nvidia"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Nvidia's Strategy at Jensen Huang's CES 2025 Keynote: Robotics and AI

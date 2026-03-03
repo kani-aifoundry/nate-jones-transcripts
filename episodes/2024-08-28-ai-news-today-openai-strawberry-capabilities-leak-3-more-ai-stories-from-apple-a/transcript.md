@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "artifacts"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,23 +59,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "artifacts"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # AI News Today: OpenAI Strawberry Capabilities Leak + 3 More AI Stories from Apple, Anthropic, Google

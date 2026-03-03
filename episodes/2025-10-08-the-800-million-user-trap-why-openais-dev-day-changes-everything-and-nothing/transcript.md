@@ -30,6 +30,37 @@ yt_tags:
   - "AI for executives"
   - "multi-model AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "aws"
+  - "career"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -69,31 +100,6 @@ summary:
   - "# The 800 Million User Trap: Why OpenAI's Dev Day Changes Everything (and Nothing)
 
 OpenAI, the makers of Chat GPT, launched a ton of new products"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "aws"
-  - "career"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "x"
 ---
 
 # The 800 Million User Trap: Why OpenAI's Dev Day Changes Everything (and Nothing)

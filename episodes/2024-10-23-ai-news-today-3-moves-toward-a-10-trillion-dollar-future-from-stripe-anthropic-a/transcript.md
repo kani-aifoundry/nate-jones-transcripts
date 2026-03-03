@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "computer-use"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "perplexity"
+  - "product-management"
+  - "stripe"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -39,19 +57,6 @@ concepts:
   []
 summary:
   - "5 which is the other major release that I'm going to talk about so Claud 3"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "computer-use"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "perplexity"
-  - "product-management"
-  - "stripe"
 ---
 
 # AI News Today: 3 moves toward a 10 trillion dollar future from Stripe, Anthropic, and Perplexity

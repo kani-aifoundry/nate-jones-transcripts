@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "make"
+  - "nvidia"
+  - "oracle"
+  - "tsmc"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -34,12 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "make"
-  - "nvidia"
-  - "oracle"
-  - "tsmc"
-  - "workflows"
 ---
 
 # AI: The story of the chips that make our world

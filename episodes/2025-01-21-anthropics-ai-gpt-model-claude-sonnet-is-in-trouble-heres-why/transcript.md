@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "sonnet"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -38,21 +57,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "sonnet"
 ---
 
 # Anthropic's AI GPT Model Claude Sonnet is in Trouble: Here's Why

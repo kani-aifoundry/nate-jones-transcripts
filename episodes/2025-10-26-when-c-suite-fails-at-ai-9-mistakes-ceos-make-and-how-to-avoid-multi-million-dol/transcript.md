@@ -28,6 +28,28 @@ yt_tags:
   - "AI leadership"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "bolt"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "shortcuts"
+  - "slack"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -56,22 +78,6 @@ summary:
   - "# When C-Suite FAILS at AI: 9 Mistakes CEOs Make and How to Avoid Multi-Million Dollar AI Disasters
 
 It seems like AI adoption fails more often than it goes right"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "bolt"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "shortcuts"
-  - "slack"
-  - "tutorials"
-  - "workflows"
 ---
 
 # When C-Suite FAILS at AI: 9 Mistakes CEOs Make and How to Avoid Multi-Million Dollar AI Disasters

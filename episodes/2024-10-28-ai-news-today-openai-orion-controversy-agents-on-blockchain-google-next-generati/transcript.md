@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "apple"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "nvidia"
+  - "openai"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,16 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "apple"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "nvidia"
-  - "openai"
 ---
 
 # AI News Today: OpenAI Orion controversy, agents on blockchain, Google next generation model, etc

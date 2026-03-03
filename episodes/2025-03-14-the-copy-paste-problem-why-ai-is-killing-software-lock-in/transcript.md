@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "bolt"
+  - "box"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "salesforce"
+  - "slack"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,24 +65,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "bolt"
-  - "box"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "salesforce"
-  - "slack"
-  - "youtube"
 ---
 
 # The Copy-Paste Problem: Why AI is Killing Software Lock-In

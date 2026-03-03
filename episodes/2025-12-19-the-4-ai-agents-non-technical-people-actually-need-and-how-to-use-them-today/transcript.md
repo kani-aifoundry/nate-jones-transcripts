@@ -26,6 +26,32 @@ yt_tags:
   - "building with AI"
   - "agent reliability"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "computer-use"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "lovable"
+  - "make"
+  - "notion"
+  - "notion-ai"
+  - "salesforce"
+  - "slack"
+  - "tailwind"
+  - "tutorials"
+  - "workflows"
+  - "x"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -62,28 +88,6 @@ summary:
   - "# The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)
 
 The AI industry has a big terminology problem with agents"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "computer-use"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "lovable"
-  - "make"
-  - "notion"
-  - "notion-ai"
-  - "salesforce"
-  - "slack"
-  - "tailwind"
-  - "tutorials"
-  - "workflows"
-  - "x"
-  - "zapier"
 ---
 
 # The 4 AI Agents Non-Technical People Actually Need (And How to Use Them Today)

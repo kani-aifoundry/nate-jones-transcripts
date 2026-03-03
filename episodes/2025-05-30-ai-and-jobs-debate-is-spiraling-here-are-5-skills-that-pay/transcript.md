@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "shopify"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -40,21 +59,6 @@ summary:
   - "# AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay
 
 We need to talk about AI and jobs"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "lovable"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "shopify"
-  - "tutorials"
 ---
 
 # AI and Jobs Debate is Spiraling: Here are 5+ Skills that Pay

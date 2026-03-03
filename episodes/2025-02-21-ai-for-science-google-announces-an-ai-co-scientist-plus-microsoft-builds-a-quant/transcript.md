@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "microsoft"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,17 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "microsoft"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # AI for science: Google announces an AI co-scientist, plus Microsoft builds a quantum chip

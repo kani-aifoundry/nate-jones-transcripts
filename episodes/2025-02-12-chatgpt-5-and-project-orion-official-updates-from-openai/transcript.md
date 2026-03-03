@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "openai"
+  - "operator"
+  - "product-management"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,19 +52,6 @@ concepts:
   []
 summary:
   - "5 or oion is really in that first class it's a fast response model it's just very very good now that being said he has made it clear that that is the last Model that they are going to release as a sep"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "openai"
-  - "operator"
-  - "product-management"
-  - "twitter"
 ---
 
 # ChatGPT 5 and Project Orion: Official Updates from OpenAI

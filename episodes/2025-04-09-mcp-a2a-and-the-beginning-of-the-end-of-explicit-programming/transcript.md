@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "product-management"
+  - "prompting"
+  - "salesforce"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,20 +54,6 @@ summary:
   - "# MCP, A2A, and the Beginning of the End of Explicit Programming
 
 Today something really massive happened in AI architecture and I don't think most of us realize how big it is"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "product-management"
-  - "prompting"
-  - "salesforce"
-  - "tutorials"
 ---
 
 # MCP, A2A, and the Beginning of the End of Explicit Programming

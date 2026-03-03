@@ -25,6 +25,31 @@ yt_tags:
   - "upskilling with AI"
   - "AI productivity stack"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "atlas"
+  - "box"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "deep-dives"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "linkedin"
+  - "lovable"
+  - "make"
+  - "mcp"
+  - "perplexity"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -61,27 +86,6 @@ summary:
   - "# Nov 2025: My Personal AI Stack—Pros, Cons, and Pitfalls
 
 Today I'm going to do something I've never done"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "atlas"
-  - "box"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "deep-dives"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "linkedin"
-  - "lovable"
-  - "make"
-  - "mcp"
-  - "perplexity"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "x"
 ---
 
 # Nov 2025: My Personal AI Stack—Pros, Cons, and Pitfalls

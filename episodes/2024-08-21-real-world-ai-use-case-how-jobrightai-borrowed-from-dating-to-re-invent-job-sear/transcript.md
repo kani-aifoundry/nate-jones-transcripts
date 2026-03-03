@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "leadership"
+  - "linkedin"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Case Study"
@@ -34,15 +47,6 @@ summary:
   - "AI Borrowed from Dating to Re-Invent Job Search
 
 it's really really hard to build a consumer facing product right now because AI is changing so fast but I want to tell you about one that I think is an"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "leadership"
-  - "linkedin"
-  - "product-management"
-  - "tutorials"
 ---
 
 # Real World AI Use-Case: How JobRight.AI Borrowed from Dating to Re-Invent Job Search

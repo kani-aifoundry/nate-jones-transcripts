@@ -6,6 +6,23 @@ duration: "4:21"
 view_count: 1040
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "tutorials"
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
@@ -29,17 +46,6 @@ summary:
   - "# The True Cost of Wrong Product Decisions: Debunking Common Myths
 
 Okay, I wanted to talk a little bit today about the biggest flaw that I see in most product management thinking"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "tutorials"
 ---
 
 # The True Cost of Wrong Product Decisions: Debunking Common Myths

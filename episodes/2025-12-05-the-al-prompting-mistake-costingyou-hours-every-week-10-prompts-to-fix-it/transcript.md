@@ -26,6 +26,12 @@ yt_tags:
   - "task automation"
   - "Claude Opus"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "amd"
+  - "azure"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "product-management"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -40,21 +60,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "amd"
-  - "azure"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "product-management"
-  - "x"
 ---
 
 # July 2024 AI Tech News: the strategy behind the Q3 earnings headlines for chips and cloud

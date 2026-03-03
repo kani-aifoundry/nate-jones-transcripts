@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "make"
+  - "mcp"
+  - "product-management"
+  - "projects"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,22 +62,6 @@ summary:
   - "# We Got Claude Code Backwards: It Isn't Just Code–It's Anthropic's Hidden Super-Agent in Plain Sight
 
 We've got clawed code backwards"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "make"
-  - "mcp"
-  - "product-management"
-  - "projects"
-  - "startups"
-  - "tutorials"
 ---
 
 # We Got Claude Code Backwards: It Isn't Just Code–It's Anthropic's Hidden Super-Agent in Plain Sight

@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,16 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Move Past the AI Hype: 10 Actual Use-Cases for Large Language Models from Engineers

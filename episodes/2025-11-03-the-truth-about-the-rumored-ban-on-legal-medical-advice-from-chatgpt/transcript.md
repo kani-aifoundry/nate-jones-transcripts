@@ -28,6 +28,17 @@ yt_tags:
   - "AI communication"
   - "LLM testing"
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "leadership"
+  - "openai"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -50,14 +61,6 @@ summary:
   - "# The Truth About the Rumored 'Ban' on Legal & Medical Advice from ChatGPT
 
 Lies travel faster than truth and Reddit lies travel fastest of all"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "leadership"
-  - "openai"
-  - "prompting"
-  - "tutorials"
 ---
 
 # The Truth About the Rumored 'Ban' on Legal & Medical Advice from ChatGPT

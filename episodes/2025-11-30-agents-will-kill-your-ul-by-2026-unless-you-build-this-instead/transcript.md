@@ -28,6 +28,34 @@ yt_tags:
   - "AI agents in SaaS"
   - "generative UI for enterprises"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "computer-use"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "nano-banana"
+  - "nanobanana-pro"
+  - "oracle"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "salesforce"
+  - "shortcuts"
+  - "slack"
+  - "startups"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -67,28 +95,6 @@ summary:
   - "# Agents Will Kill Your Ul by 2026--Unless You Build This Instead
 
 This week's executive briefing is all about the future of intelligent pixels"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "computer-use"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "nano-banana"
-  - "nanobanana-pro"
-  - "oracle"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "salesforce"
-  - "shortcuts"
-  - "slack"
-  - "startups"
-  - "tutorials"
-  - "x"
 ---
 
 # Agents Will Kill Your Ul by 2026--Unless You Build This Instead

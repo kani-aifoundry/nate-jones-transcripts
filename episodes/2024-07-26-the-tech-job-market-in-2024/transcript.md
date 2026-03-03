@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,15 +49,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "startups"
-  - "workflows"
 ---
 
 # The Tech Job Market in 2024

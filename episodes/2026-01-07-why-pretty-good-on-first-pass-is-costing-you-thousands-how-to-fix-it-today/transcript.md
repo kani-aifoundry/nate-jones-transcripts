@@ -29,6 +29,11 @@ yt_tags:
   - "agent reliability"
   - "AI workflows"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

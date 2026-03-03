@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "product-management"
+  - "prompting"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -38,17 +53,6 @@ summary:
   - "0 is here—this feels like the future of AI
 
 Google is not to be outdone they just dropped Google Flash 2"
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "product-management"
-  - "prompting"
-  - "workflows"
-  - "youtube"
 ---
 
 # Google Gemini 2.0 is here—this feels like the future of AI

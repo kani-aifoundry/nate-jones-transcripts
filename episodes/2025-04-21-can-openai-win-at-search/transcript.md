@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "o3"
+  - "openai"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,16 +51,6 @@ concepts:
   []
 summary:
   - "All right, I want to do one of those rare Nate shows the screen videos because I want to talk about something that I think is getting solved that hasn't really been properly solved until now"
-keywords:
-  - "ai-strategy"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "o3"
-  - "openai"
-  - "product-management"
-  - "tutorials"
 ---
 
 # Can OpenAI Win at Search?

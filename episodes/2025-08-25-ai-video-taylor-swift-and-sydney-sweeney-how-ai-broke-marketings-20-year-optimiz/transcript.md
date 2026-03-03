@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "midjourney"
+  - "notion"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -39,15 +53,6 @@ summary:
   - "# AI Video, Taylor Swift, and Sydney Sweeney: How AI Broke Marketing's 20-Year Optimization Status Quo
 
 All right, stay with me"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "midjourney"
-  - "notion"
-  - "product-management"
 ---
 
 # AI Video, Taylor Swift, and Sydney Sweeney: How AI Broke Marketing's 20-Year Optimization Status Quo

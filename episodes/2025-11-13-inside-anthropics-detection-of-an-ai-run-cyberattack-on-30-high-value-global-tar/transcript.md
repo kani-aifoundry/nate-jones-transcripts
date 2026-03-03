@@ -28,6 +28,29 @@ yt_tags:
   - "AI defense strategy"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "operator"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -58,24 +81,6 @@ summary:
   - "# Inside Anthropic's Detection of an AI-Run Cyberattack on 30 High Value Global Targets
 
 News broke today, November 13th, that Anthropic has successfully repelled a Chinese state sponsored attack empl"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "operator"
-  - "product-management"
-  - "prompting"
 ---
 
 # Inside Anthropic's Detection of an AI-Run Cyberattack on 30 High Value Global Targets

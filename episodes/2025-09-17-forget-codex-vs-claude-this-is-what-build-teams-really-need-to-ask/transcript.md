@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "cursor"
+  - "github"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -43,24 +67,6 @@ summary:
   - "Claude: This is What Build Teams REALLY Need to Ask
 
 I have a very simple thesis which may not be popular but is nonetheless true"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "cursor"
-  - "github"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "workflows"
 ---
 
 # Forget Codex vs. Claude: This is What Build Teams REALLY Need to Ask

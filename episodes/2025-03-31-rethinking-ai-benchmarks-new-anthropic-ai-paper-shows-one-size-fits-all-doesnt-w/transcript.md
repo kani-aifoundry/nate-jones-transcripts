@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "anthropic"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -34,16 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "anthropic"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "prompting"
 ---
 
 # Rethinking AI Benchmarks: New Anthropic AI Paper Shows One-Size-Fits-All Doesn't Work

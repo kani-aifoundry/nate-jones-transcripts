@@ -25,6 +25,12 @@ yt_tags:
   - "agentic workflows"
   - "AI strategy for leaders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"

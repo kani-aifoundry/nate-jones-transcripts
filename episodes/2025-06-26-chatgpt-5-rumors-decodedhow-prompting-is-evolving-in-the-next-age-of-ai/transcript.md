@@ -11,6 +11,33 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "canvas"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "openai"
+  - "operator"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -46,28 +73,6 @@ summary:
   - "# ChatGPT-5 Rumors Decoded—How Prompting is Evolving in the Next Age of AI
 
 It is possible to prepare for chat GPT5 now"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "canvas"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "openai"
-  - "operator"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # ChatGPT-5 Rumors Decoded—How Prompting is Evolving in the Next Age of AI

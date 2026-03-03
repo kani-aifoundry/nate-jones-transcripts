@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -33,17 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # OpenAI: Voice Mode is out!

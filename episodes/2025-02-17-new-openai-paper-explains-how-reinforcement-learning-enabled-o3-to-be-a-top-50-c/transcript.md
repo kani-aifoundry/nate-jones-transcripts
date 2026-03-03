@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "o3"
+  - "openai"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -33,13 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "o3"
-  - "openai"
 ---
 
 # New OpenAI Paper Explains how Reinforcement Learning Enabled o3 to be a top 50 coder

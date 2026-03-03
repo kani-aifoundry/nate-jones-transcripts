@@ -28,6 +28,24 @@ yt_tags:
   - "AI search tools"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "atlas"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -59,21 +77,6 @@ summary:
   - "Claude Head-to-Head on Black Friday Deals: Prompts & Demo
 
 I put five AIs to the test on Black Friday and I want to share the results right here with you"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "atlas"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # ChatGPT vs. Gemini vs. Claude Head-to-Head on Black Friday Deals: Prompts & Demo

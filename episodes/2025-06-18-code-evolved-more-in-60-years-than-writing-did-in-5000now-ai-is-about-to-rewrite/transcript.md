@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "opus"
+  - "perplexity"
+  - "product-management"
+  - "sonnet"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -41,21 +62,6 @@ concepts:
   []
 summary:
   - "The point is code is evolving fast because code was designed to evolve with developing uh and more powerful computer systems and natural language has only been bolted onto computers"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "opus"
-  - "perplexity"
-  - "product-management"
-  - "sonnet"
-  - "workflows"
 ---
 
 # Code Evolved More in 60 Years than Writing did in 5,000—Now AI is About to Rewrite Writing

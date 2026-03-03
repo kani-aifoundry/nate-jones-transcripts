@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "frameworks"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,14 +48,6 @@ summary:
   - "# We are missing the real AI misalignment risk
 
 I think we're getting misalignment wrong"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "frameworks"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "prompting"
 ---
 
 # We are missing the real AI misalignment risk

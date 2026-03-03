@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "amazon"
+  - "google"
+  - "nvidia"
+  - "tesla"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,13 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "amazon"
-  - "google"
-  - "nvidia"
-  - "tesla"
-  - "twitter"
-  - "x"
 ---
 
 # This was the biggest week in tech ever - Tesla, SpaceX, xAI

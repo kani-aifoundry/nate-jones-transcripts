@@ -27,6 +27,31 @@ yt_tags:
   - "business artifacts"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "operator"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -63,26 +88,6 @@ summary:
   - "Gemini 3: What Benchmarks Won't Tell You
 
 simple wins"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "operator"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "workflows"
 ---
 
 # ChatGPT 5.2 vs. Claude Opus 4.5 vs. Gemini 3: What Benchmarks Won't Tell You

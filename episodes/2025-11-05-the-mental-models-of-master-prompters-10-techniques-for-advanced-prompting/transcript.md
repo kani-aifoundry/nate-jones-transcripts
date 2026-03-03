@@ -29,6 +29,22 @@ yt_tags:
   - "AI strategy for operators"
   - "AI jobs for builders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -54,17 +70,6 @@ summary:
   - "# The Mental Models of Master Prompters: 10 Techniques for Advanced Prompting
 
 Teaching AI is really hard"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # The Mental Models of Master Prompters: 10 Techniques for Advanced Prompting

@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "anthropic"
+  - "aws"
+  - "career"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "openai"
+  - "product-management"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -35,17 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "anthropic"
-  - "aws"
-  - "career"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "openai"
-  - "product-management"
-  - "startups"
 ---
 
 # Anthropic and OpenAI Disagree Over Superintelligence Timing, Anthropic Gets 1B from Google

@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "openai"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,19 +51,6 @@ concepts:
   []
 summary:
   - "5 at a lot of the things that people really use these models for like English like math like coding Etc so there you have it deep seek V3 new four class model Champion cheers"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "openai"
-  - "startups"
-  - "workflows"
 ---
 
 # This model is better than ChatGPT and 10x cheaper

@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "box"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,18 +53,6 @@ summary:
   - "# AI Jargon, Demystified: 3 Concepts Everyone Misunderstands
 
 I want to take a minute to talk about three tricky ideas in AI"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "box"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # AI Jargon, Demystified: 3 Concepts Everyone Misunderstands

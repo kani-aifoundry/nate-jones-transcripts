@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "artifacts"
+  - "canvas"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "notion"
+  - "slack"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -41,22 +62,6 @@ summary:
   - "# The New AI Operating System of Work—Goodbye Docs, Hello Executable Artifacts
 
 We are moving to a new operating surface at work"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "artifacts"
-  - "canvas"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "notion"
-  - "slack"
-  - "workflows"
 ---
 
 # The New AI Operating System of Work—Goodbye Docs, Hello Executable Artifacts

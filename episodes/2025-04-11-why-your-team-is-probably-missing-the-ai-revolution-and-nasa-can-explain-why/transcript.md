@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "career"
+  - "gemini"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,16 +48,6 @@ summary:
   - "# Why Your Team is Probably Missing the AI Revolution (And NASA Can Explain Why)
 
 Hey guys, I want to talk about something that is keeping me up at night that almost nobody is talking about"
-keywords:
-  - "ai-tools"
-  - "career"
-  - "gemini"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Why Your Team is Probably Missing the AI Revolution (And NASA Can Explain Why)

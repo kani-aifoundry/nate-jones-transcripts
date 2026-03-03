@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "aws"
+  - "bolt"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "nvidia"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -41,24 +64,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "aws"
-  - "bolt"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "nvidia"
-  - "product-management"
 ---
 
 # AI News: AWS $4B Anthropic Deal, Windsurf vs Cursor—The Battle of Agentic LLM Coding Applications

@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "azure"
+  - "claude"
+  - "coding"
+  - "computer-use"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "microsoft"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,21 +53,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "azure"
-  - "claude"
-  - "coding"
-  - "computer-use"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "microsoft"
-  - "workflows"
 ---
 
 # Azure Ignite Preview

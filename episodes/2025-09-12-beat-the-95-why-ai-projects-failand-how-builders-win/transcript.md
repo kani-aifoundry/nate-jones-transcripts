@@ -11,6 +11,34 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -43,28 +71,6 @@ summary:
   - "# Beat the 95%: Why AI Projects Fail—And How Builders Win
 
 In the next few minutes, I'm going to save you at least six hours of work"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Beat the 95%: Why AI Projects Fail—And How Builders Win

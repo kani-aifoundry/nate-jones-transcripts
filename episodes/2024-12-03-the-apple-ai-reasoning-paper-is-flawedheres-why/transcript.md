@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "apple"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "prompting"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -32,15 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "apple"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "prompting"
-  - "workflows"
-  - "youtube"
 ---
 
 # The Apple AI Reasoning Paper is Flawed—Here's Why

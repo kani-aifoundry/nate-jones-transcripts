@@ -28,6 +28,25 @@ yt_tags:
   - "AI for teams"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -55,20 +74,6 @@ summary:
   - "# I Spent 200 Hours Teaching AI Writing—Here Are 6 Principles Everyone Gets WRONG (+ Demo Prompt)
 
 AI has dropped the cost of business writing to nearly zero"
-keywords:
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # I Spent 200 Hours Teaching AI Writing—Here Are 6 Principles Everyone Gets WRONG (+ Demo Prompt)

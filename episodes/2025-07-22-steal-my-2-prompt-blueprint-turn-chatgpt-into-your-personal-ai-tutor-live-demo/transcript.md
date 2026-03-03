@@ -29,6 +29,27 @@ yt_tags:
   - "Study Buddy"
   - "Tech Tutorials"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "box"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "meta"
+  - "notion"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -61,23 +82,6 @@ summary:
   - "# Steal My 2-Prompt Blueprint: Turn ChatGPT Into Your Personal AI Tutor (Live Demo)
 
 You know, the details of how we prompt profoundly influence AI"
-keywords:
-  - "ai-tools"
-  - "box"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "meta"
-  - "notion"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Steal My 2-Prompt Blueprint: Turn ChatGPT Into Your Personal AI Tutor (Live Demo)

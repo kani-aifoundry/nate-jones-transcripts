@@ -29,6 +29,34 @@ yt_tags:
   - "AI strategy for operators"
   - "prompt engineering lifecycle"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "langchain"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "notion"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "tailwind"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -66,29 +94,6 @@ summary:
   - "# Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo
 
 Prompting is really weird because it's the most wild west software space I've ever seen, but it's also a highly lev"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "langchain"
-  - "lovable"
-  - "make"
-  - "nano-banana"
-  - "notion"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "tailwind"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Prompting is the Wild West: Here's the Prompt Lifecycle Guide + 19 Tools + a Demo

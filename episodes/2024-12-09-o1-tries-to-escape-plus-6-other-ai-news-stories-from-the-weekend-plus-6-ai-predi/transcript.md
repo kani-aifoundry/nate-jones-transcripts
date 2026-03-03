@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "bolt"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "o1"
+  - "openai"
+  - "projects"
+  - "sora"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -39,24 +61,6 @@ concepts:
   []
 summary:
   - "5 or GP pt5 I'm not sure which I don't know what they'll call it their naming conventions are weird and the reason that's important and again they don't make this clear but GPT 4"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "bolt"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "o1"
-  - "openai"
-  - "projects"
-  - "sora"
 ---
 
 # o1 tries to escape plus 6 other AI news stories from the weekend plus 6 AI predictions for this week

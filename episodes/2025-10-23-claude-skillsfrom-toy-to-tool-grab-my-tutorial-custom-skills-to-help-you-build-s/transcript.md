@@ -28,6 +28,22 @@ yt_tags:
   - "Claude code"
   - "AI upskilling"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "make"
+  - "meta"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,18 +70,6 @@ summary:
   - "# Claude Skills—From TOY to TOOL: Grab My Tutorial + Custom Skills To Help You Build Skills Fast
 
 Claude skills took the world by storm last week"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "make"
-  - "meta"
-  - "prompting"
-  - "tutorials"
 ---
 
 # Claude Skills—From TOY to TOOL: Grab My Tutorial + Custom Skills To Help You Build Skills Fast

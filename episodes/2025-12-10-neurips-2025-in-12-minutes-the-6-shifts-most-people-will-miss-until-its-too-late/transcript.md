@@ -27,6 +27,28 @@ yt_tags:
   - "frontier models"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "apple"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "product-management"
+  - "prompting"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -57,23 +79,6 @@ summary:
 
 In the next 10 minutes, I'm going to give you everything you need to know about Nurups 2025"
   - "That we suddenly have generalpurpose household robots around the corner because the ceiling on what agentic systems can learn from raw interaction is higher than people thought"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "apple"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "product-management"
-  - "prompting"
-  - "workflows"
 ---
 
 # NeurIPS 2025 in 12 Minutes: The 6 Shifts Most People Will Miss Until It's Too Late

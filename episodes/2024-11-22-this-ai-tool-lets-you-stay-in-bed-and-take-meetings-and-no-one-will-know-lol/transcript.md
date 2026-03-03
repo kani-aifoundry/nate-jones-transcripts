@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "whisper"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,15 +46,6 @@ concepts:
   []
 summary:
   - "aai and no this is not an endorsement of any kind this is just me thinking this is a really really interesting problem space so there you go check out getp pickle"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "whisper"
 ---
 
 # This AI Tool Lets You Stay in Bed and Take Meetings and No One Will Know lol

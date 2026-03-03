@@ -29,6 +29,21 @@ yt_tags:
   - "token budgets"
   - "auditability"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -52,17 +67,6 @@ summary:
   - "# I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles
 
 We are going to talk about the six principles for AI systems that I wish everyone knew"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
 ---
 
 # I've Built Over 100 AI Agents: Only 1% of Builders Know These 6 Principles

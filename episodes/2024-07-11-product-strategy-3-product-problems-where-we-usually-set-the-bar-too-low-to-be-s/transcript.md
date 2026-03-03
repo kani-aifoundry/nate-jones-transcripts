@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "career"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -32,17 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "career"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "workflows"
 ---
 
 # Product Strategy: 3 product problems where we usually set the bar too low to be successful

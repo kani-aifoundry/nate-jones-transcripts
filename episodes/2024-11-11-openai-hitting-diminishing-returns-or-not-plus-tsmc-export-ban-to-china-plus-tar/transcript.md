@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "o1"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tsmc"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,18 +54,6 @@ summary:
   - "# OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC
 
 We have three really big pieces of AI news today"
-keywords:
-  - "ai-news"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "o1"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tsmc"
 ---
 
 # OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC

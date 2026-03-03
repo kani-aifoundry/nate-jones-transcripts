@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "mistral"
+  - "openai"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,18 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "mistral"
-  - "openai"
 ---
 
 # AI News: ChatGPT 4o Creative Writing Release, Plus Claude Gets Too Real With Mistral

@@ -28,6 +28,22 @@ yt_tags:
   - "web automation tools"
   - "AI for operators"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "atlas"
+  - "grammarly"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "meta"
+  - "openai"
+  - "perplexity"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -58,18 +74,6 @@ summary:
   - "# I Tested OpenAI's Atlas Browser on 12+ Tasks—Here's My Full Breakdwon + Grade
 
 OpenAI heated up the browser wars by launching their browser that is AI enabled called Atlas"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "atlas"
-  - "grammarly"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "meta"
-  - "openai"
-  - "perplexity"
-  - "youtube"
 ---
 
 # I Tested OpenAI's Atlas Browser on 12+ Tasks—Here's My Full Breakdwon + Grade

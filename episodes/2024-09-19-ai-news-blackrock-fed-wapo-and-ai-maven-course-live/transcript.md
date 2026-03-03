@@ -9,6 +9,23 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "anthropic"
+  - "coding"
+  - "frameworks"
+  - "microsoft"
+  - "o1"
+  - "openai"
+  - "prompting"
+  - "sonnet"
+  - "twitter"
+  - "x"
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI News"
 difficulty: "Intermediate"
@@ -32,18 +49,6 @@ concepts:
   []
 summary:
   - "# AI News: Blackrock, Fed, WaPo and AI Maven Course Live"
-keywords:
-  - "ai-news"
-  - "anthropic"
-  - "coding"
-  - "frameworks"
-  - "microsoft"
-  - "o1"
-  - "openai"
-  - "prompting"
-  - "sonnet"
-  - "twitter"
-  - "x"
 ---
 
 # AI News: Blackrock, Fed, WaPo and AI Maven Course Live!

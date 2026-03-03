@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "aws"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "netflix"
+  - "notion"
+  - "product-management"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -39,20 +58,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "aws"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "netflix"
-  - "notion"
-  - "product-management"
-  - "youtube"
 ---
 
 # 10 ways you can become more technical as a PM

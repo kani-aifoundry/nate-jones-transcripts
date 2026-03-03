@@ -37,6 +37,32 @@ yt_tags:
   - "Perplexity prompt strategy"
   - "avoid AI hallucinations"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "openai"
+  - "perplexity"
+  - "prompting"
+  - "sonnet"
+  - "sora"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -75,27 +101,6 @@ summary:
   - "# Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo
 
 How do you search with AI and make it good"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "openai"
-  - "perplexity"
-  - "prompting"
-  - "sonnet"
-  - "sora"
-  - "tutorials"
-  - "x"
 ---
 
 # Master Perplexity Prompting -- Why It's Different from ChatGPT + Demo

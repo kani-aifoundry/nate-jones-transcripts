@@ -28,6 +28,36 @@ yt_tags:
   - "sovereign AI strategy"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "azure"
+  - "box"
+  - "canvas"
+  - "claude"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "slack"
+  - "sonnet"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -72,31 +102,6 @@ summary:
 
 The state of AI report is finally out"
   - "That the model iq contest is over and the infrastructure wars are just beginning"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "azure"
-  - "box"
-  - "canvas"
-  - "claude"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "slack"
-  - "sonnet"
-  - "workflows"
 ---
 
 # I Summarized the 313 Slide State of AI Report so You Don't Have to Read It—Here's the TLDR

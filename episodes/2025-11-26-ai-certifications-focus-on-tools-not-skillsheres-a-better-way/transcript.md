@@ -27,6 +27,34 @@ yt_tags:
   - "AI evaluation"
   - "AI skill development"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "tutorials"
+  - "whisper"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -61,29 +89,6 @@ summary:
   - "# AI Certifications Focus on Tools NOT Skills—Here's a Better Way
 
 How do I learn AI"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "nano-banana"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "tutorials"
-  - "whisper"
-  - "workflows"
 ---
 
 # AI Certifications Focus on Tools NOT Skills—Here's a Better Way

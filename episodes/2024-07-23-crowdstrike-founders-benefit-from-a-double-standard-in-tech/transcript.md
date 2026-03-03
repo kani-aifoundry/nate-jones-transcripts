@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "intel"
+  - "leadership"
+  - "make"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,13 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "intel"
-  - "leadership"
-  - "make"
-  - "startups"
 ---
 
 # CrowdStrike: Founders benefit from a double standard in tech

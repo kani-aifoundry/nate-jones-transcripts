@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "stripe"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,14 +48,6 @@ summary:
   - "# Transformers are Universal Learning Machines
 
 What if transformer-based models were universal learning machines"
-keywords:
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "stripe"
 ---
 
 # Transformers are Universal Learning Machines

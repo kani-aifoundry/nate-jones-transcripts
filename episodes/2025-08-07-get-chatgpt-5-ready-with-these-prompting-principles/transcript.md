@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -44,23 +65,6 @@ summary:
   - "# Get ChatGPT-5 Ready with These Prompting Principles
 
 We're going to do two things today"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # Get ChatGPT-5 Ready with These Prompting Principles

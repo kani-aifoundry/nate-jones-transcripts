@@ -11,6 +11,15 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "frameworks"
+  - "leadership"
+  - "meta"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -31,12 +40,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "frameworks"
-  - "leadership"
-  - "meta"
-  - "tutorials"
 ---
 
 # This is the wildest AI intern story I have ever heard

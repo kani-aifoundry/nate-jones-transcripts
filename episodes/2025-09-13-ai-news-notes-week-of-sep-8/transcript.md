@@ -11,6 +11,38 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "artifacts"
+  - "aws"
+  - "azure"
+  - "claude"
+  - "claude-code"
+  - "figma"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "nano-banana"
+  - "openai"
+  - "operator"
+  - "opus"
+  - "oracle"
+  - "projects"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -55,33 +87,6 @@ summary:
 
 what was most important that happened in AI this week"
   - "That you should not be trying to compete on primitives"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "artifacts"
-  - "aws"
-  - "azure"
-  - "claude"
-  - "claude-code"
-  - "figma"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "nano-banana"
-  - "openai"
-  - "operator"
-  - "opus"
-  - "oracle"
-  - "projects"
-  - "tutorials"
 ---
 
 # AI News & Notes: Week of Sep 8

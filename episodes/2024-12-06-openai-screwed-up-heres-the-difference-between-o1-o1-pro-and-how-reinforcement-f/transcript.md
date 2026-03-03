@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "o1"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,18 +49,6 @@ concepts:
   []
 summary:
   - "5 all of them were way too wordy and had critiques that just stretched on and on and on it was difficult to make sense of and it wasn't that they were wrong like Sonet 3"
-keywords:
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "o1"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # OpenAI Screwed Up: Here's the Difference Between o1, o1 Pro, and how Reinforcement Fine-Tuning Fits

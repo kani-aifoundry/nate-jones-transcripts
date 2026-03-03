@@ -11,6 +11,32 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "model-context-protocol"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -45,28 +71,6 @@ summary:
   - "# This is AI Super Week: Here's Why
 
 This is an absolutely crazy week and I want to tell you why"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "model-context-protocol"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "tutorials"
 ---
 
 # This is AI Super Week: Here's Why

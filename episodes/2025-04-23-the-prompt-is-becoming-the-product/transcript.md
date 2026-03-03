@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "n8n"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,20 +55,6 @@ summary:
   - "# The Prompt is Becoming the Product
 
 I want to talk about the idea of the prompt becoming the product with 03"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "n8n"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # The Prompt is Becoming the Product

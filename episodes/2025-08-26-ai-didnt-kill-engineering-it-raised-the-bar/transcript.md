@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -38,19 +56,6 @@ summary:
   - "# AI Didn't Kill Engineering: It Raised the Bar
 
 This is a love letter to engineering"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "x"
 ---
 
 # AI Didn't Kill Engineering: It Raised the Bar

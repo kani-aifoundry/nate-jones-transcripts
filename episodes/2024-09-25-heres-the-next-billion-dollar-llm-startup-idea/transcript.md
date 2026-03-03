@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "shopify"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -37,21 +58,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "shopify"
-  - "startups"
-  - "tutorials"
 ---
 
 # Here's the next billion dollar LLM startup idea

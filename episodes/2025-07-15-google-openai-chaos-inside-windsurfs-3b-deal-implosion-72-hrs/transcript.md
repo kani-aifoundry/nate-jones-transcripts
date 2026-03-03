@@ -29,6 +29,39 @@ yt_tags:
   - "Venture Capital"
   - "Windsurf Deal"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "bolt"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "startups"
+  - "uber"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -69,33 +102,6 @@ summary:
   - "# Google, OpenAI, Chaos: Inside Windsurf's $3B Deal Implosion (72 hrs)
 
 Wind surf is one of the most insane startup stories that I have run across in couple of decades hanging out around Silicon Valle"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "bolt"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "startups"
-  - "uber"
 ---
 
 # Google, OpenAI, Chaos: Inside Windsurf's $3B Deal Implosion (72 hrs)

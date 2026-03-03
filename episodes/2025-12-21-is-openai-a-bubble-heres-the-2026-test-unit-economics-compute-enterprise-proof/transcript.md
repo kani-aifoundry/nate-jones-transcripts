@@ -26,6 +26,32 @@ yt_tags:
   - "AI mental models"
   - "OpenAI 2026"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "runway"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -61,27 +87,6 @@ summary:
   - "Here's the 2026 Test (Unit Economics + Compute + Enterprise Proof)
 
 Most people are still talking about OpenAI the way they talked about Apple back in 2008, as if the whole story is who has the best d"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "runway"
 ---
 
 # Is OpenAI a Bubble? Here's the 2026 Test (Unit Economics + Compute + Enterprise Proof)

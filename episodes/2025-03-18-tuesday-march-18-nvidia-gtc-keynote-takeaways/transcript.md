@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "anthropic"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "product-management"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,17 +53,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "anthropic"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "product-management"
-  - "startups"
 ---
 
 # Tuesday March 18: Nvidia GTC Keynote Takeaways

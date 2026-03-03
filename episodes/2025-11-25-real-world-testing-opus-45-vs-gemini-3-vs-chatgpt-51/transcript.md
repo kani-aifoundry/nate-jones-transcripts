@@ -28,6 +28,29 @@ yt_tags:
   - "AI strategy for teams"
   - "AI jobs for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
 
 # AI-enriched metadata
 content_type: "Case Study"
@@ -62,24 +85,6 @@ concepts:
   - "That when i ran that test, i was testing gemini 3, chat gpt 5"
 summary:
   - "Don't worry, I'm going to get into the comparison versus Gemini where I have actually found it useful using Opus 4"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
 ---
 
 # Real World Testing: Opus 4.5 vs. Gemini 3 vs. ChatGPT 5.1

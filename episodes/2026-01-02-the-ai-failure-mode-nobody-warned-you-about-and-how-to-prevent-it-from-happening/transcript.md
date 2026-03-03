@@ -28,6 +28,23 @@ yt_tags:
   - "AI execution"
   - "intent representation"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "bolt"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "langchain"
+  - "make"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -55,18 +72,6 @@ summary:
   - "# The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)
 
 Just picture this"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "bolt"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "langchain"
-  - "make"
-  - "prompting"
-  - "tutorials"
 ---
 
 # The AI Failure Mode Nobody Warned You About (And how to prevent it from happening)

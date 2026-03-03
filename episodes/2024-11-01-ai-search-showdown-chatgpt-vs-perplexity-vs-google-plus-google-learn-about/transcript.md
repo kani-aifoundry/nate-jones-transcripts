@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "deep-dives"
+  - "google"
+  - "make"
+  - "openai"
+  - "perplexity"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,15 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "deep-dives"
-  - "google"
-  - "make"
-  - "openai"
-  - "perplexity"
 ---
 
 # AI Search Showdown: ChatGPT vs. Perplexity vs. Google plus Google Learn About

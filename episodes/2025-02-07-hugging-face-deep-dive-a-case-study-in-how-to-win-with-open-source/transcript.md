@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "hugging-face"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,16 +48,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-strategy"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "hugging-face"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Hugging Face Deep Dive: A Case Study in How to Win with Open Source

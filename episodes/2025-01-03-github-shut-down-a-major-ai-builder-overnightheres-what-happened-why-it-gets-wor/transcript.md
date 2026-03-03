@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "startups"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -39,20 +59,6 @@ summary:
   - "# GitHub Shut Down a Major AI Builder Overnight—Here's what happened why it gets worse in 2025
 
 GitHub took down lovable"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "startups"
-  - "x"
 ---
 
 # GitHub Shut Down a Major AI Builder Overnight—Here's what happened why it gets worse in 2025

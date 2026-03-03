@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "o1"
+  - "openai"
+  - "prompting"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -34,14 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "o1"
-  - "openai"
-  - "prompting"
-  - "youtube"
 ---
 
 # Comparison: DeepSeek vs. OpenAI o1 Preview

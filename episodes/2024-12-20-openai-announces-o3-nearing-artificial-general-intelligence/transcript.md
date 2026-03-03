@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-agents"
+  - "arc"
+  - "career"
+  - "frameworks"
+  - "o3"
+  - "openai"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,14 +46,6 @@ summary:
   - "# OpenAI Announces o3: Nearing Artificial General Intelligence
 
 at 10:00 a"
-keywords:
-  - "ai-agents"
-  - "arc"
-  - "career"
-  - "frameworks"
-  - "o3"
-  - "openai"
-  - "tutorials"
 ---
 
 # OpenAI Announces o3: Nearing Artificial General Intelligence

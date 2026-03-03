@@ -11,6 +11,31 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "meta"
+  - "microsoft"
+  - "netflix"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "runway"
+  - "sora"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -52,26 +77,6 @@ summary:
   - "# May 20: What Really Mattered at Google I/O—and Why
 
 what happened at Google IO today, May 20"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "meta"
-  - "microsoft"
-  - "netflix"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "runway"
-  - "sora"
-  - "workflows"
 ---
 
 # May 20: What Really Mattered at Google I/O—and Why

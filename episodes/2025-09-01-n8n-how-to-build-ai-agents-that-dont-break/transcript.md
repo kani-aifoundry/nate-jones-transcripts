@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "box"
+  - "canvas"
+  - "claude"
+  - "coding"
+  - "gemini"
+  - "langchain"
+  - "make"
+  - "n8n"
+  - "product-management"
+  - "projects"
+  - "slack"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,25 +68,6 @@ summary:
   - "# n8n: How to build AI agents that don't break
 
 Today I want to give you a key to one of the most persistent questions that I get in the AI space"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "box"
-  - "canvas"
-  - "claude"
-  - "coding"
-  - "gemini"
-  - "langchain"
-  - "make"
-  - "n8n"
-  - "product-management"
-  - "projects"
-  - "slack"
-  - "tutorials"
-  - "workflows"
 ---
 
 # n8n: How to build AI agents that don't break

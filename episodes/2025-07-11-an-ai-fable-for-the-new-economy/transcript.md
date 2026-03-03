@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "amazon"
+  - "career"
+  - "coding"
+  - "make"
+  - "oracle"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,14 +49,6 @@ summary:
   - "# An AI Fable for the New Economy
 
 I think we'll call him Josh"
-keywords:
-  - "ai-news"
-  - "amazon"
-  - "career"
-  - "coding"
-  - "make"
-  - "oracle"
-  - "product-management"
 ---
 
 # An AI Fable for the New Economy

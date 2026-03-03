@@ -28,6 +28,21 @@ yt_tags:
   - "effective prompting"
   - "AI prompting techniques"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "microsoft"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -53,17 +68,6 @@ summary:
   - "# How I Improved AI Output Quality 10X With One Prompting Shift
 
 We're gonna talk about Goldilocks prompting"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "microsoft"
-  - "prompting"
-  - "tutorials"
 ---
 
 # How I Improved AI Output Quality 10X With One Prompting Shift

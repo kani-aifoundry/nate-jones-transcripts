@@ -28,6 +28,26 @@ yt_tags:
   - "AI strategy for teams"
   - "using AI at work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "arc"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -58,22 +78,6 @@ summary:
   - "# There Is No Wall: What Gemini 3 Really Means For Your Job
 
 Gemini 3 is the number one model in the world and it's not close"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "arc"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # There Is No Wall: What Gemini 3 Really Means For Your Job

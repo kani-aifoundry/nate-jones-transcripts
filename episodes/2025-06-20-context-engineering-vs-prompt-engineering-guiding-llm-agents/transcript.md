@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "opus"
+  - "prompting"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,20 +53,6 @@ summary:
   - "Prompt Engineering: Guiding LLM Agents
 
 I'd like to suggest that we aren't talking clearly enough about context engineering and that we're getting it wrong in some important ways"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "opus"
-  - "prompting"
-  - "workflows"
 ---
 
 # Context Engineering vs. Prompt Engineering: Guiding LLM Agents

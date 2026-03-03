@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,19 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "workflows"
 ---
 
 # NEW from OpenAI: The Swarm is coming

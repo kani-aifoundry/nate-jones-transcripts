@@ -28,6 +28,28 @@ yt_tags:
   - "AI strategy for teams"
   - "interview guide"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "coding"
+  - "google"
+  - "intel"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -58,23 +80,6 @@ summary:
   - "# AI Interviews are Crap: Here's How to Use AI to get Hired (and Hire) in 2025
 
 If you are hiring or if you are interviewing, this is your interview guide"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "coding"
-  - "google"
-  - "intel"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # AI Interviews are Crap: Here's How to Use AI to get Hired (and Hire) in 2025

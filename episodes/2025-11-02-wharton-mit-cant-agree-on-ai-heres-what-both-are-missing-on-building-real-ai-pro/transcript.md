@@ -29,6 +29,26 @@ yt_tags:
   - "AI strategy for teams"
   - "AI adoption in enterprises"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "ibm"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -55,20 +75,6 @@ summary:
   - "# Wharton & MIT Can't Agree on AI: Here's What Both are Missing on Building Real AI Projects
 
 You know, I don't blame people when they are confused about AI because the studies that are coming out are"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "ibm"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Wharton & MIT Can't Agree on AI: Here's What Both are Missing on Building Real AI Projects

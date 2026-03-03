@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -36,23 +57,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "startups"
-  - "stripe"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 2025 forecast: Enterprise AI Apps plus Wild AI Agents

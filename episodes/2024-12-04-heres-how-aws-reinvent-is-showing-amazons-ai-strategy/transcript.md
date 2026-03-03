@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "aws"
+  - "azure"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,20 +53,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "aws"
-  - "azure"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "product-management"
 ---
 
 # Here's How AWS re:Invent is Showing Amazon's AI Strategy

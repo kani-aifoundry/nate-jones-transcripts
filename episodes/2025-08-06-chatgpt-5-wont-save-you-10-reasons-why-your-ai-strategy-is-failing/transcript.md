@@ -11,6 +11,35 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "aws"
+  - "azure"
+  - "career"
+  - "chatgpt"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "projects"
+  - "shortcuts"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -47,29 +76,6 @@ summary:
   - "# ChatGPT 5 Won't Save You: 10 Reasons Why Your AI Strategy is Failing
 
 Today I want to talk to you about the things Chat GPT5 will not fix"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "aws"
-  - "azure"
-  - "career"
-  - "chatgpt"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "projects"
-  - "shortcuts"
-  - "workflows"
 ---
 
 # ChatGPT 5 Won't Save You: 10 Reasons Why Your AI Strategy is Failing

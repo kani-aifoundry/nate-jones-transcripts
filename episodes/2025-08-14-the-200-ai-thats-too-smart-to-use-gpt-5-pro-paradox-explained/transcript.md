@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "gpt-5"
+  - "make"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -42,21 +62,6 @@ summary:
   - "# The $200 AI That's Too Smart to Use (GPT-5 Pro Paradox Explained)
 
 This is your introduction to GPT5 Pro"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "gpt-5"
-  - "make"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
 ---
 
 # The $200 AI That's Too Smart to Use (GPT-5 Pro Paradox Explained)

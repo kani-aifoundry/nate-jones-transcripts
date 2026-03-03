@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "computer-use"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "startups"
+  - "tsmc"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,22 +59,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "computer-use"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "startups"
-  - "tsmc"
 ---
 
 # AI News Today: TSMC, Claude, Apple Intelligence, AI Religions

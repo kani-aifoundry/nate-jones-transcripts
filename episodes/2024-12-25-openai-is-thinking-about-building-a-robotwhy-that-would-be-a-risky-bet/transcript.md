@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "amazon"
+  - "apple"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "netflix"
+  - "openai"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,18 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "amazon"
-  - "apple"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "netflix"
-  - "openai"
 ---
 
 # OpenAI is thinking about building a robot—why that would be a risky bet

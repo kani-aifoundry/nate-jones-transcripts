@@ -29,6 +29,28 @@ yt_tags:
   - "AI for numbers"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "prompting"
+  - "runway"
+  - "sonnet"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -59,22 +81,6 @@ summary:
   - "# Excel AI Will Replace Finance Teams by 2026—Here's Why (And What to Do)
 
 If you are not using AI for Excel, you are sleeping on the power of what it can do"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "prompting"
-  - "runway"
-  - "sonnet"
-  - "tutorials"
 ---
 
 # Excel AI Will Replace Finance Teams by 2026—Here's Why (And What to Do)

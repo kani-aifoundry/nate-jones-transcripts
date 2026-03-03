@@ -7,6 +7,24 @@ duration: "7:37"
 view_count: 1040
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "o1"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "tsmc"
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
@@ -31,18 +49,6 @@ summary:
   - "# OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC
 
 We have three really big pieces of AI news today"
-keywords:
-  - "ai-news"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "o1"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "tsmc"
 ---
 
 # OpenAI Hitting Diminishing Returns or Not plus TSMC export ban to China plus tariffs and TSMC

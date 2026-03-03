@@ -28,6 +28,33 @@ yt_tags:
   - "AI for teams"
   - "AI talent market"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "arc"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "figma"
+  - "frameworks"
+  - "nano-banana"
+  - "nanobanana-pro"
+  - "nvidia"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -62,28 +89,6 @@ summary:
   - "# Why Flash Models, Not Frontier Models, Will Win in 2026
 
 So, I've been spending time thinking this holiday season about what I'm optimistic for for artificial intelligence and all of us in the year "
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "arc"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "figma"
-  - "frameworks"
-  - "nano-banana"
-  - "nanobanana-pro"
-  - "nvidia"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # Why Flash Models, Not Frontier Models, Will Win in 2026

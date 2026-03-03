@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "product-management"
+  - "salesforce"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,22 +58,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "product-management"
-  - "salesforce"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # AI News: Checking Klarna's AI Claims plus Ilya on the Future of AI

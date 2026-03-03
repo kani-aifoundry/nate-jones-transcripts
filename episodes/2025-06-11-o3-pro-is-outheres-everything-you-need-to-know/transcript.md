@@ -11,6 +11,31 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "o3"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "sonnet"
+  - "startups"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -48,26 +73,6 @@ summary:
   - "# o3 Pro is Out—Here's Everything You Need to Know
 
 03 Pro is out"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "o3"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "sonnet"
-  - "startups"
-  - "twitter"
-  - "x"
 ---
 
 # o3 Pro is Out—Here's Everything You Need to Know

@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "amazon"
+  - "apple"
+  - "career"
+  - "coding"
+  - "microsoft"
+  - "openai"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -35,13 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "amazon"
-  - "apple"
-  - "career"
-  - "coding"
-  - "microsoft"
-  - "openai"
 ---
 
 # Microsoft's 100B Deal with OpenAI Means Microsoft May Control Superintelligence

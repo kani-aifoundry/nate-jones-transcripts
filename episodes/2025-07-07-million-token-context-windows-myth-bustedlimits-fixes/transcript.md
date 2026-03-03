@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "opus"
+  - "prompting"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -42,18 +59,6 @@ summary:
   - "Myth Busted—Limits & Fixes
 
 Every single AI company is not telling the truth about what its context window really does"
-keywords:
-  - "ai-agents"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "opus"
-  - "prompting"
-  - "x"
 ---
 
 # Million Token Context Windows? Myth Busted—Limits & Fixes

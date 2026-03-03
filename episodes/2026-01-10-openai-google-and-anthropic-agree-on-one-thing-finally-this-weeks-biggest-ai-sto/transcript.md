@@ -28,6 +28,33 @@ yt_tags:
   - "AI compute"
   - "grid modernization"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amd"
+  - "anthropic"
+  - "atlas"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "model-context-protocol"
+  - "nvidia"
+  - "openai"
+  - "operator"
+  - "product-management"
+  - "projects"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -65,28 +92,6 @@ summary:
   - "# OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories
 
 All right, if you took time out over the holidays, good for you"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amd"
-  - "anthropic"
-  - "atlas"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "model-context-protocol"
-  - "nvidia"
-  - "openai"
-  - "operator"
-  - "product-management"
-  - "projects"
-  - "workflows"
 ---
 
 # OpenAI, Google, and Anthropic Agree on One Thing (Finally) - This Week's Biggest AI Stories

@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "aws"
+  - "claude"
+  - "computer-use"
+  - "frameworks"
+  - "google"
+  - "palantir"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,19 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "aws"
-  - "claude"
-  - "computer-use"
-  - "frameworks"
-  - "google"
-  - "palantir"
-  - "product-management"
-  - "prompting"
 ---
 
 # AI News Today: Palantir AI, Claude, Google Jarvis

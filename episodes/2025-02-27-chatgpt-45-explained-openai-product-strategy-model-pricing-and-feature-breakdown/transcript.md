@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "sonnet"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -39,21 +59,6 @@ summary:
   - "5 explained: OpenAI product strategy, model pricing and feature breakdown
 
 Chad GPT 4"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "sonnet"
 ---
 
 # ChatGPT 4.5 explained: OpenAI product strategy, model pricing and feature breakdown

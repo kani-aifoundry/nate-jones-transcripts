@@ -7,6 +7,26 @@ duration: "3:02"
 view_count: 560
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "box"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "notion"
+  - "openai"
+  - "product-management"
+  - "workflows"
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI News"
 difficulty: "Advanced"
@@ -30,21 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "box"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "notion"
-  - "openai"
-  - "product-management"
-  - "workflows"
 ---
 
 # AI News Today: Google AI coding, AI in US Nuclear Policy, OpenAI Agent Workflows  in Notion

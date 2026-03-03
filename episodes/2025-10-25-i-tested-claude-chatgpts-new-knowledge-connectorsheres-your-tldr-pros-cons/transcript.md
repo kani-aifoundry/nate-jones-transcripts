@@ -29,6 +29,34 @@ yt_tags:
   - "AI layoffs"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "atlas"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -65,28 +93,6 @@ summary:
   - "# I Tested Claude & ChatGPT's New Knowledge Connectors—Here's Your TLDR + Pros & Cons
 
 I spent more than 20 hours following AI news so that I could get you these six stories in less than 10 minutes"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "atlas"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "model-context-protocol"
-  - "openai"
-  - "product-management"
-  - "prompting"
 ---
 
 # I Tested Claude & ChatGPT's New Knowledge Connectors—Here's Your TLDR + Pros & Cons

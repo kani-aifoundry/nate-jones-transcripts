@@ -28,6 +28,34 @@ yt_tags:
   - "AI tool trends"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "bolt"
+  - "chatgpt"
+  - "coding"
+  - "computer-use"
+  - "deep-dives"
+  - "frameworks"
+  - "lovable"
+  - "make"
+  - "mcp"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "slack"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -58,28 +86,6 @@ concepts:
   []
 summary:
   - "And here's what I learned as I laded up all of these tools that I looked into"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "bolt"
-  - "chatgpt"
-  - "coding"
-  - "computer-use"
-  - "deep-dives"
-  - "frameworks"
-  - "lovable"
-  - "make"
-  - "mcp"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "slack"
-  - "startups"
-  - "workflows"
 ---
 
 # Why the Best AI Tools Look NOTHING Like ChatGPT

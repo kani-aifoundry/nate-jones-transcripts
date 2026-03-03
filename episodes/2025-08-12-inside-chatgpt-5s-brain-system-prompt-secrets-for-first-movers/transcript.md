@@ -11,6 +11,32 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "canvas"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "google"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -42,26 +68,6 @@ summary:
   - "# Inside ChatGPT-5's Brain: System Prompt Secrets for First Movers
 
 I've spent the last few hours just digging super deeply into chat GPT5 system prompt"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "canvas"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "google"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "workflows"
 ---
 
 # Inside ChatGPT-5's Brain: System Prompt Secrets for First Movers

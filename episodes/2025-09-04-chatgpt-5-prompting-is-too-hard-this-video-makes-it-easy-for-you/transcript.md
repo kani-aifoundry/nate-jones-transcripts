@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "chatgpt"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "openai"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,19 +52,6 @@ summary:
   - "# ChatGPT-5 Prompting is Too Hard: This Video Makes it Easy for You
 
 GPT5 puts prompting on hard mode"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "chatgpt"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "openai"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # ChatGPT-5 Prompting is Too Hard: This Video Makes it Easy for You

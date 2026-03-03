@@ -28,6 +28,29 @@ yt_tags:
   - "AI strategy for operators"
   - "LLM adoption patterns"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nano-banana"
+  - "openai"
+  - "product-management"
+  - "slack"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -62,24 +85,6 @@ summary:
   - "# Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways
 
 This week, Benedict Evans, a 20-year veteran of A16Z, gave a memorable presentation in Singapore called AI Eats the "
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nano-banana"
-  - "openai"
-  - "product-management"
-  - "slack"
-  - "x"
 ---
 
 # Here's the 90 Slide 'AI Eats the World' Talk in 15 Minutes—Plus My Top Takeaways

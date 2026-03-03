@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "meta"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -33,13 +43,6 @@ concepts:
   []
 summary:
   - "# Qwen Beats DeepSeek R1 with 20x Smaller Model—where is Meta"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "meta"
 ---
 
 # Qwen Beats DeepSeek R1 with 20x Smaller Model—where is Meta?

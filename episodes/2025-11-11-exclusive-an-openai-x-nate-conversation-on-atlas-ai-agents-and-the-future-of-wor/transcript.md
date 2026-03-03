@@ -26,6 +26,26 @@ yt_tags:
   - "browser history"
   - "AI assistant tools"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "atlas"
+  - "box"
+  - "career"
+  - "coding"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -56,21 +76,6 @@ summary:
   - "# EXCLUSIVE: an OpenAI x Nate Conversation on Atlas, AI Agents, and the Future of Work
 
 This is a good one, guys"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "atlas"
-  - "box"
-  - "career"
-  - "coding"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "x"
-  - "youtube"
 ---
 
 # EXCLUSIVE: an OpenAI x Nate Conversation on Atlas, AI Agents, and the Future of Work

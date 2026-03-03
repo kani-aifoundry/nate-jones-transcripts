@@ -11,6 +11,21 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "slack"
+  - "startups"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,16 +49,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "slack"
-  - "startups"
-  - "tutorials"
 ---
 
 # Tech jobs: you're WAY better at these 3 skills than AI

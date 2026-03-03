@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,17 +53,6 @@ summary:
   - "# Scaling isn't Destiny: Rethinking the Straight-Line Path to AGI
 
 What if the bots kept getting smarter, the AI kept getting smarter, but it didn't matter anymore"
-keywords:
-  - "ai-agents"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "workflows"
 ---
 
 # Scaling isn't Destiny: Rethinking the Straight-Line Path to AGI

@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "sora"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -39,24 +62,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "sora"
-  - "tutorials"
 ---
 
 # OpenAI and "Strawberry": The Strategy of Rumors in the AI Arms Race

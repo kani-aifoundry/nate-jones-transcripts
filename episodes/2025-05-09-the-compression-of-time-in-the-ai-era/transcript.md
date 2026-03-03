@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "box"
+  - "nvidia"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,13 +44,6 @@ summary:
   - "# The Compression of Time in the AI Era
 
 I want to talk today about one of the most subtle aspects but pervasive aspects of this AI revolution"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "box"
-  - "nvidia"
-  - "prompting"
 ---
 
 # The Compression of Time in the AI Era

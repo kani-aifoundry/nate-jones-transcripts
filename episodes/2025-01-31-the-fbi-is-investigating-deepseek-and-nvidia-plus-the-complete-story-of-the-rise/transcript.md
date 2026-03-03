@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "nvidia"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,18 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "nvidia"
-  - "openai"
-  - "product-management"
 ---
 
 # The FBI is investigating DeepSeek and NVIDIA, plus the complete story of the rise of DeepSeek

@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "amazon"
+  - "apple"
+  - "aws"
+  - "frameworks"
+  - "make"
+  - "nvidia"
+  - "product-management"
+  - "uber"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,17 +53,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "amazon"
-  - "apple"
-  - "aws"
-  - "frameworks"
-  - "make"
-  - "nvidia"
-  - "product-management"
-  - "uber"
-  - "workflows"
 ---
 
 # Wall Street is betting against AI, and here's why: Uber, Amazon and the history of bets against tech

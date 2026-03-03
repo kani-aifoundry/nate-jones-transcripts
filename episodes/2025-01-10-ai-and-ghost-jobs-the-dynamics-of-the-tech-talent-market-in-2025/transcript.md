@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "frameworks"
+  - "linkedin"
+  - "make"
+  - "salesforce"
+  - "startups"
+  - "together-ai"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -36,18 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "frameworks"
-  - "linkedin"
-  - "make"
-  - "salesforce"
-  - "startups"
-  - "together-ai"
-  - "workflows"
-  - "youtube"
 ---
 
 # AI and Ghost Jobs: The Dynamics of the Tech Talent Market in 2025

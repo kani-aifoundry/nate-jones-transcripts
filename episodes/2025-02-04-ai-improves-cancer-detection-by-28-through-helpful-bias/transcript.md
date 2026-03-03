@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -32,15 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "tutorials"
-  - "x"
 ---
 
 # AI Improves Cancer Detection by 28% Through Helpful Bias

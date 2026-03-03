@@ -28,6 +28,22 @@ yt_tags:
   - "AI jobs for juniors"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "box"
+  - "career"
+  - "coding"
+  - "deep-dives"
+  - "github"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -55,16 +71,6 @@ summary:
   - "# The Scoop: What I Hear from Companies Behind Closed Doors About AI, Talent, & Jobs
 
 These are the things that I wish we told employees more about AI"
-keywords:
-  - "box"
-  - "career"
-  - "coding"
-  - "deep-dives"
-  - "github"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "prompting"
 ---
 
 # The Scoop: What I Hear from Companies Behind Closed Doors About AI, Talent, & Jobs

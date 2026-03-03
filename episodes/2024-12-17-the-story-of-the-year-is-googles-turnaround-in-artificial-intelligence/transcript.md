@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "aws"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "prompting"
+  - "sora"
+  - "startups"
+  - "twitter"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -39,22 +59,6 @@ concepts:
   []
 summary:
   - "0 it's absolutely incredible it is a state-of-the-art language model it's incredibly fast it is so fast they are having to ask the flash model to slow down people are writing into Google saying this w"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "aws"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "prompting"
-  - "sora"
-  - "startups"
-  - "twitter"
 ---
 
 # THE Story of the Year is Google's Turnaround in Artificial Intelligence

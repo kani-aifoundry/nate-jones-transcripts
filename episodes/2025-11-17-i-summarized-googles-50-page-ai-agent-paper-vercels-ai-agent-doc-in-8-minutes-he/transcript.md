@@ -28,6 +28,24 @@ yt_tags:
   - "AI strategy for teams"
   - "multi agent systems"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "linkedin"
+  - "vercel"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -56,19 +74,6 @@ summary:
   - "# I Summarized Google's 50 Page AI Agent Paper + Vercel's AI Agent Doc in 8 Minutes: Here's the TLDR
 
 I spent time this week with three dramatically different documents about agents and I want to brin"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "linkedin"
-  - "vercel"
 ---
 
 # I Summarized Google's 50 Page AI Agent Paper + Vercel's AI Agent Doc in 8 Minutes: Here's the TLDR

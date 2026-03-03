@@ -28,6 +28,22 @@ yt_tags:
   - "AI jobs for teams"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "artifacts"
+  - "figma"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "meta"
+  - "midjourney"
+  - "nano-banana"
+  - "nanobanana-pro"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -59,17 +75,6 @@ summary:
   - "# Nano Banana Pro is Jaw Dropping: 18 Use-Cases That Were Impossible Before
 
 Nano Banana Pro just dropped and it's going to change how visual thinking is done across the business"
-keywords:
-  - "artifacts"
-  - "figma"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "meta"
-  - "midjourney"
-  - "nano-banana"
-  - "nanobanana-pro"
-  - "prompting"
 ---
 
 # Nano Banana Pro is Jaw Dropping: 18 Use-Cases That Were Impossible Before

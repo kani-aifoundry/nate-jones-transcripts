@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "chatgpt"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "openai"
+  - "perplexity"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,17 +51,6 @@ summary:
   - "# Friday the 13th: ChatGPT can be a Dark Mirror for Mental Health
 
 It's Friday the 13th and we're going to talk about something slightly scary with Chad GPT"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "chatgpt"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "openai"
-  - "perplexity"
-  - "prompting"
 ---
 
 # Friday the 13th: ChatGPT can be a Dark Mirror for Mental Health

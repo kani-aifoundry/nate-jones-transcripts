@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "nano-banana"
+  - "oracle"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "slack"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -42,23 +64,6 @@ summary:
   - "# The Universal AI Skill: Good Taste
 
 I think we don't talk enough about what it really takes to be successful in 2025 with AI"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "nano-banana"
-  - "oracle"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "slack"
-  - "tutorials"
 ---
 
 # The Universal AI Skill: Good Taste

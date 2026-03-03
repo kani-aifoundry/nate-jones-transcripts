@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,13 +45,6 @@ summary:
   - "0 Flash Experimental
 
 a model from Google called Gemini 2"
-keywords:
-  - "ai-news"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "startups"
 ---
 
 # Google drops a new image model: Gemini 2.0 Flash Experimental

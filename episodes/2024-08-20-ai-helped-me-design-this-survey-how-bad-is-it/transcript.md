@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -31,13 +41,6 @@ concepts:
   []
 summary:
   - "So I asked Claude for help with this and I'm trying to figure out if it's a good survey or not"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "youtube"
 ---
 
 # AI Helped Me Design This Survey: How Bad Is It?

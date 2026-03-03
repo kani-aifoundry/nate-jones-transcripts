@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "product-management"
+  - "prompting"
+  - "sap"
+  - "startups"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,21 +59,6 @@ summary:
   - "Cluely's $120M Bet on Proactive AI
 
 cheating, cheating, cheating"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "product-management"
-  - "prompting"
-  - "sap"
-  - "startups"
-  - "youtube"
 ---
 
 # Cheating at Cheating? Cluely's $120M Bet on Proactive AI

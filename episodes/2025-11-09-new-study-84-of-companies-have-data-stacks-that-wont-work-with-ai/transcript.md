@@ -29,6 +29,23 @@ yt_tags:
   - "AI adoption"
   - "AI-driven organizations"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "salesforce"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -55,18 +72,6 @@ summary:
   - "# NEW Study: 84% of Companies Have Data Stacks That Won't Work With AI
 
 This week's executive briefing is all about the glamorous subject of AI ready data architectures"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "salesforce"
-  - "x"
 ---
 
 # NEW Study: 84% of Companies Have Data Stacks That Won't Work With AI

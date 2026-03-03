@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "anthropic"
+  - "bolt"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,15 +51,6 @@ summary:
   - "# Engineering AI Ethics: What Meta Missed and Anthropic Got Right
 
 Meta has an ethics scandal on their hands"
-keywords:
-  - "ai-news"
-  - "anthropic"
-  - "bolt"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "workflows"
 ---
 
 # Engineering AI Ethics: What Meta Missed and Anthropic Got Right

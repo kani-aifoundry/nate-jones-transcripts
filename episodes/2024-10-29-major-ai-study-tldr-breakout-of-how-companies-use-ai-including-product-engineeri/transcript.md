@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "box"
+  - "coding"
+  - "deep-dives"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,18 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "box"
-  - "coding"
-  - "deep-dives"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "workflows"
-  - "youtube"
 ---
 
 # Major AI Study TLDR: Breakout of how companies use AI, including product, engineering, marketing etc

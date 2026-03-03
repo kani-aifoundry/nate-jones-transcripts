@@ -11,6 +11,32 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "arc"
+  - "artifacts"
+  - "canvas"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -46,26 +72,6 @@ summary:
   - "# 5 Big AI Updates + How I Built a $10K-Looking Travel App in 25 Minutes
 
 So, a few days ago, I reviewed Chat GPT5, and one of the things I emphasized is it's really, really easy to make small, easy t"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "arc"
-  - "artifacts"
-  - "canvas"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
 ---
 
 # 5 Big AI Updates + How I Built a $10K-Looking Travel App in 25 Minutes

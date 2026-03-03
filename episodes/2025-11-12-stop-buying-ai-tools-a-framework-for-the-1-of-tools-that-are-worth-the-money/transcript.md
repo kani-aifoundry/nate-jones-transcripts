@@ -29,6 +29,22 @@ yt_tags:
   - "tool evaluation"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "frameworks"
+  - "make"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -55,17 +71,6 @@ summary:
   - "# Stop Buying AI Tools: A Framework for The 1% of Tools That Are Worth The Money
 
 You know, there are more than a 100,000 AI tools out there and most of them are going to be useless"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "frameworks"
-  - "make"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "startups"
 ---
 
 # Stop Buying AI Tools: A Framework for The 1% of Tools That Are Worth The Money

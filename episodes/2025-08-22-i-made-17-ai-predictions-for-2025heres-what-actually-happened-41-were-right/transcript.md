@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "claude"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "meta"
+  - "openai"
+  - "projects"
+  - "slack"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -40,18 +57,6 @@ summary:
   - "# I made 17 AI Predictions for 2025—Here's What Actually Happened (41% Were Right)
 
 Back in January of 2025, at the beginning of the year, I put my money where my mouth is or I put my predictions out "
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "claude"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "meta"
-  - "openai"
-  - "projects"
-  - "slack"
 ---
 
 # I made 17 AI Predictions for 2025—Here's What Actually Happened (41% Were Right)

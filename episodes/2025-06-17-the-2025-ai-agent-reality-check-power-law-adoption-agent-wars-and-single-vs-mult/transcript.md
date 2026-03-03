@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "haiku"
+  - "leadership"
+  - "make"
+  - "mistral"
+  - "opus"
+  - "product-management"
+  - "sonnet"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -47,23 +69,6 @@ summary:
   - "# The 2025 AI Agent Reality Check: Power-Law Adoption, Agent Wars, and  Single- vs-Multi Architectures
 
 This video is for everyone who has wondered what is an AI agent and how do I get on track with A"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "haiku"
-  - "leadership"
-  - "make"
-  - "mistral"
-  - "opus"
-  - "product-management"
-  - "sonnet"
 ---
 
 # The 2025 AI Agent Reality Check: Power-Law Adoption, Agent Wars, and  Single- vs-Multi Architectures

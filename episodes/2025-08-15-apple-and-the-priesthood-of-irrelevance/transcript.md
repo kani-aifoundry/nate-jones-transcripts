@@ -11,6 +11,26 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "apple"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "ibm"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -39,21 +59,6 @@ summary:
   - "# Apple and the Priesthood of Irrelevance
 
 Steve Jobs built a priesthood for computing and that priesthood is becoming irrelevant in the age of AI"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "apple"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "ibm"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
 ---
 
 # Apple and the Priesthood of Irrelevance

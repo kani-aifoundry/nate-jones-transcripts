@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,20 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # You need an AI strategy to survive the headlines—here's how to build a strategy that sticks

@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,13 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "product-management"
 ---
 
 # AI News Feb 6: Texas Bans DeepSeek

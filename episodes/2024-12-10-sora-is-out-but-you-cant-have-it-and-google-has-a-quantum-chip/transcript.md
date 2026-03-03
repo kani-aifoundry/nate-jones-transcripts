@@ -11,6 +11,17 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "frameworks"
+  - "google"
+  - "product-management"
+  - "sora"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,14 +43,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "frameworks"
-  - "google"
-  - "product-management"
-  - "sora"
-  - "tutorials"
-  - "x"
 ---
 
 # Sora is out but you can't have it and Google has a quantum chip

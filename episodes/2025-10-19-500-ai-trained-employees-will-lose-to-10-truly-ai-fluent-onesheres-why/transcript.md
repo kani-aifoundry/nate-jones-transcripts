@@ -29,6 +29,32 @@ yt_tags:
   - "AI strategy for teams"
   - "AI at work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "meta"
+  - "n8n"
+  - "product-management"
+  - "startups"
+  - "tutorials"
+  - "workflows"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -59,26 +85,6 @@ summary:
   - "# 500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones—Here's Why
 
 You know what's undertalked about"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "meta"
-  - "n8n"
-  - "product-management"
-  - "startups"
-  - "tutorials"
-  - "workflows"
-  - "zapier"
 ---
 
 # 500 AI-Trained Employees Will LOSE to 10 Truly AI-Fluent Ones—Here's Why

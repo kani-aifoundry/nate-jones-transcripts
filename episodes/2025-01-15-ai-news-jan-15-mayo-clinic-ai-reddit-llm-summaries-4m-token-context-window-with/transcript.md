@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "azure"
+  - "frameworks"
+  - "google"
+  - "jan"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -34,19 +50,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "azure"
-  - "frameworks"
-  - "google"
-  - "jan"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "workflows"
-  - "x"
 ---
 
 # AI News Jan 15: Mayo Clinic AI, Reddit LLM Summaries, 4M Token Context Window with Perfect Recall

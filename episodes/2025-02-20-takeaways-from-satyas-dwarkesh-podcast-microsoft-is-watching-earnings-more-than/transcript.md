@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -32,12 +42,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-strategy"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
 ---
 
 # Takeaways from Satya's Dwarkesh podcast: Microsoft is watching earnings more than AI

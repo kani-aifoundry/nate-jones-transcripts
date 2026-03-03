@@ -29,6 +29,22 @@ yt_tags:
   - "AI strategy for teams"
   - "AI agents in enterprise"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -53,17 +69,6 @@ summary:
   - "# Fortune 100 AI Agent Secrets: The 6 Principles Your Competitors Don't Want You to Know
 
 leaders"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Fortune 100 AI Agent Secrets: The 6 Principles Your Competitors Don't Want You to Know

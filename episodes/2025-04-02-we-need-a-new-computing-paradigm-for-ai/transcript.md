@@ -11,6 +11,14 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "career"
+  - "github"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -31,11 +39,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "career"
-  - "github"
-  - "prompting"
-  - "tutorials"
 ---
 
 # We need a new computing paradigm for AI

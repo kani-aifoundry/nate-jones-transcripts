@@ -28,6 +28,22 @@ yt_tags:
   - "AI strategy for teams"
   - "AI budgeting for managers"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -52,17 +68,6 @@ summary:
   - "# Managers Are Nuking Your Career: Pay $300-$2000 a Month or Get Left Behind
 
 managers are screwing the AI revolution"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "product-management"
-  - "workflows"
 ---
 
 # Managers Are Nuking Your Career: Pay $300-$2000 a Month or Get Left Behind

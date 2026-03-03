@@ -9,6 +9,23 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "meta"
+  - "startups"
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"
@@ -30,17 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "meta"
-  - "startups"
 ---
 
 # The Evolution of LLMs: How AI Applications Are Silently Improving

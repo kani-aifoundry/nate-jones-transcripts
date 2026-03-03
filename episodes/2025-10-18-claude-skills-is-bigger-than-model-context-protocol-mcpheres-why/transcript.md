@@ -29,6 +29,35 @@ yt_tags:
   - "AI platform consolidation"
   - "AI workflows"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "deep-dives"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "model-context-protocol"
+  - "nvidia"
+  - "openai"
+  - "prompting"
+  - "stripe"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -63,31 +92,6 @@ summary:
   - "# Claude Skills is BIGGER than Model Context Protocol (MCP)—Here's Why
 
 I spent more than 20 hours following AI stories this week and this is what you need to know"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "deep-dives"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "model-context-protocol"
-  - "nvidia"
-  - "openai"
-  - "prompting"
-  - "stripe"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Claude Skills is BIGGER than Model Context Protocol (MCP)—Here's Why

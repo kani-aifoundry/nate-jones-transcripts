@@ -25,6 +25,20 @@ yt_tags:
   - "career governance"
   - "self improvement with AI"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "netflix"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -50,16 +64,6 @@ summary:
   - "# Most People Want Validation, Not Perspective (Why This Matters Now)
 
 I think one of the biggest gaps we consistently see is how we coach and train ourselves to be better in our careers over time"
-keywords:
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "netflix"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Most People Want Validation, Not Perspective (Why This Matters Now)

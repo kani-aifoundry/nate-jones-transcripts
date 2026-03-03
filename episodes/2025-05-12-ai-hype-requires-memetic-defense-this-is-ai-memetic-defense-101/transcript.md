@@ -11,6 +11,28 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "ibm"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -40,23 +62,6 @@ summary:
   - "# AI Hype Requires Memetic Defense: This is AI Memetic Defense 101
 
 I want to introduce you to a concept that I actually practice a lot uh on this channel uh on my substack is called mimetic defense"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "ibm"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "youtube"
 ---
 
 # AI Hype Requires Memetic Defense: This is AI Memetic Defense 101

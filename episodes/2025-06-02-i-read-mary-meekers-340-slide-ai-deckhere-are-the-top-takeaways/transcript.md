@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "nvidia"
+  - "openai"
+  - "tutorials"
+  - "uber"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -45,22 +66,6 @@ summary:
   - "# I read Mary Meeker's 340 Slide AI Deck—Here Are the Top Takeaways
 
 So, Mary Maker wrecked my weekend, and I mean that in the best sense"
-keywords:
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "nvidia"
-  - "openai"
-  - "tutorials"
-  - "uber"
-  - "workflows"
 ---
 
 # I read Mary Meeker's 340 Slide AI Deck—Here Are the Top Takeaways

@@ -28,6 +28,27 @@ yt_tags:
   - "AI strategy for teams"
   - "AI note-taking"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "chatgpt"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,23 +78,6 @@ summary:
   - "# The Best Al Note System Looks NOTHING Like ChatGPT (FREE Tool + Demo and Prompt Tips)
 
 What do you do when you want to give your LLM, your AI, more than will fit in a chat"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "chatgpt"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
 ---
 
 # The Best Al Note System Looks NOTHING Like ChatGPT (FREE Tool + Demo and Prompt Tips)

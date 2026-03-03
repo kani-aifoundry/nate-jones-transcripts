@@ -29,6 +29,21 @@ yt_tags:
   - "AI and institutions"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "prompting"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -54,17 +69,6 @@ summary:
   - "# 8 Ways to Use AI When Someone Is Trying to Screw You (Adversarial Prompting)
 
 This is a true story"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "prompting"
-  - "x"
 ---
 
 # 8 Ways to Use AI When Someone Is Trying to Screw You (Adversarial Prompting)

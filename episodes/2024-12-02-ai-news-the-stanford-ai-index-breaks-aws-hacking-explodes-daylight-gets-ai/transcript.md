@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "aws"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "make"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,17 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "aws"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "make"
 ---
 
 # AI News: The Stanford AI Index Breaks, AWS Hacking Explodes, Daylight Gets AI

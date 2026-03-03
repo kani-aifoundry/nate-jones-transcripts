@@ -28,6 +28,32 @@ yt_tags:
   - "workforce transformation"
   - "enterprise AI adoption"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "startups"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -64,26 +90,6 @@ summary:
   - "# The Compounding Gap That Makes 2026 the Last Chance to Catch Up
 
 How will the world be different in 2026 with artificial intelligence"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "startups"
-  - "workflows"
-  - "x"
 ---
 
 # The Compounding Gap That Makes 2026 the Last Chance to Catch Up

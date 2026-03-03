@@ -11,6 +11,31 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "lovable"
+  - "make"
+  - "o3"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "slack"
+  - "sonnet"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -44,27 +69,6 @@ concepts:
   []
 summary:
   - "I got early access, specifically I got early access to Opus"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "lovable"
-  - "make"
-  - "o3"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "slack"
-  - "sonnet"
-  - "tutorials"
 ---
 
 # Claude 4 is out—comparison vs. o3 and Gemini 2.5 pro

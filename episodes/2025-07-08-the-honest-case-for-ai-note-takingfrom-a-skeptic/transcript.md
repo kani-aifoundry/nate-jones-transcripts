@@ -27,6 +27,26 @@ yt_tags:
   - "Tech Critique"
   - "Tech Savvy"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "notion"
+  - "salesforce"
+  - "slack"
+  - "startups"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -54,21 +74,6 @@ summary:
   - "# The Honest Case for AI Note-Taking—From a Skeptic
 
 You know, the joke is the peak of venture capital is when you get excited about note-taking apps"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "notion"
-  - "salesforce"
-  - "slack"
-  - "startups"
-  - "tutorials"
-  - "workflows"
 ---
 
 # The Honest Case for AI Note-Taking—From a Skeptic

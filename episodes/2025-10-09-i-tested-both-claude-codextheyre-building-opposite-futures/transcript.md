@@ -29,6 +29,30 @@ yt_tags:
   - "future of work"
   - "AI system design"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "codex"
+  - "coding"
+  - "figma"
+  - "frameworks"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "n8n"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -62,25 +86,6 @@ summary:
   - "# I Tested Both Claude & Codex—They're Building Opposite Futures
 
 Claude versus Codex"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "codex"
-  - "coding"
-  - "figma"
-  - "frameworks"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "n8n"
-  - "openai"
-  - "product-management"
 ---
 
 # I Tested Both Claude & Codex—They're Building Opposite Futures

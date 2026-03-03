@@ -24,6 +24,26 @@ yt_tags:
   - "AI investment strategy"
   - "AI strategy for leaders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "career"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "startups"
+  - "tailwind"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -51,20 +71,6 @@ summary:
   - "# The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace
 
 If you're in business and you're a leader trying to figure out where to place your AI bets, most of the analysis you read "
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "career"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "startups"
-  - "tailwind"
-  - "tutorials"
-  - "x"
 ---
 
 # The 3-Layer Framework That Predicts Which Jobs AI Will (and Won't) Replace

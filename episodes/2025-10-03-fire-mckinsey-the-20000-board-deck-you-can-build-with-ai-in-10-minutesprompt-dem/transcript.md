@@ -28,6 +28,32 @@ yt_tags:
   - "LLMs for PowerPoint"
   - "prompt engineering for slides"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "arc"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -56,26 +82,6 @@ concepts:
   - "You can now systematically generate enterprise powerpoint decks"
 summary:
   - "# FIRE McKinsey: The $20,000 Board Deck You Can Build with AI in 10 Minutes—Prompt Demo"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "arc"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # FIRE McKinsey: The $20,000 Board Deck You Can Build with AI in 10 Minutes—Prompt Demo!

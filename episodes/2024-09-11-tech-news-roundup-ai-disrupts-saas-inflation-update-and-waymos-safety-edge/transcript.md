@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "airbnb"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "runway"
+  - "salesforce"
+  - "slack"
+  - "startups"
+  - "tutorials"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,21 +56,6 @@ concepts:
   []
 summary:
   - "2 billion and now uh they're raising 200 60 million at a 4"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "airbnb"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "runway"
-  - "salesforce"
-  - "slack"
-  - "startups"
-  - "tutorials"
-  - "workflows"
-  - "youtube"
 ---
 
 # Tech News Roundup: AI Disrupts SAAS, Inflation Update, and Waymo's Safety Edge

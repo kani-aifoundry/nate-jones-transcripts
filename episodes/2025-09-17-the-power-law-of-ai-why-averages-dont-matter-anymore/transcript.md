@@ -25,6 +25,27 @@ yt_tags:
   - "actionable AI"
   - "clear AI strategy"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "lovable"
+  - "make"
+  - "meta"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -52,21 +73,6 @@ summary:
   - "# The Power Law of AI: Why Averages Don't Matter Anymore
 
 One of the greatest truths of the AI age is that we live in a power law world and most of us don't realize it yet"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "lovable"
-  - "make"
-  - "meta"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "workflows"
 ---
 
 # The Power Law of AI: Why Averages Don't Matter Anymore

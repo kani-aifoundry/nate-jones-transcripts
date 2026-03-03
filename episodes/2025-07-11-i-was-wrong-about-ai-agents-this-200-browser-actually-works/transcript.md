@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "amazon"
+  - "career"
+  - "gemini"
+  - "google"
+  - "linkedin"
+  - "make"
+  - "openai"
+  - "operator"
+  - "perplexity"
+  - "startups"
+  - "youtube"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -45,20 +64,6 @@ summary:
   - "# I Was Wrong About AI Agents — This $200 Browser Actually Works
 
 My inbox is littered with people pitching me AI agents"
-keywords:
-  - "ai-agents"
-  - "amazon"
-  - "career"
-  - "gemini"
-  - "google"
-  - "linkedin"
-  - "make"
-  - "openai"
-  - "operator"
-  - "perplexity"
-  - "startups"
-  - "youtube"
-  - "zapier"
 ---
 
 # I Was Wrong About AI Agents — This $200 Browser Actually Works

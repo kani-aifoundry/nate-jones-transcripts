@@ -28,6 +28,30 @@ yt_tags:
   - "AI strategy for teams"
   - "Claude vs GPT-5"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "arc"
+  - "artifacts"
+  - "chatgpt"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "opus"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -61,25 +85,6 @@ summary:
   - "ChatGPT-5 + How it Saves You Hours
 
 So, over the past few days, I was lucky enough to get early access to a new Clawude model that is releasing today"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "arc"
-  - "artifacts"
-  - "chatgpt"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "opus"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # NEW Claude Just Launched! Get Full Test Results vs. ChatGPT-5 + How it Saves You Hours

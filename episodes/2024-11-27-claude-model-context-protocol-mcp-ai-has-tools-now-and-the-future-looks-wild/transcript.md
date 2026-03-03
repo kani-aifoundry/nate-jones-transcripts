@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "computer-use"
+  - "deep-dives"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "perplexity"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -41,26 +65,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "computer-use"
-  - "deep-dives"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "perplexity"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Claude Model Context Protocol (MCP): AI Has Tools Now and The Future Looks WILD

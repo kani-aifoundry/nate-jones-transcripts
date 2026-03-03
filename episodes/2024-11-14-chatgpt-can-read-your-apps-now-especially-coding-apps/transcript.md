@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "computer-use"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,21 +55,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "computer-use"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "openai"
-  - "product-management"
 ---
 
 # ChatGPT Can Read Your Apps Now - Especially Coding Apps

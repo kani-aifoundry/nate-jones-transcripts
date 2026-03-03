@@ -25,6 +25,33 @@ yt_tags:
   - "delegation to AI"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "box"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "opus"
+  - "stripe"
+  - "tutorials"
+  - "twitter"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -62,28 +89,6 @@ summary:
   - "2 Complete Breakdown: Tested on Excel, PowerPoint, Massive Data Sets, and More
 
 Chad GPT 5"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "box"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "opus"
-  - "stripe"
-  - "tutorials"
-  - "twitter"
-  - "youtube"
 ---
 
 # NEW ChatGPT 5.2 Complete Breakdown: Tested on Excel, PowerPoint, Massive Data Sets, and More

@@ -29,6 +29,23 @@ yt_tags:
   - "AI job market"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "frameworks"
+  - "make"
+  - "runway"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -57,17 +74,6 @@ summary:
   - "5 Hour Podcast in 20 Min—Grab 4 Takeaways No One's Talking About
 
 Silicon Valley has been exploding for days over Andre Carpath's podcast with Dwarcash"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "frameworks"
-  - "make"
-  - "runway"
-  - "startups"
 ---
 
 # I Summarized Andrej Karpathy's 2.5 Hour Podcast in 20 Min—Grab 4 Takeaways No One's Talking About

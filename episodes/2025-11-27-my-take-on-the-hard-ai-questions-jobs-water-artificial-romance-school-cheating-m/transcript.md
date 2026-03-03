@@ -28,6 +28,25 @@ yt_tags:
   - "AI strategy for teams"
   - "AI curiosity framework"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "nano-banana"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -56,21 +75,6 @@ summary:
   - "# My Take on the Hard AI Questions: Jobs, Water, Artificial Romance, School Cheating & More
 
 It's Thanksgiving in the US and this is a video all about how to talk about AI around the Thanksgiving tabl"
-keywords:
-  - "ai-agents"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "nano-banana"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # My Take on the Hard AI Questions: Jobs, Water, Artificial Romance, School Cheating & More

@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-news"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,13 +42,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
 ---
 
 # Google Gemini told a student to d*e and Reddit thinks he faked it

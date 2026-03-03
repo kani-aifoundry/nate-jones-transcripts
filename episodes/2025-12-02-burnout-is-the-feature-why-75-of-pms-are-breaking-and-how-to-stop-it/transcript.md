@@ -27,6 +27,30 @@ yt_tags:
   - "AI burnout"
   - "building AI products"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "linkedin"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "slack"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -57,25 +81,6 @@ summary:
   - "# Burnout Is the Feature: Why 75% of PMs Are Breaking--and How to Stop It
 
 AI is causing a crisis for product managers"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "linkedin"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "slack"
-  - "tutorials"
-  - "x"
 ---
 
 # Burnout Is the Feature: Why 75% of PMs Are Breaking--and How to Stop It

@@ -11,6 +11,14 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -31,11 +39,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "tutorials"
 ---
 
 # How ChatPT Correctly Predicted the 2024 Election

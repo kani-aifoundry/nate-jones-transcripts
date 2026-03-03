@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -39,20 +58,6 @@ summary:
   - "# Too Helpful to Think: The Hidden Cost of AI in Major Life Decisions
 
 Chat GPT and every other LLM I've ever run across is too agreeable"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "youtube"
 ---
 
 # Too Helpful to Think: The Hidden Cost of AI in Major Life Decisions

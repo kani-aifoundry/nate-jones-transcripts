@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "azure"
+  - "career"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "oracle"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -35,19 +52,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "azure"
-  - "career"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "oracle"
-  - "product-management"
-  - "workflows"
 ---
 
 # Feb 24: The Microsoft AI Spend Drama Continues (Real Housewives Edition)

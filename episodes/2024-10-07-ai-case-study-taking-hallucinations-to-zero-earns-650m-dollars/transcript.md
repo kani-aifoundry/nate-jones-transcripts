@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "deep-dives"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "tutorials"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,18 +49,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "deep-dives"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "tutorials"
-  - "youtube"
 ---
 
 # AI Case Study: Taking Hallucinations to Zero earns $650M Dollars

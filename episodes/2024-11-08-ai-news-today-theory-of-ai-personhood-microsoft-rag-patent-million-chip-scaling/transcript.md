@@ -11,6 +11,23 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "anthropic"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -37,19 +54,6 @@ concepts:
   []
 summary:
   - "0 looks like when it actually releases I I'm willing to bet you though whenever 2"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "anthropic"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "tutorials"
 ---
 
 # AI News Today: Theory of AI Personhood, Microsoft RAG patent, million chip scaling

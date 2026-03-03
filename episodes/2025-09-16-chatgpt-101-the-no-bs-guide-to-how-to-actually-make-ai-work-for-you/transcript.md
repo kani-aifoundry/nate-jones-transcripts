@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "chatgpt"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,17 +52,6 @@ summary:
   - "# ChatGPT 101: The No BS Guide to How to Actually Make AI Work for You
 
 This is the no BS guide to actually using AI"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "chatgpt"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # ChatGPT 101: The No BS Guide to How to Actually Make AI Work for You

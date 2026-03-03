@@ -27,6 +27,35 @@ yt_tags:
   - "building AI systems"
   - "AI implementation"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "anthropic-api"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "copilot"
+  - "frameworks"
+  - "gemini"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "salesforce"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -63,30 +92,6 @@ summary:
   - "# What I Tell Every CTO Before They Touch Claude Code or the Anthropic API
 
 Most of us can't define what good quality work looks like for our AI systems and it's really hurting"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "anthropic-api"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "copilot"
-  - "frameworks"
-  - "gemini"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "salesforce"
-  - "workflows"
-  - "x"
 ---
 
 # What I Tell Every CTO Before They Touch Claude Code or the Anthropic API

@@ -27,6 +27,25 @@ yt_tags:
   - "multi-agent AI"
   - "frontier models"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "openai"
+  - "opus"
+  - "projects"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -61,19 +80,6 @@ summary:
   - "Google - The ONE Number That Decides Who's Right
 
 Ilia Sutskiver went on the Dwaresh podcast"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "openai"
-  - "opus"
-  - "projects"
-  - "workflows"
 ---
 
 # Ilya vs. Google - The ONE Number That Decides Who's Right

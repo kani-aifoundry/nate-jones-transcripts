@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "startups"
+  - "twitter"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -33,16 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "startups"
-  - "twitter"
-  - "x"
 ---
 
 # 2025 came early: the first AI agent is becoming a millionaire today thanks to goat memes

@@ -28,6 +28,30 @@ yt_tags:
   - "AI strategy for builders"
   - "LLM prompting techniques"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "artifacts"
+  - "career"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "openai"
+  - "operator"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -58,25 +82,6 @@ concepts:
   []
 summary:
   - "# The Real Difference Between Gemini 3 and ChatGPT 5"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "artifacts"
-  - "career"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "openai"
-  - "operator"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # The Real Difference Between Gemini 3 and ChatGPT 5.1—Context vs. Task

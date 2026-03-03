@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-agents"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "prompting"
+  - "stripe"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -34,15 +46,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "prompting"
-  - "stripe"
 ---
 
 # AI Misalignment: Google Gemini Flash Tried to Charge a User $500

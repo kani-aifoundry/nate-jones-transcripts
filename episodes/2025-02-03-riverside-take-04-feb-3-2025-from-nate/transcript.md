@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -34,15 +47,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "product-management"
 ---
 
 # Riverside Take 04 Feb 3 2025 from Nate

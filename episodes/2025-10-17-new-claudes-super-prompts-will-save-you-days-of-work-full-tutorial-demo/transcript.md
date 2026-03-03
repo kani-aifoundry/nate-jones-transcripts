@@ -30,6 +30,26 @@ yt_tags:
   - "AI tools for teams"
   - "AI builder workflows"
 
+# AI-enriched metadata
+  - "General"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "canvas"
+  - "career"
+  - "claude"
+  - "deep-dives"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "make"
+  - "mcp"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -56,23 +76,6 @@ summary:
   - "# NEW: Claude's 'Super Prompts' Will Save You DAYS of Work (Full Tutorial + Demo)
 
 I think that this is one of the biggest pieces of news in the entire year"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "canvas"
-  - "career"
-  - "claude"
-  - "deep-dives"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "make"
-  - "mcp"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # NEW: Claude's 'Super Prompts' Will Save You DAYS of Work (Full Tutorial + Demo)

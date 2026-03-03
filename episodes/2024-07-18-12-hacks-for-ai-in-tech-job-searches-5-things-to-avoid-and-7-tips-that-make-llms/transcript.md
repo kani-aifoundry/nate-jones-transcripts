@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "box"
+  - "career"
+  - "claude"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "perplexity"
+  - "prompting"
+  - "workflows"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,22 +56,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "box"
-  - "career"
-  - "claude"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "perplexity"
-  - "prompting"
-  - "workflows"
-  - "youtube"
 ---
 
 # 12 hacks for AI in Tech Job Searches: 5 things to avoid and 7 tips that make LLM's work for you

@@ -28,6 +28,34 @@ yt_tags:
   - "AI implementation"
   - "AI systems design"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "github"
+  - "github-copilot"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "mcp"
+  - "microsoft"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -62,28 +90,6 @@ summary:
   - "# Stop Asking for AI Agents When You're Not Ready for Them—Here's What You Really Need
 
 I am so tired of the AI agent discourse"
-keywords:
-  - "ai-agents"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "github"
-  - "github-copilot"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "mcp"
-  - "microsoft"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Stop Asking for AI Agents When You're Not Ready for Them—Here's What You Really Need

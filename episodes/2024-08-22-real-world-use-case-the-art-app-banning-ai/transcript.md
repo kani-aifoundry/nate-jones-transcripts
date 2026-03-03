@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "adobe"
+  - "ai-tools"
+  - "canva"
+  - "canvas"
+  - "coding"
+  - "make"
+  - "product-management"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,15 +45,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "adobe"
-  - "ai-tools"
-  - "canva"
-  - "canvas"
-  - "coding"
-  - "make"
-  - "product-management"
-  - "workflows"
 ---
 
 # Real World Use-Case: The Art App Banning AI

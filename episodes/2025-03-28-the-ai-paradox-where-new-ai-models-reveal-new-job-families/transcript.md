@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "bolt"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "stripe"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -36,22 +57,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "bolt"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "stripe"
-  - "tutorials"
 ---
 
 # The AI Paradox: Where New AI Models Reveal New Job Families

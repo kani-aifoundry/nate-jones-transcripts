@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "frameworks"
+  - "make"
+  - "product-management"
+  - "shopify"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -31,13 +41,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "frameworks"
-  - "make"
-  - "product-management"
-  - "shopify"
 ---
 
 # 5 AI News Stories This Week: Trends to Watch in August 2024

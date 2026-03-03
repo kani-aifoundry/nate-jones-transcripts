@@ -11,6 +11,38 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "deep-dives"
+  - "github"
+  - "github-copilot"
+  - "leadership"
+  - "linkedin"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "salesforce"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "x"
+  - "youtube"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -50,32 +82,6 @@ summary:
   - "# Microsoft CoPilot Decoded: 12 Flavors, 20x ROI Playbook
 
 Last week, I had the CTO of a 6,000 person company send me this DM"
-keywords:
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "deep-dives"
-  - "github"
-  - "github-copilot"
-  - "leadership"
-  - "linkedin"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "salesforce"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "x"
-  - "youtube"
 ---
 
 # Microsoft CoPilot Decoded: 12 Flavors, 20x ROI Playbook

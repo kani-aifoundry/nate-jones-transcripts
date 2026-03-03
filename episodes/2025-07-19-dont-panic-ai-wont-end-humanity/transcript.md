@@ -29,6 +29,23 @@ yt_tags:
   - "Tech Survival"
   - "Technology Debate"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "coding"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "nvidia"
+  - "openai"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Opinion"
@@ -57,18 +74,6 @@ summary:
   - "# Don't Panic: AI Won't End Humanity
 
 were not doomed"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "coding"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "nvidia"
-  - "openai"
-  - "x"
 ---
 
 # Don't Panic: AI Won't End Humanity

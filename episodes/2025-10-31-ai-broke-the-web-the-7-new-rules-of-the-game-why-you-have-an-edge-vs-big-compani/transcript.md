@@ -28,6 +28,18 @@ yt_tags:
   - "AI strategy for teams"
   - "AI opportunity window"
 
+# AI-enriched metadata
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "anthropic"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "openai"
+  - "uber"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -55,15 +67,6 @@ summary:
   - "# AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies
 
 The open web is dying"
-keywords:
-  - "ai-strategy"
-  - "anthropic"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "openai"
-  - "uber"
-  - "workflows"
 ---
 
 # AI Broke the Web: The 7 New Rules of the Game + Why YOU Have an Edge vs Big Companies

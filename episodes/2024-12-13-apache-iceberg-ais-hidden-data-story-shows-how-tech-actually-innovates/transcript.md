@@ -11,6 +11,22 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "aws"
+  - "azure"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "netflix"
+  - "projects"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -35,19 +51,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "aws"
-  - "azure"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "netflix"
-  - "projects"
 ---
 
 # Apache Iceberg: AI's Hidden Data Story Shows How Tech Actually Innovates

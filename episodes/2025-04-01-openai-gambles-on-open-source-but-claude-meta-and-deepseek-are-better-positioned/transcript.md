@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "meta"
+  - "model-context-protocol"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -44,22 +65,6 @@ summary:
   - "# OpenAI Gambles on Open-Source, but Claude, Meta, and DeepSeek are better positioned to win
 
 Open AAI is launching an open-source model and I am laughing because that is not what they have historical"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "meta"
-  - "model-context-protocol"
-  - "openai"
-  - "product-management"
 ---
 
 # OpenAI Gambles on Open-Source, but Claude, Meta, and DeepSeek are better positioned to win

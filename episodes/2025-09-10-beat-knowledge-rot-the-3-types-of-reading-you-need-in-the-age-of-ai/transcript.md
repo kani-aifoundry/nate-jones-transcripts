@@ -11,6 +11,20 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "frameworks"
+  - "google"
+  - "make"
+  - "perplexity"
+  - "stripe"
+  - "tutorials"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,16 +52,6 @@ summary:
   - "# Beat Knowledge Rot: The 3 Types of Reading You Need in the Age of AI
 
 So, this one is by popular request"
-keywords:
-  - "ai-news"
-  - "frameworks"
-  - "google"
-  - "make"
-  - "perplexity"
-  - "stripe"
-  - "tutorials"
-  - "workflows"
-  - "x"
 ---
 
 # Beat Knowledge Rot: The 3 Types of Reading You Need in the Age of AI

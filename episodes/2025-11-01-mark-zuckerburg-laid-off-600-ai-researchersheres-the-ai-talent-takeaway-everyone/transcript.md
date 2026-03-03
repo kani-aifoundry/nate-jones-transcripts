@@ -31,6 +31,36 @@ yt_tags:
   - "AI security tools"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "azure"
+  - "career"
+  - "claude"
+  - "coding"
+  - "copilot"
+  - "cursor"
+  - "frameworks"
+  - "gemini"
+  - "github"
+  - "github-copilot"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "oracle"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -70,31 +100,6 @@ summary:
 
 I spent over a dozen hours this week following AI stories, so you don't have to"
   - "You never get blocked because this agent is so quick to come back"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "azure"
-  - "career"
-  - "claude"
-  - "coding"
-  - "copilot"
-  - "cursor"
-  - "frameworks"
-  - "gemini"
-  - "github"
-  - "github-copilot"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "oracle"
-  - "product-management"
 ---
 
 # Mark Zuckerburg Laid Off 600 AI Researchers—Here's the AI Talent Takeaway Everyone MISSED

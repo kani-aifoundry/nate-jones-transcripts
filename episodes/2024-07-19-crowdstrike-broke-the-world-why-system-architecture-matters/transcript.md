@@ -11,6 +11,18 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -32,14 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "workflows"
 ---
 
 # Crowdstrike broke the world: why system architecture matters

@@ -29,6 +29,25 @@ yt_tags:
   - "Tech Insights"
   - "Virtual Agents"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "nvidia"
+  - "product-management"
+  - "prompting"
+  - "tesla"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -55,20 +74,6 @@ summary:
   - "# We're Getting AI Agents Backwards—Simulation Wins
 
 I think we're focusing on agents at their most underleveraged point"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "nvidia"
-  - "product-management"
-  - "prompting"
-  - "tesla"
-  - "tutorials"
-  - "workflows"
 ---
 
 # We're Getting AI Agents Backwards—Simulation Wins

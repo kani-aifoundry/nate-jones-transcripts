@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "make"
+  - "prompting"
+  - "replit"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -38,21 +57,6 @@ summary:
   - "# AI Code Debugging Needs Debugging: Why coding assistants like Cursor or Replit fail to fix code
 
 You know, code repair is a long way behind code authorship from an AI perspective, and I think it's a"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "make"
-  - "prompting"
-  - "replit"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
 ---
 
 # AI Code Debugging Needs Debugging: Why coding assistants like Cursor or Replit fail to fix code

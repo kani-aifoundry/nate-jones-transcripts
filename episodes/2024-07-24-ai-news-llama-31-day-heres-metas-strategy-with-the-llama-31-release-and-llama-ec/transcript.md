@@ -11,6 +11,29 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "azure"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "prompting"
+  - "salesforce"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -44,23 +67,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "azure"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "prompting"
-  - "salesforce"
-  - "startups"
 ---
 
 # AI News: Llama 3.1 Day! Here's Meta's strategy with the Llama 3.1 release and Llama ecosystem

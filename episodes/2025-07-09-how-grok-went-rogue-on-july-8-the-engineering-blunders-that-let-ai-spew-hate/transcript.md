@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "chatgpt"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "make"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -41,22 +62,6 @@ summary:
   - "# How Grok Went Rogue on July 8: The Engineering Blunders That Let AI Spew Hate
 
 By now, I'm assuming that you have heard of what I am calling the July 8th incident"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "chatgpt"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "make"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "workflows"
-  - "x"
 ---
 
 # How Grok Went Rogue on July 8: The Engineering Blunders That Let AI Spew Hate

@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "career"
+  - "coding"
+  - "notion"
+  - "product-management"
+  - "startups"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -33,14 +46,6 @@ concepts:
   []
 summary:
   - "You know, we love stories of innovation, and I think AI complicates that"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "career"
-  - "coding"
-  - "notion"
-  - "product-management"
-  - "startups"
 ---
 
 # AI: Where does Human Innovation still matter?

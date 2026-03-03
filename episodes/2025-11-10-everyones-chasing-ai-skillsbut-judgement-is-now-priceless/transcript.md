@@ -28,6 +28,25 @@ yt_tags:
   - "AI upskilling"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-strategy"
+  - "amazon"
+  - "career"
+  - "coding"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "meta"
+  - "netflix"
+  - "product-management"
+  - "projects"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -54,20 +73,6 @@ summary:
   - "# Everyone's Chasing AI Skills—But Judgement is Now Priceless
 
 We're all becoming judgment merchants"
-keywords:
-  - "ai-strategy"
-  - "amazon"
-  - "career"
-  - "coding"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "meta"
-  - "netflix"
-  - "product-management"
-  - "projects"
-  - "tutorials"
-  - "x"
 ---
 
 # Everyone's Chasing AI Skills—But Judgement is Now Priceless

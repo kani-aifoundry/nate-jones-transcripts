@@ -29,6 +29,23 @@ yt_tags:
   - "AI investments"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "amazon"
+  - "aws"
+  - "azure"
+  - "career"
+  - "google"
+  - "make"
+  - "microsoft"
+  - "nvidia"
+  - "product-management"
+  - "projects"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -57,20 +74,6 @@ summary:
   - "# The Dirty Secret Behind Amazon's 30,000 Cuts: Nvidia
 
 Amazon laid off 30,000 people this week in a move that had been widely telegraphed for months"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "amazon"
-  - "aws"
-  - "azure"
-  - "career"
-  - "google"
-  - "make"
-  - "microsoft"
-  - "nvidia"
-  - "product-management"
-  - "projects"
-  - "workflows"
 ---
 
 # The Dirty Secret Behind Amazon's 30,000 Cuts: Nvidia

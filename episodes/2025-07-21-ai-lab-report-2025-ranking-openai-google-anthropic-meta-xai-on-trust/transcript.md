@@ -28,6 +28,32 @@ yt_tags:
   - "Trust in AI"
   - "xAI Analysis"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "apple"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "make"
+  - "meta"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -66,26 +92,6 @@ summary:
   - "# AI Lab Report 2025: Ranking OpenAI, Google, Anthropic, Meta & xAI on Trust
 
 One of the interesting things about this age of AI is that trust is hard to scale"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "apple"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "make"
-  - "meta"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "tutorials"
-  - "x"
 ---
 
 # AI Lab Report 2025: Ranking OpenAI, Google, Anthropic, Meta & xAI on Trust

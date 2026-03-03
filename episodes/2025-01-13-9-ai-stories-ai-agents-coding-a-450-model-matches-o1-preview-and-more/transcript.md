@@ -11,6 +11,30 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "netflix"
+  - "o1"
+  - "openai"
+  - "prompting"
+  - "startups"
+  - "workflows"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -37,25 +61,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "netflix"
-  - "o1"
-  - "openai"
-  - "prompting"
-  - "startups"
-  - "workflows"
-  - "x"
 ---
 
 # 9 AI Stories: AI Agents Coding, a $450 Model Matches o1 Preview, and More

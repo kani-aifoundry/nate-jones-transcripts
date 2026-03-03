@@ -28,6 +28,27 @@ yt_tags:
   - "physical AI"
   - "AI supply chain"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "amd"
+  - "anthropic"
+  - "aws"
+  - "azure"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "microsoft"
+  - "nvidia"
+  - "openai"
+  - "product-management"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -61,22 +82,6 @@ summary:
   - "# NVIDIA told us exactly where AI is going — and almost everyone heard it wrong
 
 CES is usually treated as a consumer electronic spectacle, but every so often it becomes something more than that"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "amd"
-  - "anthropic"
-  - "aws"
-  - "azure"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "microsoft"
-  - "nvidia"
-  - "openai"
-  - "product-management"
 ---
 
 # NVIDIA told us exactly where AI is going — and almost everyone heard it wrong

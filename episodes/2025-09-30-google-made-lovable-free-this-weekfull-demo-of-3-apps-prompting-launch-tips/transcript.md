@@ -34,6 +34,35 @@ yt_tags:
   - "AI strategy for teams"
   - "vibe coding tutorial"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "github"
+  - "google"
+  - "lovable"
+  - "make"
+  - "nano-banana"
+  - "perplexity"
+  - "projects"
+  - "prompting"
+  - "salesforce"
+  - "sonnet"
+  - "startups"
+  - "stripe"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -72,29 +101,6 @@ summary:
   - "# Google Made Lovable FREE This Week—Full Demo of 3 Apps + Prompting & Launch Tips
 
 If you are wondering when is the right time to try this whole vibe coding thing or when should I try my next project"
-keywords:
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "github"
-  - "google"
-  - "lovable"
-  - "make"
-  - "nano-banana"
-  - "perplexity"
-  - "projects"
-  - "prompting"
-  - "salesforce"
-  - "sonnet"
-  - "startups"
-  - "stripe"
-  - "tutorials"
-  - "x"
 ---
 
 # Google Made Lovable FREE This Week—Full Demo of 3 Apps + Prompting & Launch Tips

@@ -11,6 +11,19 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "prompting"
 
 # AI-enriched metadata
 content_type: "Framework"
@@ -32,15 +45,6 @@ concepts:
   []
 summary:
   - "# AI Can Do Standup: Here are some actual jokes from Claude—funny or not"
-keywords:
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "prompting"
 ---
 
 # AI Can Do Standup: Here are some actual jokes from Claude—funny or not?

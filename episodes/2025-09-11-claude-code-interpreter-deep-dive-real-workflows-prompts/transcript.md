@@ -11,6 +11,36 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "alfred"
+  - "anthropic"
+  - "box"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "deep-dives"
+  - "figma"
+  - "frameworks"
+  - "google"
+  - "leadership"
+  - "make"
+  - "microsoft"
+  - "openai"
+  - "oracle"
+  - "perplexity"
+  - "product-management"
+  - "prompting"
+  - "startups"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -47,30 +77,6 @@ summary:
   - "# Claude Code Interpreter Deep Dive: Real Workflows + Prompts
 
 Claude launched totally new capabilities to revolutionize Excel, PDFs, PowerPoints, all of that stuff"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "alfred"
-  - "anthropic"
-  - "box"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "deep-dives"
-  - "figma"
-  - "frameworks"
-  - "google"
-  - "leadership"
-  - "make"
-  - "microsoft"
-  - "openai"
-  - "oracle"
-  - "perplexity"
-  - "product-management"
-  - "prompting"
-  - "startups"
-  - "workflows"
 ---
 
 # Claude Code Interpreter Deep Dive: Real Workflows + Prompts

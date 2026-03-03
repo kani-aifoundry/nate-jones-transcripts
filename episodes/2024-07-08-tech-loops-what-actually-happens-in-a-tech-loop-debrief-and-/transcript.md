@@ -9,6 +9,20 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "amazon"
+  - "career"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "startups"
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "Career"
 difficulty: "Intermediate"
@@ -30,13 +44,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "amazon"
-  - "career"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "startups"
 ---
 
 # Tech loops: what actually happens in a tech loop debrief and how you can win as a candidate

@@ -11,6 +11,25 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "box"
+  - "career"
+  - "coding"
+  - "frameworks"
+  - "jan"
+  - "make"
+  - "microsoft"
+  - "prompting"
+  - "tutorials"
+  - "x"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -35,21 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "box"
-  - "career"
-  - "coding"
-  - "frameworks"
-  - "jan"
-  - "make"
-  - "microsoft"
-  - "prompting"
-  - "tutorials"
-  - "x"
 ---
 
 # AI Jan 17: Tools for AI Agent Builders, MatterGen model from Microsoft, AI tutors for education

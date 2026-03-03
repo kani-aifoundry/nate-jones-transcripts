@@ -11,6 +11,32 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-strategy"
+  - "ai-tools"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "claude-code"
+  - "coding"
+  - "frameworks"
+  - "make"
+  - "mcp"
+  - "meta"
+  - "microsoft"
+  - "openai"
+  - "opus"
+  - "product-management"
+  - "prompting"
+  - "sonnet"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -41,28 +67,6 @@ summary:
   - "# Anthropic's Trojan Horse: How Claude Code Plus a Million Tokens Could Win the Workplace
 
 Anthropic is showing us their strategy for Claude in broad daylight and everyone's obsessed with the Chad GPT"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-strategy"
-  - "ai-tools"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "claude-code"
-  - "coding"
-  - "frameworks"
-  - "make"
-  - "mcp"
-  - "meta"
-  - "microsoft"
-  - "openai"
-  - "opus"
-  - "product-management"
-  - "prompting"
-  - "sonnet"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Anthropic's Trojan Horse: How Claude Code Plus a Million Tokens Could Win the Workplace

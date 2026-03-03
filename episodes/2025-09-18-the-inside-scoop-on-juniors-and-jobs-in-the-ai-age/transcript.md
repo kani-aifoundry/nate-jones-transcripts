@@ -23,6 +23,25 @@ yt_tags:
   - "actionable AI"
   - "AI adoption"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-strategy"
+  - "career"
+  - "coding"
+  - "linkedin"
+  - "make"
+  - "product-management"
+  - "projects"
+  - "startups"
+  - "tutorials"
+  - "workflows"
+  - "zapier"
 
 # AI-enriched metadata
 content_type: "Deep Dive"
@@ -51,19 +70,6 @@ summary:
   - "# The Inside Scoop on Juniors and Jobs in the AI Age
 
 One of the biggest questions in the labor market right now is what happens to juniors"
-keywords:
-  - "ai-agents"
-  - "ai-strategy"
-  - "career"
-  - "coding"
-  - "linkedin"
-  - "make"
-  - "product-management"
-  - "projects"
-  - "startups"
-  - "tutorials"
-  - "workflows"
-  - "zapier"
 ---
 
 # The Inside Scoop on Juniors and Jobs in the AI Age

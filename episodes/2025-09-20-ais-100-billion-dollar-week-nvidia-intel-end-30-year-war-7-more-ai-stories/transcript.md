@@ -28,6 +28,36 @@ yt_tags:
   - "local AI assistants"
   - "AI platform wars"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "amazon"
+  - "anthropic"
+  - "apple"
+  - "claude"
+  - "codex"
+  - "frameworks"
+  - "gemini"
+  - "google"
+  - "leadership"
+  - "make"
+  - "meta"
+  - "microsoft"
+  - "notion"
+  - "notion-ai"
+  - "nvidia"
+  - "openai"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "slack"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -68,30 +98,6 @@ summary:
   - "# AI's $100 Billion Dollar Week: Nvidia & Intel End 30 Year War + 7 More AI Stories
 
 This week in AI news had everything"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "amazon"
-  - "anthropic"
-  - "apple"
-  - "claude"
-  - "codex"
-  - "frameworks"
-  - "gemini"
-  - "google"
-  - "leadership"
-  - "make"
-  - "meta"
-  - "microsoft"
-  - "notion"
-  - "notion-ai"
-  - "nvidia"
-  - "openai"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "slack"
-  - "tutorials"
 ---
 
 # AI's $100 Billion Dollar Week: Nvidia & Intel End 30 Year War + 7 More AI Stories

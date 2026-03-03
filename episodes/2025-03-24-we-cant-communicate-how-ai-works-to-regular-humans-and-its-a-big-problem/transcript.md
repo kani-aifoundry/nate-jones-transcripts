@@ -11,6 +11,24 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "bolt"
+  - "career"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "google"
+  - "lovable"
+  - "make"
+  - "product-management"
+  - "prompting"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -36,20 +54,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "bolt"
-  - "career"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "google"
-  - "lovable"
-  - "make"
-  - "product-management"
-  - "prompting"
-  - "tutorials"
 ---
 
 # We can't communicate how AI works to regular humans and it's a big problem

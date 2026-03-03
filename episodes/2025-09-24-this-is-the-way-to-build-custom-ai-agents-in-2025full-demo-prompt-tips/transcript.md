@@ -30,6 +30,38 @@ yt_tags:
   - "AI jobs for teams"
   - "AI strategy for operators"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "amazon"
+  - "anthropic"
+  - "artifacts"
+  - "box"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "github"
+  - "google"
+  - "leadership"
+  - "make"
+  - "mcp"
+  - "model-context-protocol"
+  - "notion"
+  - "notion-ai"
+  - "openai"
+  - "perplexity"
+  - "product-management"
+  - "projects"
+  - "prompting"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -68,33 +100,6 @@ summary:
   - "# This is THE Way to Build Custom AI Agents in 2025—Full Demo + Prompt Tips
 
 I'm here to tell you about the very very easiest custom AI agent automation software out there today"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "amazon"
-  - "anthropic"
-  - "artifacts"
-  - "box"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "github"
-  - "google"
-  - "leadership"
-  - "make"
-  - "mcp"
-  - "model-context-protocol"
-  - "notion"
-  - "notion-ai"
-  - "openai"
-  - "perplexity"
-  - "product-management"
-  - "projects"
-  - "prompting"
-  - "tutorials"
-  - "workflows"
 ---
 
 # This is THE Way to Build Custom AI Agents in 2025—Full Demo + Prompt Tips

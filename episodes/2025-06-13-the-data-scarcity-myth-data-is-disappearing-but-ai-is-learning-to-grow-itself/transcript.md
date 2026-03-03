@@ -11,6 +11,27 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+keywords:
+  - "ai-agents"
+  - "ai-news"
+  - "ai-tools"
+  - "anthropic"
+  - "coding"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "midjourney"
+  - "openai"
+  - "product-management"
+  - "prompting"
+  - "salesforce"
+  - "slack"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -40,22 +61,6 @@ summary:
   - "# The Data Scarcity Myth: Data is Disappearing, but AI is Learning to Grow Itself
 
 You know, Ilia Sutskiver said data is the new oil, which is, I suppose, not a new thing to say, but it's Ilia, and he"
-keywords:
-  - "ai-agents"
-  - "ai-news"
-  - "ai-tools"
-  - "anthropic"
-  - "coding"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "midjourney"
-  - "openai"
-  - "product-management"
-  - "prompting"
-  - "salesforce"
-  - "slack"
-  - "workflows"
 ---
 
 # The Data Scarcity Myth: Data is Disappearing, but AI is Learning to Grow Itself

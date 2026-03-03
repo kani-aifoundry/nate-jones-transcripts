@@ -11,6 +11,16 @@ author: "AI News & Strategy Daily | Nate B Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Executives"
+
+keywords:
+  - "ai-agents"
+  - "career"
+  - "deep-dives"
+  - "frameworks"
+  - "leadership"
+  - "tutorials"
 
 # AI-enriched metadata
 content_type: "Tutorial"
@@ -31,13 +41,6 @@ concepts:
   []
 summary:
   []
-keywords:
-  - "ai-agents"
-  - "career"
-  - "deep-dives"
-  - "frameworks"
-  - "leadership"
-  - "tutorials"
 ---
 
 # AI Now vs AI Next: Learn to look ahead

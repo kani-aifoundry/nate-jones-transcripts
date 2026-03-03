@@ -28,6 +28,25 @@ yt_tags:
   - "domain expertise AI"
   - "agentic work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-agents"
+  - "anthropic"
+  - "career"
+  - "claude"
+  - "coding"
+  - "frameworks"
+  - "gemini"
+  - "make"
+  - "opus"
+  - "product-management"
+  - "tutorials"
+  - "workflows"
 
 # AI-enriched metadata
 content_type: "News Roundup"
@@ -57,19 +76,6 @@ summary:
   - "# Anthropic's New Benchmark Changes Everything—Most People Will Miss Why
 
 We are on the super exponential timeline for AI agents and I want to explain what that means and why it's super important that"
-keywords:
-  - "ai-agents"
-  - "anthropic"
-  - "career"
-  - "claude"
-  - "coding"
-  - "frameworks"
-  - "gemini"
-  - "make"
-  - "opus"
-  - "product-management"
-  - "tutorials"
-  - "workflows"
 ---
 
 # Anthropic's New Benchmark Changes Everything—Most People Will Miss Why

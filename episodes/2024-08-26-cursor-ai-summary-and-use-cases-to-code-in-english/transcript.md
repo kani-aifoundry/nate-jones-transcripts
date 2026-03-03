@@ -9,6 +9,29 @@ yt_tags:
   []
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+keywords:
+  - "ai-news"
+  - "ai-tools"
+  - "aws"
+  - "coding"
+  - "cursor"
+  - "frameworks"
+  - "leadership"
+  - "make"
+  - "product-management"
+  - "startups"
+  - "tesla"
+  - "tutorials"
+  - "twitter"
+  - "workflows"
+  - "youtube"
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"
@@ -37,22 +60,6 @@ summary:
   - "# Cursor AI: Summary and Use-Cases to Code in English
 
 the news over the weekend was all about cursor"
-keywords:
-  - "ai-news"
-  - "ai-tools"
-  - "aws"
-  - "coding"
-  - "cursor"
-  - "frameworks"
-  - "leadership"
-  - "make"
-  - "product-management"
-  - "startups"
-  - "tesla"
-  - "tutorials"
-  - "twitter"
-  - "workflows"
-  - "youtube"
 ---
 
 # Cursor AI: Summary and Use-Cases to Code in English
