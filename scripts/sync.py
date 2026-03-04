@@ -118,6 +118,9 @@ def get_video_metadata(video_id):
         return None
 
 
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
+
+
 def get_transcript_free(video_id):
     """Get transcript using youtube-transcript-api v1.x (free, no API key)."""
     try:
@@ -137,6 +140,45 @@ def get_transcript_free(video_id):
         }
     except Exception as e:
         raise Exception(f"Transcript error: {e}")
+
+
+def get_transcript_gemini(video_id):
+    """Fallback: use Gemini API to transcribe YouTube video directly."""
+    if not GEMINI_API_KEY:
+        raise Exception("GEMINI_API_KEY not set")
+
+    url = f"https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent?key={GEMINI_API_KEY}"
+    payload = {
+        "contents": [{
+            "parts": [
+                {"text": "Transcribe this YouTube video. Return ONLY the full spoken transcript text, nothing else. No timestamps, no speaker labels, no commentary — just the exact words spoken."},
+                {"fileData": {"fileUri": f"https://www.youtube.com/watch?v={video_id}", "mimeType": "video/*"}}
+            ]
+        }],
+        "generationConfig": {
+            "temperature": 0.0,
+            "maxOutputTokens": 8192
+        }
+    }
+
+    resp = http_requests.post(url, json=payload, timeout=120)
+    resp.raise_for_status()
+    data = resp.json()
+
+    # Extract text from Gemini response
+    try:
+        full_text = data["candidates"][0]["content"]["parts"][0]["text"].strip()
+    except (KeyError, IndexError) as e:
+        raise Exception(f"Gemini response parse error: {e}")
+
+    if not full_text or len(full_text) < 50:
+        raise Exception(f"Gemini returned too little text ({len(full_text)} chars)")
+
+    return {
+        "full_text": full_text,
+        "segments": [],
+        "segment_count": 0
+    }
 
 
 def extract_substack_url(description):
@@ -269,12 +311,27 @@ def main():
 
             time.sleep(random.uniform(1, 2))
 
-            # Get transcript (free)
-            transcript = get_transcript_free(video_id)
+            # Get transcript — try free first, fall back to Gemini
+            transcript = None
+            source = "free"
+            try:
+                transcript = get_transcript_free(video_id)
+            except Exception as free_err:
+                free_msg = str(free_err)
+                if "blocking" in free_msg.lower() or "IP" in free_msg or "429" in free_msg:
+                    log(f"  Free API blocked, trying Gemini fallback...")
+                    try:
+                        transcript = get_transcript_gemini(video_id)
+                        source = "gemini"
+                    except Exception as gemini_err:
+                        raise Exception(f"Both methods failed. Free: {free_msg[:100]} | Gemini: {str(gemini_err)[:100]}")
+                else:
+                    raise free_err
 
             # Save
             output_path = save_transcript(metadata, transcript)
-            log(f"  Saved: {Path(output_path).name} ({transcript['segment_count']} segments)")
+            seg_info = f"{transcript['segment_count']} segments" if transcript['segment_count'] else "via gemini"
+            log(f"  Saved: {Path(output_path).name} ({seg_info}) [{source}]")
 
             # Update progress
             progress["completed"].append(video_id)
@@ -295,14 +352,8 @@ def main():
             error_msg = str(e)
             consecutive_errors += 1
 
-            # Detect IP ban / rate limit
-            if "blocking" in error_msg.lower() or "IP" in error_msg:
-                log(f"  IP blocked by YouTube. Got {success_count} transcripts before block.")
-                log(f"  Remaining videos will be retried on next run.")
-                # Don't add to failed list — just skip for now
-                break
-            elif consecutive_errors >= MAX_CONSECUTIVE_ERRORS:
-                log(f"  {MAX_CONSECUTIVE_ERRORS} consecutive errors — stopping to avoid ban.")
+            if consecutive_errors >= MAX_CONSECUTIVE_ERRORS:
+                log(f"  {MAX_CONSECUTIVE_ERRORS} consecutive errors — stopping.")
                 break
             else:
                 log(f"  ERROR: {error_msg[:200]}")
