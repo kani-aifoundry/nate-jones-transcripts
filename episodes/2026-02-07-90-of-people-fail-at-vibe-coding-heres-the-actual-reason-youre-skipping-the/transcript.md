@@ -11,19 +11,27 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "Here's the Actual Reason: You're Skipping the Hard Part"
 ---
 
 # 90% of People Fail at Vibe Coding. Here's the Actual Reason: You're Skipping the Hard Part.

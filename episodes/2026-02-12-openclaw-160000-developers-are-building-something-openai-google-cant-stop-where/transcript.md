@@ -11,19 +11,36 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Tesla"
+    - "GitHub"
+    - "Stripe"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Make"
+    - "Opus"
+    - "Projects"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# OpenClaw: 160,000 Developers Are Building Something OpenAI & Google Can't Stop"
 ---
 
 # OpenClaw: 160,000 Developers Are Building Something OpenAI & Google Can't Stop. Where Do You Stand?

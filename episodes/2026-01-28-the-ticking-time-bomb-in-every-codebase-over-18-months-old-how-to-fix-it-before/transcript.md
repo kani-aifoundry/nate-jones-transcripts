@@ -11,19 +11,32 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "X"
+    - "Oracle"
+  people:
+    []
+  products:
+    - "Make"
+    - "Artifacts"
+  models:
+    []
+concepts:
+  - "Tuned on existing code and documentation"
+summary:
+  - "# The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late)
+
+AI might be better at software architecture than humans"
 ---
 
 # The Ticking Time Bomb in Every Codebase Over 18 Months Old (How to Fix It Before It's Too Late)

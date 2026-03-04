@@ -49,6 +49,13 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

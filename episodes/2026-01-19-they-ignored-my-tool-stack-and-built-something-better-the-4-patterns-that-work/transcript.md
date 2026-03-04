@@ -11,19 +11,34 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Notion"
+    - "Zapier"
+    - "Arc"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Whisper"
+    - "Arc"
+    - "Zapier"
+    - "Make"
+  models:
+    - "Whisper"
+concepts:
+  []
+summary:
+  - "# They Ignored My Tool Stack and Built Something Better--The 4 Patterns That Work
+
+There are four principles that separate people who successfully build AI systems from people who get stuck and then j"
 ---
 
 # They Ignored My Tool Stack and Built Something Better--The 4 Patterns That Work

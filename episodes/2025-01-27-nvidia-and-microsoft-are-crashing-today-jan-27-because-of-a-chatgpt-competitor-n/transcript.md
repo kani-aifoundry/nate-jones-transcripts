@@ -33,6 +33,12 @@ keywords:
   - "startups"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

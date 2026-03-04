@@ -11,19 +11,28 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  []
 ---
 
 # The True Cost of Wrong Product Decisions: Debunking Common Myths

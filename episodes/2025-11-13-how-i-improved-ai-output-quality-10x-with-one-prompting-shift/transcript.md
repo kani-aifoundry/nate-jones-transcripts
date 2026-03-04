@@ -45,6 +45,12 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Prompting"
 difficulty: "Intermediate"

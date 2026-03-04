@@ -25,6 +25,12 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Strategy"
 difficulty: "Advanced"

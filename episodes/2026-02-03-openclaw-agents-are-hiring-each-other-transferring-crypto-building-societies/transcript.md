@@ -11,19 +11,27 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "GitHub"
+    - "X"
+  people:
+    []
+  products:
+    - "Projects"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "AI systems behave when they're left to self-organize"
 ---
 
 # OpenClaw Agents Are Hiring Each Other. Transferring Crypto. Building Societies. This Is Real.

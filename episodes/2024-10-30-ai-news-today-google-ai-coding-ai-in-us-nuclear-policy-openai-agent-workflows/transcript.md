@@ -11,19 +11,31 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI News"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Google"
+    - "Amazon"
+    - "Notion"
+    - "Box"
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  []
 ---
 
 # AI News Today: Google AI coding, AI in US Nuclear Policy, OpenAI Agent Workflows in Notion

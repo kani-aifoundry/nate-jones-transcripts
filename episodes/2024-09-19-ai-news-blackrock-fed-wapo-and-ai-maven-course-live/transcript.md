@@ -26,6 +26,12 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI News"
 difficulty: "Intermediate"

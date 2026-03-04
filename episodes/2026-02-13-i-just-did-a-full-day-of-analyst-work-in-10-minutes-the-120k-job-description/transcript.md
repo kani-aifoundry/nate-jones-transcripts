@@ -11,19 +11,29 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "Career"
+difficulty: "Intermediate"
+audience:
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Microsoft"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Opus"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# I Just Did a Full Day of Analyst Work in 10 Minutes"
 ---
 
 # I Just Did a Full Day of Analyst Work in 10 Minutes. The $120K Job Description Just Changed Forever.

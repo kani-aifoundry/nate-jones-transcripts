@@ -11,19 +11,26 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "Career"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Google"
+  people:
+    - "Sundar Pichai"
+  products:
+    []
+  models:
+    []
+concepts:
+  []
+summary:
+  - "The 4 Skills that Survive and What This Means for You"
 ---
 
 # Why $650 Billion in AI Spending ISN'T Enough. The 4 Skills that Survive and What This Means for You.

@@ -11,19 +11,38 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Google"
+    - "Salesforce"
+    - "Cursor"
+    - "Lovable"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Cursor"
+    - "Make"
+    - "Artifacts"
+  models:
+    []
+concepts:
+  - "Different value proposition"
+summary:
+  - "# Disposable Software: The Trend 90% of People are Getting Wrong--The Hidden Costs We Need to Consider
+
+The age of disposable software is here and almost no one understands what that really means"
 ---
 
 # Disposable Software: The Trend 90% of People are Getting Wrong--The Hidden Costs We Need to Consider

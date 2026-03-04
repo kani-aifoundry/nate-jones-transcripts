@@ -27,6 +27,11 @@ keywords:
   - "youtube"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

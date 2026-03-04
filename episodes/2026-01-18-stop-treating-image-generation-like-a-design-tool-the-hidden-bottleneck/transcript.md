@@ -11,19 +11,39 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Google"
+    - "Perplexity"
+    - "Midjourney"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Midjourney"
+    - "Perplexity"
+    - "Make"
+    - "Artifacts"
+    - "Nano Banana"
+  models:
+    []
+concepts:
+  - "Blind when it comes to images, unable to reliably interpret visual information, and unable to create it"
+  - "Look at each bottleneck as a place where faster visual communication could improve decision quality and execution speed not just like take less time"
+summary:
+  - "# Stop Treating Image Generation Like a Design Tool--The Hidden Bottleneck Limiting Your AI ROI
+
+Nano Banana Pro hit a billion images generated in just 53 days"
 ---
 
 # Stop Treating Image Generation Like a Design Tool--The Hidden Bottleneck Limiting Your AI ROI

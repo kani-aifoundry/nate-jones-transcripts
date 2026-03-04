@@ -28,6 +28,13 @@ yt_tags:
   - "AI strategy for teams"
   - "kids and AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

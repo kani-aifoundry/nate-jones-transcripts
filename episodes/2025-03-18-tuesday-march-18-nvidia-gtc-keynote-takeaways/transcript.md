@@ -30,6 +30,14 @@ keywords:
   - "startups"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
 difficulty: "Advanced"

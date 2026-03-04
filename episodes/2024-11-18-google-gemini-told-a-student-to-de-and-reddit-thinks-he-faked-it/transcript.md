@@ -23,6 +23,11 @@ keywords:
   - "make"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

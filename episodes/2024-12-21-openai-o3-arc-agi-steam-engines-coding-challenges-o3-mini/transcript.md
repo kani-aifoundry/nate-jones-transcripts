@@ -29,6 +29,12 @@ keywords:
   - "product-management"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

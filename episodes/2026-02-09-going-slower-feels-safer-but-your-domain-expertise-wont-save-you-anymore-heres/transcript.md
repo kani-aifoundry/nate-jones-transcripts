@@ -11,19 +11,30 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Meta"
+  people:
+    []
+  products:
+    - "Claude"
+  models:
+    []
+concepts:
+  - "Is that specific domain ai expertise is going to be mediated through these universal skills"
+  - "If you know how software works, and so much of software is just reading and writing data and presenting it in a way that's"
+summary:
+  - "# Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore"
+  - "That specific domain ai expertise is going to be mediated through these universal skills"
 ---
 
 # Going Slower Feels Safer, But Your Domain Expertise Won't Save You Anymore. Here's What Will.

@@ -11,19 +11,31 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Lovable"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Copilot"
+    - "Make"
+    - "Opus"
+  models:
+    - "Llama"
+concepts:
+  []
+summary:
+  - "Claude is invading Excel and they are taking no prisoners"
 ---
 
 # I Built an 11-Tab Financial Model in 10 Minutes. The $20/Month Tool That's About Change How We Work.

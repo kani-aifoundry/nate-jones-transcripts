@@ -34,6 +34,12 @@ keywords:
   - "product-management"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI News"
 difficulty: "Intermediate"

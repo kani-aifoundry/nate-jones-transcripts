@@ -11,19 +11,28 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Deep Dive"
+primary_topic: "Career"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "YouTube"
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  []
 ---
 
 # The secret to getting better at job interviews: your job is to de-risk your candidacy for the role

@@ -11,19 +11,29 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    []
+  products:
+    - "Projects"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)
+
+Entry-level hiring at major tech companies has collapsed by more than 50% since 2019"
 ---
 
 # The People Getting Promoted All Have This One Thing in Common (AI Is Supercharging this Mindset)

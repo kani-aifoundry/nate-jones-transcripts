@@ -28,6 +28,11 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "General"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

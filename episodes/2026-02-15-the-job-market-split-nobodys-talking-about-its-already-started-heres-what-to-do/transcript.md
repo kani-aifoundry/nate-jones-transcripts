@@ -11,19 +11,31 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Agents"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Amazon"
+    - "GitHub"
+    - "AWS"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# The Job Market Split Nobody's Talking About (It's Already Started)"
 ---
 
 # The Job Market Split Nobody's Talking About (It's Already Started). Here's What to Do About It.

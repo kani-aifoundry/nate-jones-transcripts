@@ -11,19 +11,44 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Deep Dive"
+primary_topic: "Career"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Box"
+    - "Cursor"
+  people:
+    - "Sam Altman"
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Gemini"
+    - "Cursor"
+    - "Codex"
+    - "Opus"
+    - "Sonnet"
+    - "Haiku"
+    - "Projects"
+  models:
+    - "Claude Opus"
+    - "Opus 4.5"
+    - "Gemini"
+    - "Gemini 3"
+    - "SAM"
+concepts:
+  []
+summary:
+  - "Sam Altman, CEO of OpenAI, made a confession recently"
 ---
 
 # OpenAI Is Slowing Hiring. Anthropic's Engineers Stopped Writing Code. Here's Why You Should Care.

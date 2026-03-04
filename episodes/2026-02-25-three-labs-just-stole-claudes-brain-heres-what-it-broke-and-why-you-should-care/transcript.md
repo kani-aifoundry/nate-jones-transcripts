@@ -27,6 +27,13 @@ yt_tags:
   - "AI infrastructure"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

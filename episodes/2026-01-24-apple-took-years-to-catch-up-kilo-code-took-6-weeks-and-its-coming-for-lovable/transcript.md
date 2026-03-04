@@ -11,19 +11,40 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Apple"
+    - "Cursor"
+    - "Replit"
+    - "X"
+    - "Runway"
+    - "Lovable"
+  people:
+    - "Demis Hassabis"
+  products:
+    - "Gemini"
+    - "Cursor"
+    - "Runway"
+  models:
+    - "Gemini"
+    - "DeepSeek"
+concepts:
+  - "That the frontier model landscape is essentially three labs"
+summary:
+  - "The same week, Apple admitted it lost the foundation model race and XAI closed the largest funding expansion of XAI's Colossus supercomputers in Memphis, Tennessee"
 ---
 
 # Apple Took Years to Catch Up. Kilo Code Took 6 Weeks--and It's Coming for Lovable, Cursor, Replit

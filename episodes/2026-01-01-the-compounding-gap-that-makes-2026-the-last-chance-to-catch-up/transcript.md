@@ -56,6 +56,14 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Agents"
 difficulty: "Intermediate"

@@ -35,6 +35,12 @@ keywords:
   - "sora"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI News"
 difficulty: "Intermediate"

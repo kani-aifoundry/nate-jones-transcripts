@@ -28,6 +28,12 @@ yt_tags:
   - "AI strategy for teams"
   - "LLM psychosis"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

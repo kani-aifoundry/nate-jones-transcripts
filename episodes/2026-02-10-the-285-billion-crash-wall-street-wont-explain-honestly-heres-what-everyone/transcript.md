@@ -11,19 +11,44 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Deep Dive"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Nvidia"
+    - "Salesforce"
+    - "Adobe"
+    - "Notion"
+    - "Cursor"
+    - "X"
+    - "SAP"
+    - "Bolt"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Copilot"
+    - "Cursor"
+    - "Codex"
+    - "Make"
+    - "Opus"
+  models:
+    []
+concepts:
+  - "The window has not yet closed"
+  - "Rethinking how you work from the ground up"
+summary:
+  - "# The $285 Billion Crash Wall Street Won't Explain Honestly"
 ---
 
 # The $285 Billion Crash Wall Street Won't Explain Honestly. Here's What Everyone Missed.

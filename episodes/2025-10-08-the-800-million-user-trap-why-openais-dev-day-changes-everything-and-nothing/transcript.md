@@ -63,6 +63,14 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

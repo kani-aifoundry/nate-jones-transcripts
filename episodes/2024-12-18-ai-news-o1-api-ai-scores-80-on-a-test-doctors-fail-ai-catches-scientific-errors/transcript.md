@@ -28,6 +28,13 @@ keywords:
   - "startups"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Case Study"
 primary_topic: "AI News"
 difficulty: "Intermediate"

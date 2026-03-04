@@ -30,6 +30,11 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "Prompting"
 difficulty: "Intermediate"

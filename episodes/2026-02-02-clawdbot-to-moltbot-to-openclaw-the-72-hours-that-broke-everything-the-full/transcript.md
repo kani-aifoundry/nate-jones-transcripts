@@ -11,19 +11,31 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Google"
+    - "Apple"
+    - "GitHub"
+  people:
+    []
+  products:
+    - "Claude"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)
+
+In hundreds of cities across the globe right now, developers are queuing up to buy Mac minis specifically to"
 ---
 
 # Clawdbot to Moltbot to OpenClaw: The 72 Hours That Broke Everything (The Full Breakdown)

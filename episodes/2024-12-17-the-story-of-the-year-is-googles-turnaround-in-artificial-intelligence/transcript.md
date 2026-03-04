@@ -33,6 +33,12 @@ keywords:
   - "twitter"
 
 # AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

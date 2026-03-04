@@ -34,6 +34,11 @@ keywords:
   - "youtube"
 
 # AI-enriched metadata
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

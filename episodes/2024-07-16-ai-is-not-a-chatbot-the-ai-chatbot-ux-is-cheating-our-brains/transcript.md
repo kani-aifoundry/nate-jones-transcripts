@@ -29,6 +29,13 @@ keywords:
   - "twitter"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

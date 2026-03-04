@@ -57,6 +57,13 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

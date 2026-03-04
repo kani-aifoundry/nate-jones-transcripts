@@ -11,19 +11,37 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Tools"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Arc"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Gemini"
+    - "Arc"
+    - "Make"
+    - "Opus"
+    - "Sonnet"
+  models:
+    - "Claude Opus"
+    - "Opus 4.5"
+    - "Sonnet 4"
+    - "Gemini"
+    - "Gemini 3"
+concepts:
+  []
+summary:
+  - "6: The Biggest AI Jump I've Covered--It's Not Close"
 ---
 
 # Claude Opus 4.6: The Biggest AI Jump I've Covered--It's Not Close. (Here's What You Need to Know)

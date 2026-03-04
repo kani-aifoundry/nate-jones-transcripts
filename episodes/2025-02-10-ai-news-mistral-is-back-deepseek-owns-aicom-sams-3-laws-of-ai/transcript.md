@@ -25,6 +25,11 @@ keywords:
   - "sora"
 
 # AI-enriched metadata
+  - "General"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI News"
 difficulty: "Intermediate"

@@ -11,19 +11,31 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    []
+  people:
+    - "Jensen Huang"
+    - "Elon Musk"
+  products:
+    []
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It's Not What You Think)
+
+A week or so ago in Davos, Switzerland, Elon Musk told the World Economic Forum that we're approaching quote ab"
 ---
 
 # Why the Smartest AI Bet Right Now Has Nothing to Do With AI (It's Not What You Think)

@@ -27,6 +27,11 @@ keywords:
   - "prompting"
 
 # AI-enriched metadata
+  - "General"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

@@ -11,19 +11,29 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "GitHub"
+    - "LinkedIn"
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  - "Different strategic move that unlocks a new kind of market and a new kind of employer relationship"
+summary:
+  - "Build This in One Weekend (Yes, there's a no code option too"
 ---
 
 # Stop Competing With 400 Applicants. Build This in One Weekend (Yes, there's a no code option too!)

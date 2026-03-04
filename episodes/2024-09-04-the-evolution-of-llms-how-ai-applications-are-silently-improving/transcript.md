@@ -11,19 +11,29 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Cursor"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Cursor"
+  models:
+    - "Llama"
+concepts:
+  []
+summary:
+  []
 ---
 
 # The Evolution of LLMs: How AI Applications Are Silently Improving

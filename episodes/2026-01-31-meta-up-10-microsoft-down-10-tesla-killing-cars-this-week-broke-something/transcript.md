@@ -11,19 +11,41 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Meta"
+    - "Microsoft"
+    - "Apple"
+    - "Nvidia"
+    - "Tesla"
+    - "Slack"
+    - "GitHub"
+  people:
+    - "Jensen Huang"
+    - "Elon Musk"
+  products:
+    - "Claude"
+    - "Gemini"
+    - "Perplexity"
+    - "Make"
+  models:
+    - "Gemini"
+concepts:
+  - "Ai is no longer a thing companies are talking about doing"
+summary:
+  - "# Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars"
 ---
 
 # Meta Up 10%, Microsoft Down 10%, Tesla Killing Cars. This Week Broke Something.

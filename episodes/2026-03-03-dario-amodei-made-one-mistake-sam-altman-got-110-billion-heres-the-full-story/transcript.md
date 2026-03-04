@@ -11,19 +11,35 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Microsoft"
+    - "Amazon"
+    - "Nvidia"
+    - "X"
+  people:
+    - "Sam Altman"
+    - "Dario Amodei"
+  products:
+    - "Claude"
+    - "Make"
+  models:
+    - "SAM"
+concepts:
+  []
+summary:
+  - "Last Friday night, while Anthropic CEO Dario Amade was still drafting his principled stand against the Pentagon, Sam Alman announced on X that OpenAI had signed a deal to deploy models in the classifi"
 ---
 
 # Dario Amodei Made One Mistake. Sam Altman Got $110 Billion. Here's the Full Story.

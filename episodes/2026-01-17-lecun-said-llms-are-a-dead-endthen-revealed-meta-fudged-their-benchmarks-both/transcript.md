@@ -11,19 +11,33 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "Google"
+    - "Meta"
+    - "DeepMind"
+    - "IBM"
+  people:
+    - "Yann LeCun"
+  products:
+    - "ChatGPT"
+    - "Claude"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks"
 ---
 
 # LeCun Said LLMs Are a Dead End—Then Revealed Meta Fudged Their Benchmarks. Both Matter - Here's Why.

@@ -28,6 +28,11 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Tools"
 difficulty: "Beginner"

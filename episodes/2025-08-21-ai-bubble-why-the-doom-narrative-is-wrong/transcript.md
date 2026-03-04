@@ -38,6 +38,12 @@ keywords:
   - "x"
 
 # AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Strategy"
 difficulty: "Intermediate"

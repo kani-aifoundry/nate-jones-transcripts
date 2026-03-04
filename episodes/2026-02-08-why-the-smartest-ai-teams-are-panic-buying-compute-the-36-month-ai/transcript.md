@@ -11,19 +11,34 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Google"
+    - "Meta"
+    - "Microsoft"
+    - "Amazon"
+  people:
+    []
+  products:
+    - "Projects"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here
+
+We built an economy that runs on AI and now there isn't enough compute to run that economy"
 ---
 
 # Why the Smartest AI Teams Are Panic-Buying Compute: The 36-Month AI Infrastructure Crisis Is Here

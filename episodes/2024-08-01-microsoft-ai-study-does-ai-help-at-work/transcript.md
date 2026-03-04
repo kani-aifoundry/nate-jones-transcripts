@@ -29,6 +29,13 @@ keywords:
   - "youtube"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"
 difficulty: "Intermediate"

@@ -34,6 +34,13 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

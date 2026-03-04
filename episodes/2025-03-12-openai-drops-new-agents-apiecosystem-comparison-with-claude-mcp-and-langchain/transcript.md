@@ -33,6 +33,13 @@ keywords:
   - "product-management"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "AI Agents"
 difficulty: "Intermediate"

@@ -28,6 +28,12 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "Career"
 difficulty: "Intermediate"

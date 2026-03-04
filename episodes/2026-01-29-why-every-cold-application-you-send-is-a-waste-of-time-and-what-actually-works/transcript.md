@@ -11,19 +11,29 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "LinkedIn"
+    - "YouTube"
+  people:
+    []
+  products:
+    []
+  models:
+    []
+concepts:
+  - "Tells you exactly who to talk to and what to say to bypass the 400-applicant black hole"
+summary:
+  - "# Why Every Cold Application You Send Is a Waste of Time (And What Actually Works)
+
+The most powerful digital platforms in our lives lost their edge in late 2025 and early 2026, and almost nobody has "
 ---
 
 # Why Every Cold Application You Send Is a Waste of Time (And What Actually Works)

@@ -32,6 +32,14 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "Career"
 difficulty: "Intermediate"

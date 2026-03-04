@@ -45,6 +45,12 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Agents"
 difficulty: "Beginner"

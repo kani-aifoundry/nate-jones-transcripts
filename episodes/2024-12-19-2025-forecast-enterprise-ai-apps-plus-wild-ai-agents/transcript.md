@@ -34,6 +34,12 @@ keywords:
   - "workflows"
 
 # AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Opinion"
 primary_topic: "AI Agents"
 difficulty: "Intermediate"

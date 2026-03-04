@@ -11,19 +11,32 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "Career"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Microsoft"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Copilot"
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)
+
+Toward the very end of 2025, a study happened that we didn't pay attention to"
 ---
 
 # Why Your Best Employees Quit Using AI After 3 Weeks (And the 6 Skills That Would Have Saved Them)

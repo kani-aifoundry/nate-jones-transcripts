@@ -30,6 +30,11 @@ keywords:
   - "product-management"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI Tools"
 difficulty: "Intermediate"

@@ -11,19 +11,38 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Tools"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "OpenAI"
+    - "Anthropic"
+    - "GitHub"
+    - "Cursor"
+  people:
+    []
+  products:
+    - "Claude"
+    - "Claude Code"
+    - "Cursor"
+    - "Shortcuts"
+    - "Make"
+    - "Opus"
+  models:
+    - "Opus 4.5"
+concepts:
+  []
+summary:
+  - "# The Skill That Separates AI Power Users From Everyone Else (Why 
+
+Cursor CEO Michael Trule let GPT 5"
 ---
 
 # The Skill That Separates AI Power Users From Everyone Else (Why 

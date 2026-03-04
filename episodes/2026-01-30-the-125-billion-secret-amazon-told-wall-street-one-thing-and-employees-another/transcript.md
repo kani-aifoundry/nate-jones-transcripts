@@ -11,19 +11,32 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "News Roundup"
+primary_topic: "AI Strategy"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Google"
+    - "Meta"
+    - "Microsoft"
+    - "Amazon"
+    - "AWS"
+    - "Azure"
+  people:
+    []
+  products:
+    - "Make"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another"
 ---
 
 # the $125 Billion Secret: Amazon Told Wall Street One Thing and Employees Another. Here's the Truth.

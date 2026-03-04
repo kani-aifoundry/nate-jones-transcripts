@@ -26,6 +26,11 @@ keywords:
   - "stripe"
 
 # AI-enriched metadata
+  - "Executives"
+
+
+
+# AI-enriched metadata
 content_type: "Deep Dive"
 primary_topic: "AI News"
 difficulty: "Intermediate"

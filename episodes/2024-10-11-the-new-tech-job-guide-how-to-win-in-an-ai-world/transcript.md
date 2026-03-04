@@ -32,6 +32,14 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
+
+# AI-enriched metadata
 content_type: "Tutorial"
 primary_topic: "Career"
 difficulty: "Intermediate"

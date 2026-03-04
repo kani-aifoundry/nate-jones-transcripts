@@ -11,19 +11,40 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Advanced"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Amazon"
+    - "Box"
+    - "Cursor"
+    - "X"
+  people:
+    []
+  products:
+    - "GPT-5"
+    - "Claude"
+    - "Claude Code"
+    - "Cursor"
+    - "Make"
+  models:
+    - "GPT-5"
+    - "Flux"
+concepts:
+  - "That our organizations need to shift because people need to be free to go from an idea, to a rough version, to showing it, to asking forgiveness when needed"
+summary:
+  - "# THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It)
+
+The one constant right now is chaos"
 ---
 
 # THIS is Why You're Still Slow Even With AI (The Bottleneck Moved--Here's What to Do About It)

@@ -11,19 +11,34 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Framework"
+primary_topic: "AI Agents"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Product Managers"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Google"
+    - "Cursor"
+    - "LinkedIn"
+    - "X"
+  people:
+    []
+  products:
+    - "Cursor"
+    - "Make"
+    - "Projects"
+  models:
+    []
+concepts:
+  []
+summary:
+  - "# Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work
+
+The pitch for multi-agent systems is seductive but wrong"
 ---
 
 # Google Just Proved More Agents Can Make Things WORSE -- Here's What Actually Does Work

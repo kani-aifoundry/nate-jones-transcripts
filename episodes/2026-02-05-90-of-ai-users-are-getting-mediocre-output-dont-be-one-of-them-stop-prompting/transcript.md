@@ -11,19 +11,42 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "Prompting"
+difficulty: "Intermediate"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Anthropic"
+    - "Google"
+    - "Stripe"
+    - "YouTube"
+    - "Figma"
+  people:
+    []
+  products:
+    - "ChatGPT"
+    - "Claude"
+    - "Claude Code"
+    - "Gemini"
+    - "Make"
+    - "MCP"
+    - "Model Context Protocol"
+    - "Projects"
+  models:
+    - "Gemini"
+concepts:
+  - "If you don't want to create a custom style, you should be picking a style that reflects how you actually behave"
+summary:
+  - "Don't Be One of Them (Stop Prompting, Do THIS Instead)
+
+I'm gonna let you in on a secret"
 ---
 
 # 90% of AI Users Are Getting Mediocre Output. Don't Be One of Them (Stop Prompting, Do THIS Instead)

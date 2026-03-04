@@ -26,6 +26,11 @@ keywords:
   - "prompting"
 
 # AI-enriched metadata
+  - "General"
+
+
+
+# AI-enriched metadata
 content_type: "Framework"
 primary_topic: "Career"
 difficulty: "Intermediate"

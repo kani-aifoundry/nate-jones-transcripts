@@ -11,19 +11,32 @@ author: "Nate Jones"
 yt_tags:
   []
 
-# AI-generated fields (to be enriched later)
-content_type: null
-primary_topic: null
-audience: []
-difficulty: null
+
+# AI-enriched metadata
+content_type: "Tutorial"
+primary_topic: "AI Strategy"
+difficulty: "Beginner"
+audience:
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
 entities:
-  companies: []
-  people: []
-  products: []
-  models: []
-concepts: []
-chapters: []
-summary: []
+  companies:
+    - "Adobe"
+    - "YouTube"
+    - "Figma"
+  people:
+    []
+  products:
+    - "Make"
+    - "Canvas"
+  models:
+    []
+concepts:
+  []
+summary:
+  []
 ---
 
 # Capturing Megatrends: Building a Long-Term Product Strategy with Figma

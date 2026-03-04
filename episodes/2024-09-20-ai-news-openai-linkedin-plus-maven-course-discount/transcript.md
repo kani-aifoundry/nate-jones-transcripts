@@ -26,6 +26,11 @@ keywords:
   - "tutorials"
 
 # AI-enriched metadata
+  - "Engineers"
+
+
+
+# AI-enriched metadata
 content_type: "News Roundup"
 primary_topic: "AI News"
 difficulty: "Intermediate"
