@@ -11,6 +11,11 @@ author: "Nate Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"

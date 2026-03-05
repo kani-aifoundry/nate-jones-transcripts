@@ -38,6 +38,10 @@ keywords:
   - "Engineers"
   - "Product Managers"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
 
 
 # AI-enriched metadata

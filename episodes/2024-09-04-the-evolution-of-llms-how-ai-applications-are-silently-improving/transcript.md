@@ -11,6 +11,12 @@ author: "Nate Jones"
 yt_tags:
   []
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"
