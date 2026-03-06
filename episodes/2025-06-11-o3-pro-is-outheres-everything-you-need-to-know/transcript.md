@@ -47,6 +47,11 @@ keywords:
   - "Executives"
   - "Founders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
 
 
 # AI-enriched metadata

@@ -27,6 +27,12 @@ yt_tags:
   - "AI lock-in"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
