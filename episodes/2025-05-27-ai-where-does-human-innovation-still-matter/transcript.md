@@ -45,6 +45,11 @@ keywords:
   - "Product Managers"
   - "Founders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
 
 
 # AI-enriched metadata
