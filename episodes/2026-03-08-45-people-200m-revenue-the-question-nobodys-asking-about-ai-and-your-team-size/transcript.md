@@ -29,6 +29,13 @@ yt_tags:
   - "hiring in AI"
   - "AI force multiplier"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

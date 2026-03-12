@@ -29,6 +29,12 @@ yt_tags:
   - "emergent safety properties"
   - "goal specification AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
