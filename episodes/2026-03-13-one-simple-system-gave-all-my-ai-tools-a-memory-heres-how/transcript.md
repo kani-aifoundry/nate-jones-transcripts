@@ -27,6 +27,11 @@ yt_tags:
   - "AI tools"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

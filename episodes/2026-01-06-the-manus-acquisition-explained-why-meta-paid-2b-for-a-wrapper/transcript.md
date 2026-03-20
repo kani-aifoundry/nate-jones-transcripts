@@ -69,6 +69,11 @@ yt_tags:
   - "Executives"
   - "Founders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Founders"
+
 
 
 # AI-enriched metadata
