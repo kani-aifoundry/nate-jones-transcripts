@@ -29,6 +29,13 @@ yt_tags:
   - "production database"
   - "long-running agents"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

@@ -60,6 +60,14 @@ keywords:
   - "Engineers"
   - "Executives"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
 
 
 # AI-enriched metadata
