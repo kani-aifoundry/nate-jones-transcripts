@@ -29,6 +29,13 @@ yt_tags:
   - "delegating AI trust"
   - "agent sovereignty"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
