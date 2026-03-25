@@ -29,6 +29,12 @@ yt_tags:
   - "AI strategy for teams"
   - "AI agents for developers"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
