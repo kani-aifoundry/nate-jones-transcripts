@@ -68,6 +68,9 @@ keywords:
 # AI-enriched metadata
   - "Founders"
 
+# AI-enriched metadata
+  - "Founders"
+
 
 
 # AI-enriched metadata
