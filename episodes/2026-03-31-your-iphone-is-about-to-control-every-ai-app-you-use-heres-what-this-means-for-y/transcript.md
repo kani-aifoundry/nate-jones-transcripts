@@ -29,6 +29,12 @@ yt_tags:
   - "AI on mobile"
   - "upskilling with AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

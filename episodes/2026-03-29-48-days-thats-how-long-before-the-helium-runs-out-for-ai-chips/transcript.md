@@ -31,6 +31,12 @@ yt_tags:
   - "iran"
   - "hormuz"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

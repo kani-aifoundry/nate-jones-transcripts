@@ -4,9 +4,9 @@ Transcript archive of [Nate Jones](https://www.youtube.com/@NateBJones) YouTube 
 
 ## Stats
 
-- **Videos Downloaded**: 501
+- **Videos Downloaded**: 505
 - **Date Range**: .DS_Store - unknown-_v
-- **Last Updated**: Mar 27, 2026
+- **Last Updated**: Mar 31, 2026
 
 ## Structure
 
