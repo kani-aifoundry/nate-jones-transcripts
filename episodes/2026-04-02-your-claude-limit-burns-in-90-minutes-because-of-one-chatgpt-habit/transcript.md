@@ -29,6 +29,12 @@ yt_tags:
   - "tokens"
   - "chatgpt"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
