@@ -105,6 +105,12 @@ yt_tags:
   - "Product Managers"
   - "Founders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
 
 
 # AI-enriched metadata
