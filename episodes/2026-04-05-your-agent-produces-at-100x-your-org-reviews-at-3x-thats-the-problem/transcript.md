@@ -29,6 +29,12 @@ yt_tags:
   - "AI agent mistakes"
   - "sustained AI speed"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

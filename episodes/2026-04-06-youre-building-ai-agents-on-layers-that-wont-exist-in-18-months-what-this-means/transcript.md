@@ -29,6 +29,13 @@ yt_tags:
   - "agent sprawl"
   - "automation at work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
