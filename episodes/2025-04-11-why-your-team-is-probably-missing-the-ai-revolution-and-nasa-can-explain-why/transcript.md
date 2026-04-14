@@ -94,6 +94,9 @@ keywords:
 # AI-enriched metadata
   - "Product Managers"
 
+# AI-enriched metadata
+  - "Product Managers"
+
 
 
 # AI-enriched metadata

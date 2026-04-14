@@ -29,6 +29,12 @@ yt_tags:
   - "AI jobs"
   - "enterprise AI strategy"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
