@@ -26,6 +26,13 @@ yt_tags:
   - "career guidance"
   - "ai tools"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
