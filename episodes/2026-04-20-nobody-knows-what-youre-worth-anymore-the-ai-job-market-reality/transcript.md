@@ -31,6 +31,12 @@ yt_tags:
   - "how to find a job"
   - "how to get a job"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
