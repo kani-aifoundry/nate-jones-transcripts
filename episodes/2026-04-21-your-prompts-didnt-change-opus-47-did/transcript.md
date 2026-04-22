@@ -31,6 +31,13 @@ yt_tags:
   - "anthropic"
   - "claude skills"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
