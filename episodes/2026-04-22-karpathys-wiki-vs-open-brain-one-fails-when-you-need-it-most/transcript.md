@@ -29,6 +29,12 @@ yt_tags:
   - "artificial intelligence"
   - "obsidian second brain"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"
