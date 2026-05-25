@@ -34,6 +34,12 @@ yt_tags:
   - "AI procurement for operators"
   - "enterprise AI strategy"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

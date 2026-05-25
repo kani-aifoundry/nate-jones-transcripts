@@ -31,6 +31,12 @@ yt_tags:
   - "stripe payments"
   - "ai tools"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

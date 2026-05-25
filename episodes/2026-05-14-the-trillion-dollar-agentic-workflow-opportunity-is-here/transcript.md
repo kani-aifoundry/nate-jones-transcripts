@@ -33,6 +33,13 @@ yt_tags:
   - "AI agents for enterprise"
   - "AI strategy for builders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

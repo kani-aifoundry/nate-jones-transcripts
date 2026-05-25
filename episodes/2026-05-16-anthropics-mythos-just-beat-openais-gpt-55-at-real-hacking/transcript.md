@@ -37,6 +37,12 @@ yt_tags:
   - "gpt 5.5"
   - "claude mythos"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"

@@ -33,6 +33,12 @@ yt_tags:
   - "AI for executives"
   - "digital transformation"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

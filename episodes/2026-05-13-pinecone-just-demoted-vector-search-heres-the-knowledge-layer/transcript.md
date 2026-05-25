@@ -35,6 +35,12 @@ yt_tags:
   - "vector"
   - "vector database"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

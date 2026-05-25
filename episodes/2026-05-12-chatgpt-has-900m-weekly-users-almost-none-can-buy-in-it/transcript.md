@@ -33,6 +33,12 @@ yt_tags:
   - "agentic ai"
   - "ai for business"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

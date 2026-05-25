@@ -32,6 +32,12 @@ yt_tags:
   - "repeatable workflows"
   - "agent deployment"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"

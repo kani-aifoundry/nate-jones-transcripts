@@ -31,6 +31,11 @@ yt_tags:
   - "AI for lawyers"
   - "AI strategy for teams"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

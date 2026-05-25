@@ -32,6 +32,12 @@ yt_tags:
   - "futuretools"
   - "future tools"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

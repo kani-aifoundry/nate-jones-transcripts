@@ -28,6 +28,12 @@ yt_tags:
   - "agentic ai"
   - "nate b jones ai"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"

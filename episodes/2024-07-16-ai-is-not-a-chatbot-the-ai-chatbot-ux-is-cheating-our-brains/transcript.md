@@ -198,6 +198,11 @@ keywords:
   - "Executives"
   - "Product Managers"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
 
 
 # AI-enriched metadata

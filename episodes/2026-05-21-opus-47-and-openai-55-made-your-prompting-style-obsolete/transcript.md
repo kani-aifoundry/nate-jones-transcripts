@@ -33,6 +33,12 @@ yt_tags:
   - "prompting AI agents"
   - "LLMs for managers"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"

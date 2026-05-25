@@ -29,6 +29,13 @@ yt_tags:
   - "multimodal AI"
   - "specification driven design"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

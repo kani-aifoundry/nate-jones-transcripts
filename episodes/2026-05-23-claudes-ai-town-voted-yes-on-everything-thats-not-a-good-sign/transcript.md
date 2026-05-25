@@ -34,6 +34,11 @@ yt_tags:
   - "chat gpt"
   - "ai agents"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

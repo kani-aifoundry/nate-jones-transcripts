@@ -34,6 +34,13 @@ yt_tags:
   - "marketing"
   - "marketing strategies"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Opinion"

@@ -31,6 +31,13 @@ yt_tags:
   - "ai automation"
   - "ai agent"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
