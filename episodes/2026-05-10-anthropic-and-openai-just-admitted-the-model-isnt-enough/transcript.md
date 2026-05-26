@@ -29,6 +29,13 @@ yt_tags:
   - "AI procurement"
   - "ai agents explained"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"

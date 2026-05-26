@@ -33,6 +33,12 @@ yt_tags:
   - "AI capacity planning"
   - "microsoft"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"
