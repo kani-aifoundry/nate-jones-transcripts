@@ -147,6 +147,10 @@ yt_tags:
   - "Executives"
   - "Product Managers"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Product Managers"
+
 
 
 # AI-enriched metadata
