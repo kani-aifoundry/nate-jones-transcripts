@@ -27,6 +27,12 @@ yt_tags:
   - "Salesforce Agentforce"
   - "Cursor agent"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
