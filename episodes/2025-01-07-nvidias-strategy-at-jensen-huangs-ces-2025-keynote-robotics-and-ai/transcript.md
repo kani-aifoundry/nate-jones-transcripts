@@ -144,6 +144,9 @@ keywords:
 # AI-enriched metadata
   - "Executives"
 
+# AI-enriched metadata
+  - "Executives"
+
 
 
 # AI-enriched metadata

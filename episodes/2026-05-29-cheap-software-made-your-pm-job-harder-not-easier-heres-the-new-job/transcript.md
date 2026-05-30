@@ -29,6 +29,12 @@ yt_tags:
   - "ai agents"
   - "product manager job"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
