@@ -31,6 +31,10 @@ yt_tags:
   - "AI workflow for developers"
   - "local file AI workflows"
 
+# AI-enriched metadata
+  - "Engineers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
