@@ -32,6 +32,12 @@ yt_tags:
   - "career"
   - "future of work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

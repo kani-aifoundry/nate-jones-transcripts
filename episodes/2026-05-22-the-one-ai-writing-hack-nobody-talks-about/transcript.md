@@ -59,6 +59,10 @@ yt_tags:
   - "Engineers"
   - "Executives"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+
 
 
 # AI-enriched metadata
