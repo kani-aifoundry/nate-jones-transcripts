@@ -36,6 +36,13 @@ yt_tags:
   - "claude opus 4.8"
   - "claude ai"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
