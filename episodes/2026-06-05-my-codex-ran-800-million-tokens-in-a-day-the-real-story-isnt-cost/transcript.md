@@ -32,6 +32,12 @@ yt_tags:
   - "ai token cost"
   - "dashboard with ai"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
