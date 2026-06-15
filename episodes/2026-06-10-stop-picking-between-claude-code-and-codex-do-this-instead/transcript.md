@@ -33,6 +33,11 @@ yt_tags:
   - "claude"
   - "ai agents"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
