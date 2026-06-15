@@ -35,6 +35,13 @@ yt_tags:
   - "layoffs"
   - "future of work"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Tutorial"
