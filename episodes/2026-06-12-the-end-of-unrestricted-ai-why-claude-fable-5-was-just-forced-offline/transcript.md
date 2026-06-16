@@ -32,6 +32,12 @@ yt_tags:
   - "frontier AI governance"
   - "national security AI"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"
