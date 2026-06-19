@@ -222,6 +222,10 @@ keywords:
   - "Executives"
   - "Founders"
 
+# AI-enriched metadata
+  - "Executives"
+  - "Founders"
+
 
 
 # AI-enriched metadata

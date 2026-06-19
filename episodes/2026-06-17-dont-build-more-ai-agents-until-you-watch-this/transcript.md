@@ -40,6 +40,12 @@ yt_tags:
   - "ai"
   - "agentic ai"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
