@@ -35,6 +35,13 @@ yt_tags:
   - "ai skills"
   - "ai agents tutorial"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
