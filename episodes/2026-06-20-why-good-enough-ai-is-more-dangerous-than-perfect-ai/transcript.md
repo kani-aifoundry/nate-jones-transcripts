@@ -32,6 +32,10 @@ yt_tags:
   - "ai voice cloner"
   - "ai tools"
 
+# AI-enriched metadata
+  - "Product Managers"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"
