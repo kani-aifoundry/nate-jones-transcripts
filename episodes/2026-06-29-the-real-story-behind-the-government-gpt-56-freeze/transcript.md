@@ -31,6 +31,12 @@ yt_tags:
   - "AI for work"
   - "enterprise AI adoption"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Deep Dive"

@@ -33,6 +33,13 @@ yt_tags:
   - "open source AI for business"
   - "cheap AI last mile"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "Framework"

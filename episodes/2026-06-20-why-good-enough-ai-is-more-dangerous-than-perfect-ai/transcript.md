@@ -38,6 +38,9 @@ yt_tags:
 # AI-enriched metadata
   - "Product Managers"
 
+# AI-enriched metadata
+  - "Product Managers"
+
 
 
 # AI-enriched metadata

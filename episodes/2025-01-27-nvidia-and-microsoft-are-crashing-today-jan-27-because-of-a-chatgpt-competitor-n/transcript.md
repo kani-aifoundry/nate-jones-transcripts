@@ -240,6 +240,10 @@ keywords:
   - "Engineers"
   - "Founders"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Founders"
+
 
 
 # AI-enriched metadata

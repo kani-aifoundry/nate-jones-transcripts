@@ -234,6 +234,10 @@ keywords:
   - "Product Managers"
   - "Founders"
 
+# AI-enriched metadata
+  - "Product Managers"
+  - "Founders"
+
 
 
 # AI-enriched metadata

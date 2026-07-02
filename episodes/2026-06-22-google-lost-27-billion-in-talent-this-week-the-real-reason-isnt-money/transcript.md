@@ -32,6 +32,13 @@ yt_tags:
   - "AI model race 2026"
   - "future of AI medical imaging"
 
+# AI-enriched metadata
+  - "Engineers"
+  - "Executives"
+  - "Product Managers"
+  - "Founders"
+
+
 
 # AI-enriched metadata
 content_type: "News Roundup"
